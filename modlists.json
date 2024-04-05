@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "My Modlist",
-    "description": "Best thing since sliced bread",
+    "title": "Fantastically Integrated Load-order For You",
+    "description": "This is a modlist made with the contributions of many different authors, all via The Method.",
     "author": "AllstaRawR",
     "maintainers": [
       "github/AllstaRawR"
