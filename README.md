@@ -18,6 +18,6 @@ Czasior for explaining the oddities of FOMODs,
 Monops for doing the same as Czasior, to the point that I keep confusing you two in my head,
 Clearing for their contribution to automating FOMODs,
 Alaxouche for being my punching bag,
-ChickenMike for all of the C.R.A.P.﻿
+ChickenMike for all of the C.R.A.P.﻿,
 Angie ﻿for asking me to make various mods multiple times,
 Blackread﻿ for being a wonderful support and pointing out my errors.
