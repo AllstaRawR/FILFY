@@ -1,5 +1,7 @@
 # FILFY
-NOTE: The list itself is now out, but I have absolutely no clue how many bugs we will find due to Wabbajack. Please try it and add any issues into the Bug Tracker. Thank you!
+The list itself is now out, but consider it in a beta state. It will work, and your saves shouldn't break as long as the version number starts with a 1.X.X. That said, future updates might break saves as I finish migrating to SkyPatcher. Once I am fully migrated to SkyPatcher, I will update to version 2.0+ if it does in fact break saves. You can see my current to-do list at the bottom and find any known issues inside of the Bug Tracker.
+
+If you would like to see the general contents of the list, it is available at Load Order Library for quick viewing without downloading: [https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you](Load Order Library)
 
 ●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●
 
