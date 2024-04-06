@@ -1,16 +1,7 @@
 # FILFY
 The list itself is now out, but consider it in a beta state. It will work, and your saves shouldn't break as long as the version number starts with a 1.X.X. That said, future updates might break saves as I finish migrating to SkyPatcher. Once I am fully migrated to SkyPatcher, I will update to version 2.0+ if it does in fact break saves. You can see my current to-do list at the bottom and find any known issues inside of the Bug Tracker.
 
-If you would like to see the general contents of the list, it is available at Load Order Library for quick viewing without downloading: [https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you](Load Order Library)
-
-●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●
-
-To-do List:
-Publish the list.
-Re-clean all plugins for safety (should be cleaned already).
-Covert remaining LLs to SkyPatcher to remove 200-400 plugins.
-Update conflict resolution patches for new SkyPatcher situation.
-Update DIALs per Elminster.
+If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
 ●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●・○・●
 
