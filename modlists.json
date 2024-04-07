@@ -27,7 +27,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1711905865-926891444.png",
       "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Fantastically%20Integrated%20Load-order%20For%20You.wabbajack_2d736b65-0a72-4355-b3bc-d26854a32dd7",
+      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_b73b6253-2273-4b05-9e0c-fe7317af6858",
       "machineURL": "FILFY",
       "discordURL": "https://discord.gg/zft8DmbfKv"
     },
@@ -40,6 +40,6 @@
       "NumberOfInstalledFiles": 631595,
       "SizeOfInstalledFiles": 351706565329
     },
-    "version": "1.0.1"
+    "version": "1.0.4"
   }
 ]
