@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Fantastically Integrated Load-order For You",
-    "description": "This is a modlist made with the contributions of many different authors, all via The Method. The goal is a fully integrated, balanced, cohesive experience; all while adding an enormous amount of content in a fully modular method.",
+    "title": "FILFY",
+    "description": "Fantastically Integrated Load-order For You is a modlist made with the contributions of many different authors, all via The Method. The goal is a fully integrated, balanced, cohesive experience; all while adding an enormous amount of content in a fully modular method.",
     "author": "AllstaRawR",
     "maintainers": [
       "github/AllstaRawR"
