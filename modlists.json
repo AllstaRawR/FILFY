@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FILFY",
     "description": "Fantastically Integrated Load-order For You is a modlist made with the contributions of many different authors, all via The Method. The goal is a fully integrated, balanced, cohesive experience; all while adding an enormous amount of content in a fully modular method.",
     "author": "AllstaRawR",
@@ -8,6 +7,7 @@
       "github/AllstaRawR"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Unofficial",
       "Anniversary Edition",
@@ -21,25 +21,28 @@
       "Seasons"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1711905865-926891444.png",
       "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_b73b6253-2273-4b05-9e0c-fe7317af6858",
+      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_f0b28646-8f7b-474a-b1e2-875c2e14e136",
       "machineURL": "FILFY",
       "discordURL": "https://discord.gg/zft8DmbfKv"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "DyxMVzmDLIg=",
-      "Size":1907181740,
-      "NumberOfArchives": 2821,
-      "SizeOfArchives": 177122048969,
-      "NumberOfInstalledFiles": 631930,
-      "SizeOfInstalledFiles": 372000552796
+      "Hash": "nr7lG67h6T0=",
+      "Size": 1940010587,
+      "NumberOfArchives": 2822,
+      "SizeOfArchives": 177114220628,
+      "NumberOfInstalledFiles": 616221,
+      "SizeOfInstalledFiles": 371907740595
     },
-    "version": "1.0.4"
+    "version": "1.0.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-04-07T20:13:50.3181042Z",
+    "repositoryName": ""
   }
 ]
