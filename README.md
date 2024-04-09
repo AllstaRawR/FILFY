@@ -10,6 +10,8 @@
 
 ---
 
+### You can skip to any desired section with the table of contents below. If you have questions not answer in the Common Issues, please ask in our [Disord Server](https://discord.gg/ag6FSESCK6).
+
 | TABLE OF CONTENTS |
 | ----------- |
 | 1. [Wabbajack Installation](#wabbajack-installation-guide) |
