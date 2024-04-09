@@ -19,9 +19,10 @@
 | 2. [FILFY Quick Start](#filfy-launch-guide) |
 | 3. [Gameplay](#gameplay) |
 | 4. [Shortcut Keys](#shortcut-keys) |
-| 5. [Common Issues](#common-issues) |
-| 6. [To-Do List](#to-do-list) |
-| 7. [Credits](#credits) |
+| 5. [Bundled Tools](#bundled-tools) |
+| 6. [Common Issues](#common-issues) |
+| 7. [To-Do List](#to-do-list) |
+| 8. [Credits](#credits) |
 
 ---
 
@@ -104,10 +105,19 @@ I absolutely hate running out of stamina while sprinting when I'm not even in co
 ### SHORTCUT KEYS
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
-1. A
-2. B
-3. C
+1. Wow
+2. So
+3. Empty
    
+---
+
+### BUNDLED TOOLS
+###### The various tools included with the Wabbajack, as well as a basic explaination of how to use them.
+
+* Maybe
+* Something
+* Here
+
 ---
 
 ### COMMON ISSUES
