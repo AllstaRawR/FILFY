@@ -113,11 +113,23 @@ I absolutely hate running out of stamina while sprinting when I'm not even in co
 ---
 
 ### BUNDLED TOOLS
-###### The various tools included with the Wabbajack, as well as a basic explaination of how to use them.
+###### The various tools included with the Wabbajack, as well as a basic explaination of their use case.
 
+* Creation Kit (with Creation Kit Platform Extended)
+  * This is what Bethesda gave us to make mods, but better!
 * SSEEdit
+  * This is your go-to tool to see what might be going on inside of the plugins.
 * BodySlide
+  * This is to generate all of your hawt armor mod bodyslide files.
+  * This modpack features oBody, so you will need to ensure that you use the HIMBO or 3BA `Zeroed Presets` when generating BodySlide files, as well as ensure that you build morphs.
 * Nemesis
+  * This is the current go-to animation generation tool. I would like to switch to Pandora, but it currently has caching issues.
+* Beth INI
+  * This can be run to adjust your INIs as desired for optimal quality and performance.
+* Cathedral Assets Optimizer
+  * This can be run to correct texture, mesh, and animation errors.
+*  Others?!
+  * There are more included but hidden inside of the launcher. This is because I did not bundle their install files. If you would like to add some of them back, feel free. Examples include zEdit, Wrye Bash, and 
 
 ---
 
