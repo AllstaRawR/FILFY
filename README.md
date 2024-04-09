@@ -61,6 +61,7 @@
 ---
 
 ### FILFY LAUNCH GUIDE
+###### This is a guide on how to actually play the game, once you finished with all Wabbajack setup.
 
 1. Now that you have launched Mod Organizer 2, you can click the `Run` button under the launch option of `Skyrim (SKSE)`, as shown below.
    
@@ -78,18 +79,19 @@
 --- 
 
 ### GAMEPLAY
+###### This is an explaination of all core gameplay altering modifications and adjustments.
 
 #### Immersive Adjustments
 
-1. Will
-2. Add
-3. Shortly
+* Will
+* Add
+* Shortly
 
 #### Non-Immersive Adjustments
 
-1. Will
-2. Add
-3. Shortly
+* Will
+* Add
+* Shortly
 
 #### "Cheating" Adjustments
 
@@ -100,9 +102,12 @@ I absolutely hate running out of stamina while sprinting when I'm not even in co
 ---
 
 ### SHORTCUT KEYS
+###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
-In progress. I will add a list of all shortcut keys for tools/actions below.
-
+1. A
+2. B
+3. C
+   
 ---
 
 ### COMMON ISSUES
@@ -115,6 +120,7 @@ In progress. I will add a list of all shortcut keys for tools/actions below.
 ---
 
 ### TO DO LIST
+###### The never-ending list of things to fix, then to improve.
 
 #### IMMEDIATE
 - [x] Publish the list
@@ -122,7 +128,7 @@ In progress. I will add a list of all shortcut keys for tools/actions below.
 - [x] Integrate the SKSE INIs
 - [x] Set up MenuMaid and MCM Recorder
 - [x] Integrate the non-Patreon Skyrim Upscaler
-- [ ] Update the GitHub ReadMe
+- [x] Update the GitHub ReadMe
 - [x] Re-clean all plugins for safety (should be cleaned already)
 - [x] Migrate all Modgroups to a subfolder to prevent accidental usage
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
@@ -145,6 +151,7 @@ In progress. I will add a list of all shortcut keys for tools/actions below.
 ---
 
 ### Credits
+###### All of the people that I could not have done it without.
 - [RobertGK](https://www.nexusmods.com/skyrimspecialedition/users/5544506?tab=user+files&BH=1) for their endless support,
 - [ElminsterAU](https://www.nexusmods.com/skyrimspecialedition/users/167469?tab=user+files&BH=1) for their patience with my many edge case issues caused by my load orders size,
 - [EllieBot](https://www.nexusmods.com/skyrimspecialedition/users/98998968?tab=user+files&BH=1) for their positive attitude when Rob was being too intense,
@@ -160,4 +167,5 @@ In progress. I will add a list of all shortcut keys for tools/actions below.
 - [ChickenMike](https://www.nexusmods.com/skyrimspecialedition/users/70500678?tab=user+files&BH=1) for all of the [C.R.A.P.](https://www.nexusmods.com/skyrimspecialedition/mods/106790)﻿,
 - [MonkeyAngie](https://www.nexusmods.com/skyrimspecialedition/users/8184125?tab=user+files&BH=1) ﻿for asking me to make various mods multiple times,
 - [Blackread](https://www.nexusmods.com/skyrimspecialedition/users/78985?tab=user+files&BH=1)﻿ for being a wonderful support and pointing out my errors,
-- [Lizzy](https://www.wildlandermod.com/) for being nice and providing lovely Wabbajack advice.
+- [Lizzy](https://www.wildlandermod.com/) for being nice and providing lovely Wabbajack advice,
+- [Komegaki](https://www.nexusmods.com/skyrimspecialedition/users/80113953?tab=user+files?tab=user+files&BH=1) for your motivation and support, as well as graphical wizardry.
