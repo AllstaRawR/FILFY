@@ -6,21 +6,37 @@
 | ![Recommended CPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/CPU-Purple.svg "CPU-Purple") &nbsp; Intel Core i7-9700K | ![Required CPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/CPU-White.svg "CPU-White") &nbsp; Intel Core i3-8100 |
 | ![Recommended GPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/GPU-Purple.svg "GPU-Purple") &nbsp; GeForce GTX 1080Ti | ![Required GPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/GPU-White.svg "GPU-White") &nbsp; GeForce GTX 660 |
 | ![Recommended RAM - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/RAM-Purple.svg "RAM-Purple") &nbsp; 32GB | ![Required RAM - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/RAM-White.svg "RAM-White") &nbsp; 8GB |
+| ![Recommended Storage - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/RAM-Purple.svg "RAM-Purple") &nbsp; 1TB NVME | ![Required Storage - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/RAM-White.svg "RAM-White") &nbsp; 600GB HDD |
 
 ---
 
+### Wabbajack Installation Guide
+###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640 It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing).
+* Install a copy of Skyrim via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh.
+* Launch Skyrim to download all of the AE content from the Main Menu.
+    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions.
+*  Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are below.
+*  Launch the Wabbajack executable and select FILFY in the Gallery. You will have to select "Show Unofficial Lists". You can then select the directory for `{modlist-contents}` that you made in the step above. Click the `Play` button.
+*  If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and proceed to the FILFY Launch Guide below.
+  
+| Good | Bad |
+| ----------- | ----------- |
+| `D:\Wabbajack\Wabbajack.exe` | `C:\Wabbajack.exe` |
+| `C:\Wabbajack\Wabbajack.exe` | `C:\Windows\Wabbajack.exe` |
+| `D:\Wabbajack\FILFY\{modlist-contents}` | `C:\Windows\FILFY\{modlist-contents}` |
+| `C:\FILFY\{modlist-contents}` | `C:\{modlist-contents}` |
+
+---
+
+### FILFY Launch Quide
+* In Progress...
+
+--- 
+
 ### Common Issues (Read this *before* you make a bug report)
-
-1. Rare Curios Hates Me
-2. I hate me.
-
-
-
-
-
-
-
-
+* Rare Curios
+* Non-System Non-Root folder
+* In Progress...
 
 ---
 
