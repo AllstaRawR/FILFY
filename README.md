@@ -12,8 +12,13 @@
 
 | TABLE OF CONTENTS |
 | ----------- |
-| [WABBAJACK INSTALLATION GUIDE](#wabbajack-installation-guide) |
-| [FILFY LAUNCH GUIDE](#filfy-launch-guide) |
+| 1. [Wabbajack Installation](#wabbajack-installation-guide) |
+| 2. [FILFY Quick Start](#filfy-launch-guide) |
+| 3. [Gameplay](#gameplay) |
+| 4. [?](#?) |
+| 4. [Common Issues](#common-issues) |
+| 6. [To-Do List](#to-do-list) |
+| 7. [Credits](#credits) |
 
 ---
 
@@ -52,13 +57,17 @@
 ![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
 ![MO2-RegKeyFix](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-RegKeyFix.png "MO2-RegKeyFix")
 
-![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
-
 --- 
 
 ### GAMEPLAY
 
 There are cheats!
+
+![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
+
+---
+
+### ?
 
 ---
 
