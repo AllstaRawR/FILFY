@@ -66,14 +66,18 @@
    
     ![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
 
-3. You will likely recieve a pop-up like the one show below to adjust your registry. Please click yes, and this will then prompt `User Access Control` in Windows for confirmation. This is to account for `StockGame` functionality.
+3. You will likely recieve a pop-up like the one show below to adjust your registry. Please click yes, and this will then prompt `User Access Control` in Windows for confirmation for `Registry Console Tool` to make changes. This is to account for `StockGame` functionality.
    
     ![MO2-RegKeyFix](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-RegKeyFix.png "MO2-RegKeyFix")
 
-4. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take 1-2 minutes to fully load.
-5. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take 2-3 minutes to fully load.
-    * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take 2-3 minutes and slow your computer down, but only needs to be done once.
-6. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
+4. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **1-2 minutes** to fully load.
+
+    ![/SKSE-SplashScreen](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/SKSE-SplashScreenFixed.png "/SKSE-SplashScreen")
+5. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **2-3 minutes** to fully load.
+    * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **around 1 minute** and slow your computer down, but only needs to be done once.
+
+    ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
+7. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
 
 --- 
 
