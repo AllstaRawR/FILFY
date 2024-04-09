@@ -1,5 +1,5 @@
 # FILFY
-## Note: This ReadMe is actively under construction and will be significantly better shortly. Please join the discord if you have any questions or concerns until that point.
+### Note: This ReadMe is actively under construction and will be significantly better shortly. Please join the discord if you have any questions or concerns until that point.
 
 If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
