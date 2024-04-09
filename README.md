@@ -16,7 +16,7 @@
 | TABLE OF CONTENTS |
 | ----------- |
 | 1. [Wabbajack Installation](#wabbajack-installation-guide) |
-| 2. [FILFY Quick Start](#filfy-launch-guide) |
+| 2. [FILFY Installation](#filfy-installation-guide) |
 | 3. [Gameplay](#gameplay) |
 | 4. [Shortcut Keys](#shortcut-keys) |
 | 5. [Bundled Tools](#bundled-tools) |
@@ -46,36 +46,37 @@
 | `D:\Wabbajack\FILFY\{modlist-contents}` | `C:\Windows\FILFY\{modlist-contents}` |
 | `C:\FILFY\{modlist-contents}` | `C:\{modlist-contents}` |
 
-4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
+5. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
    
     ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
-6. Click `Browse` then select `Download Modlist` on FILFY in the Gallery to download. You will have to select `Show Unofficial Lists` for it to show up.
-   
-    ![WJ-BrowseToFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-BrowseToFILFY.png "WJ-BrowseToFILFY")
-8. Once the download has finished, press the small play button in the same location to download the Wabbajack install file.
-9. Select the directory for `{modlist-contents}` that you made above. Click the `Play` button.
-    
-    ![WJ-InstallFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-InstallFILFY.png "WJ-InstallFILFY")
-
-11. If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and proceed to the FILFY Launch Guide below.
 
 ---
 
-### FILFY LAUNCH GUIDE
-###### This is a guide on how to actually play the game, once you finished with all Wabbajack setup.
+### FILFY INSTALLATION GUIDE
+###### This is a guide on how to actually install and play the game, once you finished with all Wabbajack setup.
 
-1. Now that you have launched Mod Organizer 2, you can click the `Run` button under the launch option of `Skyrim (SKSE)`, as shown below.
+1. Click `Browse` in Wabbajack, then select `Download Modlist` on FILFY in the Gallery to download. You will have to select `Show Unofficial Lists` for it to show up.
+   
+    ![WJ-BrowseToFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-BrowseToFILFY.png "WJ-BrowseToFILFY")
+2. Once the download has finished, press the small play button in the same location to download the Wabbajack install file.
+3. Select the directory for `{modlist-contents}` that you made above. Click the `Play` button.
+    
+    ![WJ-InstallFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-InstallFILFY.png "WJ-InstallFILFY")
+
+4. If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and launch Mod Organizer 2.
+
+5. Click the `Run` button under the launch option of `Skyrim (SKSE)`, as shown below.
    
     ![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
 
-2. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **_1-2 minutes_** to fully load.
+6. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **_1-2 minutes_** to fully load.
 
     ![/SKSE-SplashScreen](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/SKSE-SplashScreenFixed.png "/SKSE-SplashScreen")
-3. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **_2-3 minutes_** to fully load.
+7. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **_2-3 minutes_** to fully load.
     * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **_around 1 minute_** and slow your computer down considerably, but only needs to be done once.
 
     ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
-4. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
+8. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
 
 --- 
 
