@@ -10,7 +10,8 @@
 
 ---
 
-You can skip to any desired section with the table of contents below. If you have questions not answered in the Common Issues section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
+### TABLE OF CONTENTS 
+###### You can skip to any desired section with the table of contents below. If you have questions not answered in the Common Issues section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
 
 | TABLE OF CONTENTS |
 | ----------- |
