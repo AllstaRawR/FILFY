@@ -88,7 +88,9 @@ In progress. I will add a list of all shortcut keys for tools/actions below.
 
 ---
 
-### COMMON ISSUES (Read this *before* you make a bug report)
+### COMMON ISSUES
+###### Read this *before* you make a bug report
+
 * Rare Curios
 * Non-System Non-Root folder
 * In Progress...
