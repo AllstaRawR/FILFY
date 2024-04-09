@@ -66,11 +66,11 @@
    
     ![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
 
-2. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **1-2 minutes** to fully load.
+2. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **_1-2 minutes_** to fully load.
 
     ![/SKSE-SplashScreen](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/SKSE-SplashScreenFixed.png "/SKSE-SplashScreen")
-3. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **2-3 minutes** to fully load.
-    * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **around 1 minute** and slow your computer down, but only needs to be done once.
+3. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **_2-3 minutes_** to fully load.
+    * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **_around 1 minute_** and slow your computer down considerably, but only needs to be done once.
 
     ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
 4. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
@@ -79,7 +79,21 @@
 
 ### GAMEPLAY
 
-I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are show below:
+#### Immersive Adjustments
+
+1. Will
+2. Add
+3. Shortly
+
+#### Non-Immersive Adjustments
+
+1. Will
+2. Add
+3. Shortly
+
+#### "Cheating" Adjustments
+
+I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are shown below:
 
 ![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
 
@@ -92,7 +106,7 @@ In progress. I will add a list of all shortcut keys for tools/actions below.
 ---
 
 ### COMMON ISSUES
-###### Read this *before* you make a bug report
+###### Read this *before* you make a bug report or GroundAura will answer you passive-aggressively.
 
 * Rare Curios
 * Non-System Non-Root folder
