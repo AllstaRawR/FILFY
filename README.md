@@ -1,7 +1,7 @@
-# Fantastically Integrated Load-order For You
+# FANTASTICALLY INTEGRATED LOAD-ORDER FOR YOU
 ###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
-| Recommended Specs | Required Specs |
+| RECOMMENDED SPECS | REQUIRED SPECS |
 | ----------- | ----------- |
 | ![Recommended CPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/CPU-Purple.svg "CPU-Purple") &nbsp; Intel Core i7-9700K | ![Required CPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/CPU-White.svg "CPU-White") &nbsp; Intel Core i3-8100 |
 | ![Recommended GPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/GPU-Purple.svg "GPU-Purple") &nbsp; GeForce GTX 1080Ti | ![Required GPU - ](https://raw.githubusercontent.com/AllstaRawR/FILFY/4bf878b223d43d99f5e74cdc01645cf986e50990/images/GPU-White.svg "GPU-White") &nbsp; GeForce GTX 660 |
@@ -10,39 +10,68 @@
 
 ---
 
-### Wabbajack Installation Guide
+| TABLE OF CONTENTS |
+| ----------- |
+| [WABBAJACK INSTALLATION GUIDE](#wabbajack-installation-guide) |
+| [FILFY LAUNCH GUIDE](#filfy-launch-guide) |
+
+---
+
+### WABBAJACK INSTALLATION GUIDE
 ###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640 It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing).
-* Install a copy of Skyrim via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh.
-* Launch Skyrim to download all of the AE content from the Main Menu.
-    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions.
-*  Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are below.
-*  Launch the Wabbajack executable and select FILFY in the Gallery. You will have to select "Show Unofficial Lists". You can then select the directory for `{modlist-contents}` that you made in the step above. Click the `Play` button.
-*  If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and proceed to the FILFY Launch Guide below.
-  
-| Good | Bad |
+1. Install a copy of Skyrim via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. Your `\Skyrim Special Edition` folder should look like this:
+    ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRoot.png "Windows-SkyrimRoot")
+2. Launch Skyrim to download all of the AE content from the Main Menu.
+    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 177 items and look like this:
+        ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimData.png "Windows-SkyrimData")
+3. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
+    ![Windows-EmptyFolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-EmptyFolderStructure.png "Windows-EmptyFolderStructure")
+
+| CORRECT FOLDER STRUCTURE | INCORRECT FOLDER STRUCTURE |
 | ----------- | ----------- |
 | `D:\Wabbajack\Wabbajack.exe` | `C:\Wabbajack.exe` |
 | `C:\Wabbajack\Wabbajack.exe` | `C:\Windows\Wabbajack.exe` |
 | `D:\Wabbajack\FILFY\{modlist-contents}` | `C:\Windows\FILFY\{modlist-contents}` |
 | `C:\FILFY\{modlist-contents}` | `C:\{modlist-contents}` |
 
+4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
+    ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
+5. Click `Browse` then select `Download Modlist` on FILFY in the Gallery to download. You will have to select `Show Unofficial Lists` for it to show up.
+    ![WJ-BrowseToFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-BrowseToFILFY.png "WJ-BrowseToFILFY")
+6. Once the download has finished, press the small play button in the same location to download the Wabbajack install file.
+7. Select the directory for `{modlist-contents}` that you made above. Click the `Play` button.
+    ![WJ-InstallFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-InstallFILFY.png "WJ-InstallFILFY")
+
+8. If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and proceed to the FILFY Launch Guide below.
+
 ---
 
-### FILFY Launch Quide
+### FILFY LAUNCH GUIDE
 * In Progress...
+
+![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
+![MO2-RegKeyFix](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-RegKeyFix.png "MO2-RegKeyFix")
+
+![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
 
 --- 
 
-### Common Issues (Read this *before* you make a bug report)
+### GAMEPLAY
+
+There are cheats!
+
+---
+
+### COMMON ISSUES (Read this *before* you make a bug report)
 * Rare Curios
 * Non-System Non-Root folder
 * In Progress...
 
 ---
 
-### To Do List
+### TO DO LIST
 
-#### Immediate
+#### IMMEDIATE
 - [x] Publish the list
 - [x] Integrate the Game INIs
 - [x] Integrate the SKSE INIs
@@ -52,11 +81,11 @@
 - [x] Re-clean all plugins for safety (should be cleaned already)
 - [x] Migrate all Modgroups to a subfolder to prevent accidental usage
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
-- [ ] Switch to SFCO3 to remove ~100 plugins
-- [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
 
-#### Improvements
+#### IMPROVEMENTS
+- [ ] Switch to SFCO3 to remove ~100 plugins
 - [ ] Balance Experience scaling
+- [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
 - [ ] Replace launch splash screen w/ an image that says something about the expected load times
 - [ ] Create an icon for the modlist to show in the taskbar
 - [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
