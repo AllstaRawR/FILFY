@@ -115,18 +115,20 @@ I absolutely hate running out of stamina while sprinting when I'm not even in co
 ### BUNDLED TOOLS
 ###### The various tools included with the Wabbajack, as well as a basic explaination of how to use them.
 
-* Maybe
-* Something
-* Here
+* SSEEdit
+* BodySlide
+* Nemesis
 
 ---
 
 ### COMMON ISSUES
 ###### Read this *before* you make a bug report or GroundAura will answer you passive-aggressively.
 
-* Rare Curios
-* Non-System Non-Root folder
-* In Progress...
+* Rare Curios: `Unable to Download Data_ccgssse037-curiosesl/bsa`
+  * Solution: Reopen Skyrim to download the AE content, then re-verify files via Steam.
+* Long Load Times
+  * Solution: Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this?
+* Report additional errors in the Discord or Nexus Bug Tracker and I'll post them here!
 
 ---
 
