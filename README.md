@@ -28,7 +28,7 @@
 ---
 
 ### FEATURE OVERVIEW
-####### This is a quick summary of key features added by this mod, with GIFs!
+###### This is a quick summary of key features added by this mod, with GIFs!
 
 * GRAPHICS ARE GOOD BUT RUN ON MOST THINGS
   * COMMUNITY SHADERS IS INCLUDED
