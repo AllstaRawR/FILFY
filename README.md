@@ -174,7 +174,8 @@
     * Home: dMenu
     * Backspace: Immersive Equipment Displays
     * End: Community Shaders
-    * O: oBody Assignments
+    * Delete: Open Animation Replacer
+    * O: oBody Menu
     * R: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
     * T: Dodge (must be unsheathed)
     * Y: Taunt
@@ -183,6 +184,7 @@
     * L: Toggle Lantern Light
     * ;: Teleport Followers
     * ': Swiftly Order Swad
+    * =: Animated Interactions Menu
     * F6: Toggle UI
     * F7: KreatE (Weather adjustment and more)
 * Vanilla Shortcuts
@@ -196,9 +198,6 @@
     * /: Skill Menu
     * ~: Console Commands
     * F12: Steam Screenshot
-* Need to Change ASAP
-    * N: Animated Interactions
-    * Shift + O: Open Animation Replacer
 
 ---
 
