@@ -169,35 +169,36 @@
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
 * Mod Added/Adjusted Shortcuts
-    * PageDown: Skyrim Upscaler
-    * PageUp: ReShade
-    * Home: dMenu
-    * Backspace: Immersive Equipment Displays
-    * End: Community Shaders
-    * Delete: Open Animation Replacer
-    * O: oBody Menu
-    * R: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
-    * T: Dodge (must be unsheathed)
-    * Y: Taunt
-    * U: Character Stat Menu
-    * H: Call Horse
-    * L: Toggle Lantern Light
-    * ;: Teleport Followers
-    * ': Swiftly Order Swad
-    * =: Animated Interactions Menu
-    * F6: Toggle UI
-    * F7: KreatE (Weather adjustment and more)
+    * `PageDown`: Skyrim Upscaler
+    * `PageUp`: ReShade
+    * `Home`: dMenu
+    * `Backspace`: Immersive Equipment Displays
+    * `End`: Community Shaders
+    * `Delete`: Open Animation Replacer
+    * `O`: oBody Menu
+    * `R`: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
+    * `T`: Dodge (must be unsheathed)
+    * `Y`: Taunt
+    * `U`: Character Stat Menu
+    * `H`: Call Horse
+    * `L`: Toggle Lantern Light
+    * `;`: Teleport Followers
+    * `'`: Swiftly Order Swad
+    * `=`: Animated Interactions Menu
+    * `F6`: Toggle UI
+    * `F7`: KreatE (Weather adjustment and more)
 * Vanilla Shortcuts
-    * Q: Favorites
-    * I: Inventory
-    * P: Spells
-    * F: First/Third Person Toggle
-    * J: Journal
-    * C: Auto-Run
-    * M: Map
-    * /: Skill Menu
-    * ~: Console Commands
-    * F12: Steam Screenshot
+    * `Tab` -> `T`: Waiting (you press the wait button, `T`, while inside of the `Tween Menu`)
+    * `Q`: Favorites
+    * `I`: Inventory
+    * `P`: Spells
+    * `F`: First/Third Person Toggle
+    * `J`: Journal
+    * `C`: Auto-Run
+    * `M`: Map
+    * `/`: Skill Menu
+    * `~`: Console Commands
+    * `F12`: Steam Screenshot
 
 ---
 
