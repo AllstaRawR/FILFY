@@ -245,7 +245,6 @@
 - [x] Integrate the non-Patreon Skyrim Upscaler
 - [x] Update the GitHub ReadMe
 - [x] Re-clean all plugins for safety (should be cleaned already)
-- [x] Migrate all Modgroups to a subfolder to prevent accidental usage
 - [x] Seperate out all "cheat" mods to their own section
 - [x] Resolve DLSS/FSR/XeSS issues
 - [ ] Add Upscaler swapping information to the ReadMe
@@ -253,9 +252,11 @@
 - [ ] Update Feature Overview in the ReadMe
 - [ ] Seperate out all "articstic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
+- [ ] Update all currently installed mods
 - [ ] Add GIFs to the ReadMe
 
 #### IMPROVEMENTS
+- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing them from the inlined Wabbajack files.
 - [ ] Switch to SFCO3 to remove ~100 plugins
 - [ ] Balance Experience scaling
 - [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
