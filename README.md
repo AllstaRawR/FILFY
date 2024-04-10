@@ -169,36 +169,36 @@
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
 * Mod Added/Adjusted Shortcuts
-    *  PageDown: Skyrim Upscaler
-    *  PageUp: ReShade
-    *  Home: dMenu
-    *  Backspace: Immersive Equipment Displays
-    *  End: Community Shaders
-    *  O: oBody Assignments
-    *  R: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
-    *  T: Dodge (must be unsheathed)
-    *  Y: Taunt
-    *  U: Character Stat Menu
-    *  H: Call Horse
-    *  L: Toggle Lantern Light
-    *  ;: Teleport Followers
-    *  ': Swiftly Order Swad
-    *  F6: Toggle UI
-    *  F7: KreatE (Weather adjustment and more)
+    * PageDown: Skyrim Upscaler
+    * PageUp: ReShade
+    * Home: dMenu
+    * Backspace: Immersive Equipment Displays
+    * End: Community Shaders
+    * O: oBody Assignments
+    * R: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
+    * T: Dodge (must be unsheathed)
+    * Y: Taunt
+    * U: Character Stat Menu
+    * H: Call Horse
+    * L: Toggle Lantern Light
+    * ;: Teleport Followers
+    * ': Swiftly Order Swad
+    * F6: Toggle UI
+    * F7: KreatE (Weather adjustment and more)
 * Vanilla Shortcuts
-    *  Q: Favorites
-    *  I: Inventory
-    *  P: Spells
-    *  F: First/Third Person Toggle
-    *  J: Journal
-    *  C: Auto-Run
-    *  M: Map
-    *  /: Skill Menu
-    *  ~: Console Commands
-    *  F12: Steam Screenshot
-
-*  N: Animated Interactions
-*  Shift + O: Open Animation Replacer
+    * Q: Favorites
+    * I: Inventory
+    * P: Spells
+    * F: First/Third Person Toggle
+    * J: Journal
+    * C: Auto-Run
+    * M: Map
+    * /: Skill Menu
+    * ~: Console Commands
+    * F12: Steam Screenshot
+* Need to Change ASAP
+    * N: Animated Interactions
+    * Shift + O: Open Animation Replacer
 
 ---
 
