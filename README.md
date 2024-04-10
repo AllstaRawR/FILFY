@@ -246,7 +246,14 @@
 - [x] Update the GitHub ReadMe
 - [x] Re-clean all plugins for safety (should be cleaned already)
 - [x] Migrate all Modgroups to a subfolder to prevent accidental usage
+- [x] Seperate out all "cheat" mods to their own section
+- [x] Resolve DLSS/FSR/XeSS issues
+- [ ] Add Upscaler swapping information to the ReadMe
+- [ ] Update GamePlay Adjustments in the ReadMe
+- [ ] Update Feature Overview in the ReadMe
+- [ ] Seperate out all "articstic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
+- [ ] Add GIFs to the ReadMe
 
 #### IMPROVEMENTS
 - [ ] Switch to SFCO3 to remove ~100 plugins
