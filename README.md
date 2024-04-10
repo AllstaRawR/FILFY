@@ -36,6 +36,7 @@
 * THE UI IS REALLY PRETTY
     * GOTTA LOVE AURA AND KOMEGAKI
     * LOOK AT THIS HAWT MAP
+    * AND THIS SELECTION WHEEL
 * COMBAT IS SPICY NOW
     * DODGE
     * COMBO ATTACKS
@@ -117,33 +118,88 @@
 ### GAMEPLAY ADJUSTMENTS
 ###### This is an explaination of core gameplay altering modifications and adjustments, this is not comprehensive.
 
-#### Immersive Adjustments
+* THE UI IS REALLY PRETTY
+    * GOTTA LOVE AURA AND KOMEGAKI
+    * LOOK AT THIS HAWT MAP
+    * AND THIS SELECTION WHEEL
+* LOTS OF OVERHAULS
+  * PERKS
+  * CRAFTING
+  * TRAINING
+  * LEVELING
+  * CITIES, OUTSKIRTS, AND TOWNS
+* I'M SURE THERE'S MORE
 
-* Will
-* Add
-* Shortly
+#### Movement & Combat
 
-#### Non-Immersive Adjustments
+* True Directional Movement allows for natural, fluid Third Person gameplay.
+  * Combined with SmoothCam, you can now lock onto targets or free-aim your bow like never before.
+  * With various Elden based mods and Valhalla, you can now block, parry, and reflect different attacks. You can role-play as a jedi swatting arrows.
+* MCO and different movesets have been added, and they vary by race. Combat feels much more modern.
+* Paragliding has been added, feel free to glide like the Nintendon't hero that you aren't.
+* Enemies have been added from many different sources, such as Mihail and 4th Unknown. There are all sorts of Morrowind and Oblivion enemies re-introduced.
+  * Some are scary. The world is unleveled. Be careful out there.
 
-* Will
-* Add
-* Shortly
+#### Exploration
+
+* New Worldspaces
+  * Bruma, Wyrmstooth, Falskaar, New Vominheim, Sirenroot, and multiple more...
+* There are now many more unmarked locations for you to discover in the game and find special loot.
+* Survival Mode Improved greatly alters the Survival Creation Club content, better integrating it into your game.
+  * It also disables fast travel. I have therefore added the ability to fast travel if you aim your cursor at a road sign for a small fee. You can also travel to many more locations with ferries and carriages.
+  * If you really hate this, you can go to the MCM for Unlimited Fast Travel and enable the `When disabled via scripts/console` option.
+
+#### Graphics
+
+* Community Shaders is used as a base, combined with the Skyrim Upscaler, allowing you to use DLSS, FSR, or XeSS. This allows you to use this modlist on a very large range of hardware.
+  * DynDOLOD is generated, improving the distant visuals compared to vanilla.
+  * BethINI is also included, so you can safely adjust your graphical settings as you desire.
+* 2K textures are shipped for almost everything included in the game. With the upscaler, this allows you to have decent performance with decent visuals at the same time. You can also download higher resolution versions of these if desired.
+* Base Object Swapper is used extensively, meaning that the diversity of things in the wild is increased. This is for both objects for for animals. There are 4 different colors of Horkers, if you feel the need to catch them all.
 
 #### "Cheating" Adjustments
 
-I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are shown below:
+* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are shown below:
 
-![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
+    ![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
 
 ---
 
 ### SHORTCUT KEYS
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
-1. Wow
-2. So
-3. Empty
-   
+* Mod Added/Adjusted Shortcuts
+    *  PageDown: Skyrim Upscaler
+    *  PageUp: ReShade
+    *  Home: dMenu
+    *  Backspace: Immersive Equipment Displays
+    *  End: Community Shaders
+    *  O: oBody Assignments
+    *  R: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
+    *  T: Dodge (must be unsheathed)
+    *  Y: Taunt
+    *  U: Character Stat Menu
+    *  H: Call Horse
+    *  L: Toggle Lantern Light
+    *  ;: Teleport Followers
+    *  ': Swiftly Order Swad
+    *  F6: Toggle UI
+    *  F7: KreatE (Weather adjustment and more)
+* Vanilla Shortcuts
+    *  Q: Favorites
+    *  I: Inventory
+    *  P: Spells
+    *  F: First/Third Person Toggle
+    *  J: Journal
+    *  C: Auto-Run
+    *  M: Map
+    *  /: Skill Menu
+    *  ~: Console Commands
+    *  F12: Steam Screenshot
+
+*  N: Animated Interactions
+*  Shift + O: Open Animation Replacer
+
 ---
 
 ### BUNDLED TOOLS
@@ -162,8 +218,7 @@ I absolutely hate running out of stamina while sprinting when I'm not even in co
   * This can be run to adjust your INIs as desired for optimal quality and performance.
 * Cathedral Assets Optimizer
   * This can be run to correct texture, mesh, and animation errors.
-*  Others?!
-  * There are more included but hidden inside of the launcher. This is because I did not bundle their install files. If you would like to add some of them back, feel free. Examples include zEdit, Wrye Bash, and 
+* There are more included but hidden inside of the launcher. This is because I did not bundle their install files. If you would like to add some of them back, feel free. Examples include zEdit, Wrye Bash, and DynDOLOD.
 
 ---
 
