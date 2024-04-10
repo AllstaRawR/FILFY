@@ -281,6 +281,7 @@
 - [Ra2Phoenix](https://www.nexusmods.com/skyrimspecialedition/users/111052?tab=user+files&BH=1) for their assistance with learning LAND and NAVM editing in the CK,
 - [Arthmoor](https://www.nexusmods.com/skyrimspecialedition/users/684492?tab=user+files&BH=1) for their explanation on how weird things work, like EDIDs and papyrus,
 - [GroundAura](https://www.nexusmods.com/skyrimspecialedition/users/97658973?tab=user+files&BH=1) for listening to me rant about frustrations and encouraging me to try new things,
+- [Revontulet](https://www.nexusmods.com/starfield/users/51658166?tab=user+files?tab=user+files&BH=1) for constantly thinking I'm making innuendos and making graphics pretty,
 - [JonathanOstrus](https://www.nexusmods.com/skyrimspecialedition/users/14649434?tab=user+files&BH=1) for the scripts that saved me so much pain dealing with masters,
 - [Janquel](https://www.nexusmods.com/skyrimspecialedition/users/51448566?tab=user+files&BH=1) for their super secret secret-ness,
 - [Czasior](https://www.nexusmods.com/skyrimspecialedition/users/9933289?tab=user+files&BH=1) for explaining the oddities of FOMODs,
