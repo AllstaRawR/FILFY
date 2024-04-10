@@ -226,6 +226,8 @@
 
 * Rare Curios: `Unable to Download Data_ccgssse037-curiosesl/bsa`
   * Solution: Reopen Skyrim to download the AE content, then re-verify files via Steam.
+* The game reloads my save twice when I'm outside and trying to load a save! It must be broken.
+  * No, this is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice.
 * Long Load Times
   * Solution: Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this?
 * Report additional errors in the Discord or Nexus Bug Tracker and I'll post them here!
