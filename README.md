@@ -15,15 +15,46 @@
 
 | TABLE OF CONTENTS |
 | ----------- |
-| 1. [Wabbajack Installation](#wabbajack-installation-guide) |
-| 2. [FILFY Installation](#filfy-installation-guide) |
-| 3. [Gameplay](#gameplay) |
-| 4. [Shortcut Keys](#shortcut-keys) |
-| 5. [Bundled Tools](#bundled-tools) |
-| 6. [Common Issues](#common-issues) |
-| 7. [To-Do List](#to-do-list) |
-| 8. [Credits](#credits) |
+| 1. [Feature Overview](#feature-overview) |
+| 2. [Wabbajack Installation](#wabbajack-installation-guide) |
+| 3. [FILFY Installation](#filfy-installation-guide) |
+| 4. [Gameplay Adjustments](#gameplay-adjustments) |
+| 5. [Shortcut Keys](#shortcut-keys) |
+| 6. [Bundled Tools](#bundled-tools) |
+| 7. [Common Issues](#common-issues) |
+| 8. [To-Do List](#to-do-list) |
+| 9. [Credits](#credits) |
 
+---
+
+### FEATURE OVERVIEW
+####### This is a quick summary of key features added by this mod, with GIFs!
+
+* GRAPHICS ARE GOOD BUT RUN ON MOST THINGS
+  * COMMUNITY SHADERS IS INCLUDED
+  * THE SKYRIM UPSCALER COMES W/ DLSS, FSR, AND XESS
+* THE UI IS REALLY PRETTY
+    * GOTTA LOVE AURA AND KOMEGAKI
+    * LOOK AT THIS HAWT MAP
+* COMBAT IS SPICY NOW
+    * DODGE
+    * COMBO ATTACKS
+    * ENEMIES ARE REALLY SCARY
+    * AND THERE ARE A LOT OF THEM
+* EXPLORING IS FUN AGAIN
+   * PARAGLIDING
+   * WALKING ON WATER
+   * LOTS OF NEW LOCATIONS
+   * EVEN UNMARKED ONES THAT ARE SUPER HIDDEN
+   * EVEN EVEN NEW WORLDSPACES
+* LOTS OF OVERHAULS
+  * PERKS
+  * CRAFTING
+  * TRAINING
+  * LEVELING
+  * CITIES, OUTSKIRTS, AND TOWNS
+* I'M SURE THERE'S MORE
+  
 ---
 
 ### WABBAJACK INSTALLATION GUIDE
@@ -83,8 +114,8 @@
 
 --- 
 
-### GAMEPLAY
-###### This is an explaination of all core gameplay altering modifications and adjustments.
+### GAMEPLAY ADJUSTMENTS
+###### This is an explaination of core gameplay altering modifications and adjustments, this is not comprehensive.
 
 #### Immersive Adjustments
 
