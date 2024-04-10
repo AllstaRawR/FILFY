@@ -225,7 +225,7 @@
 ###### Read this *before* you make a bug report or GroundAura will answer you passive-aggressively.
 
 * Rare Curios: `Unable to Download Data_ccgssse037-curiosesl/bsa`
-  * Solution: Reopen Skyrim to download the AE content, then re-verify files via Steam.
+  * Solution: Delete the `ccgssse037-curios` BSA and ESL files, then open Skyrim to re-download the AE content. **Do not** re-verify files via Steam afterwards, or you will have to repeat this step.
 * The game reloads my save twice when I'm outside and trying to load a save! It must be broken.
   * No, this is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice.
 * Long Load Times
