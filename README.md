@@ -11,7 +11,7 @@
 ---
 
 ### TABLE OF CONTENTS 
-###### You can skip to any desired section with the table of contents below. If you have questions not answered in the Common Issues section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
+###### You can skip to any desired section with the table of contents below. If you have questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
 
 | TABLE OF CONTENTS |
 | ----------- |
@@ -263,13 +263,13 @@ Finally, almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.
 
 | Problem | Solution |
 | ------- | -------- |
+| Lots of plugins are disabled in my MO2 right pane. | You can restore the load order from the backup. Click the yellow arrow to the left of the `Active Plugin Count` (far right side of MO2) and then restore from a recent backup stored with the Wabbajack. |
 | Wabbajack is erroring when installing and telling me that it is `Unable to Download Data_ccgssse037-curiosesl/bsa` | Delete the `ccgssse037-curios` BSA and ESL files, then open Skyrim to re-download the AE content. **Do not** re-verify files via Steam afterwards, or you will have to repeat this step. |
-| The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
 | I am getting SKSE DLL errors on the Splash screen. | Ensure that you have [Visual Studio](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed and up to date.|
 | I can't seem to launch some of the tools. | You need [.Net](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.17-windows-arm64-installer) if trying to run Pandora or Synthesis. |
 | I tried the above solutions and am still having DLL errors| Try right clicking on the mod/dll erroring in the left pane of MO2 and select `Reinstall this Mod`. |
 | Why are the load times to get into the game so long? | Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this? |
-| Lots of plugins are disabled in my MO2 right pane. | You can restore the load order from the backup. Click the yellow arrow to the left of the `Active Plugin Count` and then restore from a recent backup stored with the Wabbajack. |
+| The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
 | The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the `crash-...log` file in the Discord for us to help. |
 
 ---
