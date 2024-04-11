@@ -28,35 +28,42 @@
 ---
 
 ### FEATURE OVERVIEW
-###### This is a quick summary of key features added by this mod, with GIFs!
+###### This is a quick summary of key features added by this mod, with GIFs! A more in-depth summary of features is below in [Gameplay Adjustments](#gameplay-adjustments).
 
-There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `NUDITY` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
+There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `Nudity` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
-* GRAPHICS ARE GOOD BUT RUN ON MOST THINGS
-  * COMMUNITY SHADERS IS INCLUDED
-  * THE SKYRIM UPSCALER COMES W/ DLSS, FSR, AND XESS
-* THE UI IS REALLY PRETTY
-    * GOTTA LOVE AURA AND KOMEGAKI
-    * LOOK AT THIS HAWT MAP
-    * AND THIS SELECTION WHEEL
-* COMBAT IS SPICY NOW
-    * DODGE
-    * COMBO ATTACKS
-    * ENEMIES ARE REALLY SCARY
-    * AND THERE ARE A LOT OF THEM
-* EXPLORING IS FUN AGAIN
-   * PARAGLIDING
-   * WALKING ON WATER
-   * LOTS OF NEW LOCATIONS
-   * EVEN UNMARKED ONES THAT ARE SUPER HIDDEN
-   * EVEN EVEN NEW WORLDSPACES
-* LOTS OF OVERHAULS
-  * PERKS
-  * CRAFTING
-  * TRAINING
-  * LEVELING
-  * CITIES, OUTSKIRTS, AND TOWNS
-* I'M SURE THERE'S MORE
+I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIF below.
+
+![CommunityShadersUsage]( "CommunityShadersUsage")
+![SkyrimUpscalerUsage]( "SkyrimUpscalerUsage")
+
+The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.I.T.`, `Komegaki`, and `B.O.O.B.I.E.S.`.
+
+![UIUsage]( "UIUsage")
+
+You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Quick Loot RE`. This is needed, as lots of enemies have been added. Ogrim and Ettins are quite scary, to be frank with you. Imps are just weird and funny. They do throw fireballs at you, so thankfully we have both `True Direction Movement` for target lock and `TK Dodge RE` for... well, dodging.
+
+![QuickLootUsage]( "QuickLootUsage")
+![WheelerUsage]( "WheelerUsage")
+![TKDodgeUsage]( "TKDodgeUsage")
+
+Have you ever wanted to touch the sky? You still can't, but you can glide! `Paragliding in Skyrim` is wonderful and helps transversal dramatically. Ontop of this, `More Ferries` and `More Carriages` has been added, giving you more places to take them too. You can then fast travel with road signs you see on the road for a small fee, making walking along the road until you see a sign useful again. You'll want to be walking, too, because there are a lot of `Unmarked Locations Pack` out there. No, there is not a road sign from `Falskaar` to `Bruma`. Figure that travel out yourself.
+
+![ParagliderUsage]( "ParagliderUsage")
+
+Finally, almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Below are a few more GIFs to show you various overhauls and systems.
+
+![dMenuAIM]( "dMenuAIM")
+![KreatEWeather]( "KreatEWeather")
+![CraftingMenu]( "CraftingMenu")
+![EnchantingMenu]( "EnchantingMenu")
+![FightingEnemies]( "FightingEnemies")
+
+| PC Specs | Location | Average FPS |
+| -------- | -------- | ------------|
+| a | b |c |
+| a | b |c |
+| a | b |c |
   
 ---
 
@@ -124,7 +131,7 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 
 * `Seasons of Skyrim` makes the weather change throughout the year, changing the ground cover, trees, enemies, and even more.
 * Perks are overhauled with `Ordinator`, though this will likely be adjusted to `Vorkiinator Black` in the future.
-* `Complete Crafting Overhaul Remastered`, `Complete Alchemy & Cooking Overhaul`, `Weapons Armor and Clutter Fixes`,
+* `Complete Crafting Overhaul Remastered`, `Complete Alchemy & Cooking Overhaul`, `Weapons Armor and Clutter Fixes`, and more are all integrated to give the core crafting functionality a needed overhaul and balancing.
 * `Experience` reworks how the experience system works, making the game feel more like a traditional R.P.G.
   * `Zim's Training Expansion` and `Specialists of Skills` reworks the training system, in case you feel like you're stuck with weak One Handed Skill.
 * `Open World Loot` better distributes the vanilla game loot, as well as the many items added by `Reforging for the Masses`, `Immersive Weapons`, `Immersive Armors`, and more.
@@ -184,13 +191,13 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 * `A Clear Map of Skyrim` combined with `DynDOLOD` makes the World Map so much more... more. It's just more.
 * There's even a `Photo Mode` for you screen archers out there.
 
-#### "Non-Immersive" Adjustments
+#### "Non-Immersive" Adjustments & Nudity
 
+* There are a few mods that add nudity to the game. I have enabled them by default. You are free to disable them (under the `Nudity` header in MO2) as you wish.
+  * They are `Add...`, `and`, `and`, and finally `this`.
 * Something might happen if you mention Sweet Rolls. Or the Cloud District. Just a heads up.
   * I also 100% do not recommend mentioning arrows in any sort of body part. Lightning never strikes twice, and you wouldn't want to make it a liar, would you?
-* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are shown below:
-
-    ![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
+* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." They are under the `Cheats` header in MO2 and are called `Infinite Magicka Out of Combat`, `Infinite Shouting Out of Combat`, and `Infinite Stamina Out of Combat`. They can be disabled at any time.
 
 ---
 
@@ -279,8 +286,8 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 - [x] Re-clean all plugins for safety (should be cleaned already)
 - [x] Seperate out all "cheat" mods to their own section
 - [x] Resolve DLSS/FSR/XeSS issues
-- [ ] Update GamePlay Adjustments in the ReadMe
-- [ ] Update Feature Overview in the ReadMe
+- [x] Update GamePlay Adjustments in the ReadMe
+- [x] Update Feature Overview in the ReadMe
 - [ ] Add brief GIFs about each added feature
 - [ ] Seperate out all "articstic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
