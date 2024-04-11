@@ -231,6 +231,8 @@
   * No, this is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice.
 * Long Load Times
   * Solution: Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this?
+* Lots of plugins are disabled. What the heck?
+  * You can restore the load order from the backup. You click the yellow arrow next to the active plugin counter and then restore from a recent backup stored with the Wabbajack.
 * Report additional errors in the Discord or Nexus Bug Tracker and I'll post them here!
 
 ---
