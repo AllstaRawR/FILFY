@@ -187,6 +187,7 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 #### "Non-Immersive" Adjustments
 
 * Something might happen if you mention Sweet Rolls. Or the Cloud District. Just a heads up.
+  * I also 100% do not recommend mentioning arrows in any sort of body part. Lightning never strikes twice, and you wouldn't want to make it a liar, would you?
 * I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are shown below:
 
     ![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
