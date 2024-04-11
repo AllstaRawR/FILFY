@@ -147,6 +147,7 @@
 * There are now many more unmarked locations for you to discover in the game and find special loot.
 * Survival Mode Improved greatly alters the Survival Creation Club content, better integrating it into your game.
   * It also disables fast travel. I have therefore added the ability to fast travel if you aim your cursor at a road sign for a small fee. You can also travel to many more locations with ferries and carriages.
+  * You can also fly around via your paraglider as mentioned above, so there's that...
   * If you really hate this, you can go to the MCM for Unlimited Fast Travel and enable the `When disabled via scripts/console` option.
 
 #### Graphics
