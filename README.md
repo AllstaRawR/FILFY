@@ -265,6 +265,9 @@ Finally, almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.
   * Solution: Delete the `ccgssse037-curios` BSA and ESL files, then open Skyrim to re-download the AE content. **Do not** re-verify files via Steam afterwards, or you will have to repeat this step.
 * The game reloads my save twice when I'm outside and trying to load a save! It must be broken.
   * No, this is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice.
+* SKSE DLL Errors
+  * Ensure that you have [.Net](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.17-windows-arm64-installer) and [Visual Studio](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed and up to date.
+  * If you are having more errors, try right clicking on the DLL erroring in the left pane of MO2 and select `Reinstall this Mod`.
 * Long Load Times
   * Solution: Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this?
 * Lots of plugins are disabled. What the heck?
