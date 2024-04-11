@@ -304,3 +304,5 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 - [Blackread](https://www.nexusmods.com/skyrimspecialedition/users/78985?tab=user+files&BH=1)﻿ for being a wonderful support and pointing out my errors,
 - [Lizzy](https://www.wildlandermod.com/) for being nice and providing lovely Wabbajack advice,
 - [Komegaki](https://www.nexusmods.com/skyrimspecialedition/users/80113953?tab=user+files?tab=user+files&BH=1) for your motivation and support, as well as graphical wizardry.
+
+ <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/FILFY_Icon.png" width="100">
