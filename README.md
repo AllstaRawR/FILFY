@@ -30,6 +30,8 @@
 ### FEATURE OVERVIEW
 ###### This is a quick summary of key features added by this mod, with GIFs!
 
+There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `NUDITY` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
+
 * GRAPHICS ARE GOOD BUT RUN ON MOST THINGS
   * COMMUNITY SHADERS IS INCLUDED
   * THE SKYRIM UPSCALER COMES W/ DLSS, FSR, AND XESS
@@ -139,6 +141,7 @@
 * Paragliding has been added, feel free to glide like the Nintendon't hero that you aren't.
 * Enemies have been added from many different sources, such as Mihail and 4th Unknown. There are all sorts of Morrowind and Oblivion enemies re-introduced.
   * Some are scary. The world is unleveled. Be careful out there.
+* Thankfully, there is a lot of both weapon types and magic spells, meaning you will eventually be able to slay all the baddies. Or you can cast `Waterwalking` and laugh as your enemies try to swim to you. You do you.
 
 #### Exploration
 
@@ -153,10 +156,16 @@
 #### Graphics
 
 * Community Shaders is used as a base, combined with the Skyrim Upscaler, allowing you to use DLSS, FSR, or XeSS. This allows you to use this modlist on a very large range of hardware.
-  * DynDOLOD is generated, improving the distant visuals compared to vanilla.
-  * BethINI is also included, so you can safely adjust your graphical settings as you desire.
+* DynDOLOD is generated, improving the distant visuals compared to vanilla.
+  * BethINI is also included, so you can safely adjust your graphical settings as you desire. This is perfect for adjusting DynDOLOD distances.
 * 2K textures are shipped for almost everything included in the game. With the upscaler, this allows you to have decent performance with decent visuals at the same time. You can also download higher resolution versions of these if desired.
 * Base Object Swapper is used extensively, meaning that the diversity of things in the wild is increased. This is for both objects for for animals. There are 4 different colors of Horkers, if you feel the need to catch them all.
+
+#### User Interface
+
+* `Aura's Inventory Tweaks` ontop of `SkyUI` is the base of the menu system for this modlist. This also uses icons from `B.O.O.B.I.E.S.`, and the framework from `Inventory Interface Information Injector`. This means that no matter what menu you're in, the menu system actually makes sense.
+  * This is improved by `C.O.C.K.S.` category adjustments for crafting, as well as Komegaki's many different I4 mods.
+* Quick Loot RE is used 
 
 #### "Cheating" Adjustments
 
@@ -234,7 +243,6 @@
   * Solution: Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this?
 * Lots of plugins are disabled. What the heck?
   * You can restore the load order from the backup. You click the yellow arrow next to the active plugin counter and then restore from a recent backup stored with the Wabbajack.
-* Report additional errors in the Discord or Nexus Bug Tracker and I'll post them here!
 
 ---
 
