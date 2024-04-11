@@ -120,55 +120,73 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 ### GAMEPLAY ADJUSTMENTS
 ###### This is an explaination of core gameplay altering modifications and adjustments, this is not comprehensive.
 
-* THE UI IS REALLY PRETTY
-    * GOTTA LOVE AURA AND KOMEGAKI
-    * LOOK AT THIS HAWT MAP
-    * AND THIS SELECTION WHEEL
-* LOTS OF OVERHAULS
-  * PERKS
-  * CRAFTING
-  * TRAINING
-  * LEVELING
-  * CITIES, OUTSKIRTS, AND TOWNS
-* I'M SURE THERE'S MORE
+#### Overhauls
+
+* `Seasons of Skyrim` makes the weather change throughout the year, changing the ground cover, trees, enemies, and even more.
+* Perks are overhauled with `Ordinator`, though this will likely be adjusted to `Vorkiinator Black` in the future.
+* `Complete Crafting Overhaul Remastered`, `Complete Alchemy & Cooking Overhaul`, `Weapons Armor and Clutter Fixes`,
+* `Experience` reworks how the experience system works, making the game feel more like a traditional R.P.G.
+  * `Zim's Training Expansion` and `Specialists of Skills` reworks the training system, in case you feel like you're stuck with weak One Handed Skill.
+* `Open World Loot` better distributes the vanilla game loot, as well as the many items added by `Reforging for the Masses`, `Immersive Weapons`, `Immersive Armors`, and more.
+* `Wintersun` adds an immersive Religious aspect to the game, allowing you to gain or lose favor with Daedra and Aedra, with the benefits and punishments you would assume.
+* `Nether's Follower Framework` and `Swiftly Order Squad` combine to allow you to build that M.M.O. party in Skyrim like you've always wanted.
+* `Simple Hunting Overhaul` and `Simple Fishing Overhaul` work with `Immersive Equipment Displays` to make these activities both fun and useful for the first time.
+* `Trade and Barter` and `Trade Routes` both mean that merchants now have a different inventory and price than you are used to. Solitude sure must have a lot of taxes to justify these prices...
+
 
 #### Movement & Combat
 
-* True Directional Movement allows for natural, fluid Third Person gameplay.
-  * Combined with SmoothCam, you can now lock onto targets or free-aim your bow like never before.
-  * With various Elden based mods and Valhalla, you can now block, parry, and reflect different attacks. You can role-play as a jedi swatting arrows.
-* MCO and different movesets have been added, and they vary by race. Combat feels much more modern.
-* Paragliding has been added, feel free to glide like the Nintendon't hero that you aren't.
-* Enemies have been added from many different sources, such as Mihail and 4th Unknown. There are all sorts of Morrowind and Oblivion enemies re-introduced.
-  * Some are scary. The world is unleveled. Be careful out there.
-* Thankfully, there is a lot of both weapon types and magic spells, meaning you will eventually be able to slay all the baddies. Or you can cast `Waterwalking` and laugh as your enemies try to swim to you. You do you.
+* `True Directional Movement` allows for natural, fluid Third Person gameplay.
+  * Combined with `SmoothCam`, you can now lock onto targets or free-aim your bow like never before.
+  * With various `Elden` based mods and `Valhalla`, you can now block, parry, and reflect different attacks. You can role-play as a jedi swatting arrows.
+* `Modern Combat Overhaul` and different movesets have been added, and they vary by race. Combat feels much more modern.
+* `Precision` and `Precision Creatures` adds a far more dynamic feel to how weapons interact with their targets. `Dynamic Collision Adjustment` then makes sure that your sword has just the right reach.
+* `SkyClimb` and `Animated Transversal` work together to allow you to vault over ledges and climb up mountains.
+* `Paragliding in Skyrim` has been added, feel free to glide like the Nintendon't hero that you aren't.
+* Enemies have been added from many different sources, such as `Mihail` and `4th Unknown`. There are all sorts of Morrowind and Oblivion enemies re-introduced.
+  * Some are scary. The world is unleveled and has `Missing Encounter Zones Fixed`. Be careful out there.
+  * I don't even need to start on dragons. Sure, there's `Deadly Dragons` and `Diverse Dragons`, but have you heard of `Infinite Dragon Variants`? We have it all folks.
+  * Sadly, `Fury` does not allow you to take dragons. I think?
+* Thankfully, there is a lot of both weapon types and magic spells, meaning you will eventually be able to slay all the baddies. Or you can cast a waterwalking spell from `Mysticism` or `Apocalypse` and laugh as your enemies try to swim to you. You do you.
 
 #### Exploration
 
-* New Worldspaces
-  * Bruma, Wyrmstooth, Falskaar, New Vominheim, Sirenroot, and multiple more...
-* There are now many more unmarked locations for you to discover in the game and find special loot.
-* Survival Mode Improved greatly alters the Survival Creation Club content, better integrating it into your game.
+* `Bruma`, `Wyrmstooth`, `Falskaar`, `New Vominheim`, `Vigilant`, `Sirenroot`, and multiple more Worldspace expansions have all been included and patched to function together.
+* There are now many more unmarked locations (such as from the multiple `Unmarked Locations Packs`) for you to discover in the game and find special loot.
+* Once you clear out an important location, such as a Fort or a Bandit Camp, you can then take control for your desired faction with `Lawbringer`.
+* `Survival Mode Improved - SKSE` greatly alters the Survival Creation Club content, better integrating it into your game.
   * It also disables fast travel. I have therefore added the ability to fast travel if you aim your cursor at a road sign for a small fee. You can also travel to many more locations with ferries and carriages.
   * You can also fly around via your paraglider as mentioned above, so there's that...
-  * If you really hate this, you can go to the MCM for Unlimited Fast Travel and enable the `When disabled via scripts/console` option.
+  * If you really hate this, you can go to the MCM for `Unlimited Fast Travel` and enable the `When disabled via scripts/console` option.
+* `Extended Encounters` makes it a lot more concerning when you do fast travel, as you never know what might be waiting for you at your destination. Thankfully `Horse Whistle Key` can help us get our horse to take us away!
+* Sure, `Carved Brink` and `Project AHO` add quests, but don't you want more?
+  * `JaySerpa`, `Nimwraith`, and many more authors all added quests for you to complete.
 
-#### Graphics
+#### Graphics & Animations
 
-* Community Shaders is used as a base, combined with the Skyrim Upscaler, allowing you to use DLSS, FSR, or XeSS. This allows you to use this modlist on a very large range of hardware.
-* DynDOLOD is generated, improving the distant visuals compared to vanilla.
-  * BethINI is also included, so you can safely adjust your graphical settings as you desire. This is perfect for adjusting DynDOLOD distances.
+* `Community Shaders` is used as a base, combined with the `Skyrim Upscaler`, allowing you to use DLSS, FSR, or XeSS. This allows you to use this modlist on a very large range of hardware.
+* `DynDOLOD` is generated, improving the distant visuals compared to vanilla.
+  * `BethINI` is also included, so you can safely adjust your graphical settings as you desire. This is perfect for adjusting DynDOLOD distances.
 * 2K textures are shipped for almost everything included in the game. With the upscaler, this allows you to have decent performance with decent visuals at the same time. You can also download higher resolution versions of these if desired.
-* Base Object Swapper is used extensively, meaning that the diversity of things in the wild is increased. This is for both objects for for animals. There are 4 different colors of Horkers, if you feel the need to catch them all.
+* `Base Object Swapper` is used extensively, meaning that the diversity of things in the wild is increased. This is for both objects for for animals. There are 4 different colors of Horkers, if you feel the need to catch them all.
+* `Animated Potions`, `Animated Poisions`, `Animated Ingredients`, `Animated Interactions`, and more all work together to give you a more immersive feel when interacting with the world. You can even see enemies use health potions thanks to `Smart Potions`.
+* Finally, I really like Particle Lights, so there are a lot of those.
 
 #### User Interface
 
 * `Aura's Inventory Tweaks` ontop of `SkyUI` is the base of the menu system for this modlist. This also uses icons from `B.O.O.B.I.E.S.`, and the framework from `Inventory Interface Information Injector`. This means that no matter what menu you're in, the menu system actually makes sense.
   * This is improved by `C.O.C.K.S.` category adjustments for crafting, as well as Komegaki's many different I4 mods.
-* Quick Loot RE is used 
+  * The UI is then reskinned with `Untarnished UI`. Even `RaceMenu` has an Untarnished skin.
+* `Quick Loot` is used to allow you to quickly loot your enemies, without needing to open a submenu and pause the gameplay.
+* `Wheeler` allows you to rapidly swap between spells, items, weapons, potions, etc., all while maintaining the flow of combat or exploring.
+* `Compass Navigation Overhaul` does more than just adjust the compass, and it does a fantastic job at minimizing the time you need to look at your quest journal.
+* `Atlas Map Markers` and `COMAP` add both more Points of Interest and better icons for them. Combined with `C.N.O.` from above, this really improves your exploring.
+* `A Clear Map of Skyrim` combined with `DynDOLOD` makes the World Map so much more... more. It's just more.
+* There's even a `Photo Mode` for you screen archers out there.
 
-#### "Cheating" Adjustments
+#### "Non-Immersive" Adjustments
 
+* Something might happen if you mention Sweet Rolls. Or the Cloud District. Just a heads up.
 * I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." These are desired for my own form of gameplay, but are easily disabled if you do not want them in your playthrough. They are shown below:
 
     ![MO2-CheatPlugins](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-CheatPlugins.png "MO2-CheatPlugins")
@@ -243,6 +261,7 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
   * Solution: Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this?
 * Lots of plugins are disabled. What the heck?
   * You can restore the load order from the backup. You click the yellow arrow next to the active plugin counter and then restore from a recent backup stored with the Wabbajack.
+* If you have a crash and are not sure why, please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the `crash-...log` file in the Discord for us to help.
 
 ---
 
