@@ -59,7 +59,7 @@ Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`
 ![EnchantingMenu]( "EnchantingMenu")
 ![FightingEnemies]( "FightingEnemies")
 
-Finally, multiple methods of safety have been added. The game will reload a save file twice if you are outside, thanks to `what's the mod's name...`, to help stave off corruption. `Skyrim SafeSave System Overhaul 2` disables AutoSaves and instead creates a full save every 5 minutes, as well as automtically saves when you are sleeping, praying, etc. There are many different script fixes and dll fixes installed as well to try to keep you enjoying the game as long as possible.
+Finally, multiple methods of safety have been added. The game will reload a save file twice if you are outside, thanks to `what's the mod's name...`, to help stave off corruption. `Skyrim SafeSave System Overhaul 2` disables AutoSaves and instead creates a full save every 5 minutes, as well as automtically saves when you are sleeping, praying, etc. There are many different script fixes and dll fixes installed as well to try to keep you enjoying the game as long as possible. My favorite "fix" is `Pause Menu After Load Screens` so that I can go get a drink while I wait for the game to load without finding myself killed by a Ettin.
 
 | PC Specs | Location | Average FPS |
 | -------- | -------- | ------------|
@@ -273,6 +273,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | Why are the load times to get into the game so long? | Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this? |
 | The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
 | My Snow/Deep Elf has a neck seam. | This is a known bug and can be solved by changing gender once. I.e. M -> F or M -> F -> M. You are also going to be missing some of the hair color sliders and tint colors. I am completely unsure as to why this happens and am trying to figure it out. |
+| My camera keeps spawning in all crazy when the game loads. | Yeah, I know. `Capture Warmer` does this. It only lasts a fraction of a second but usually show up during the auto-pause. |
 | The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the `crash-...log` file in the Discord for us to help. |
 
 ---
