@@ -51,13 +51,15 @@ Have you ever wanted to touch the sky? You still can't, but you can glide! `Para
 
 ![ParagliderUsage]( "ParagliderUsage")
 
-Finally, almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Below are a few more GIFs to show you various overhauls and systems.
+Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Below are a few more GIFs to show you various overhauls and systems.
 
 ![dMenuAIM]( "dMenuAIM")
 ![KreatEWeather]( "KreatEWeather")
 ![CraftingMenu]( "CraftingMenu")
 ![EnchantingMenu]( "EnchantingMenu")
 ![FightingEnemies]( "FightingEnemies")
+
+Finally, multiple methods of safety have been added. The game will reload a save file twice if you are outside, thanks to `what's the mod's name...`, to help stave off corruption. `Skyrim SafeSave System Overhaul 2` disables AutoSaves and instead creates a full save every 5 minutes, as well as automtically saves when you are sleeping, praying, etc. There are many different script fixes and dll fixes installed as well to try to keep you enjoying the game as long as possible.
 
 | PC Specs | Location | Average FPS |
 | -------- | -------- | ------------|
