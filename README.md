@@ -30,7 +30,7 @@
 ### FEATURE OVERVIEW
 ###### This is a quick summary of key features added by this mod, with GIFs! A more in-depth summary of features is below in [Gameplay Adjustments](#gameplay-adjustments).
 
-There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `Nudity` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
+There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
 I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIF below.
 
@@ -193,11 +193,11 @@ Finally, almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.
 
 #### "Non-Immersive" Adjustments & Nudity
 
-* There are a few mods that add nudity to the game. I have enabled them by default. You are free to disable them (under the `Nudity` header in MO2) as you wish.
+* There are a few mods that add nudity to the game. I have enabled them by default. You are free to disable them (under the `Optional (Cheats, Nudity, etc.)` header in MO2) as you wish.
   * They are `Add...`, `and`, `and`, and finally `this`.
 * Something might happen if you mention Sweet Rolls. Or the Cloud District. Just a heads up.
   * I also 100% do not recommend mentioning arrows in any sort of body part. Lightning never strikes twice, and you wouldn't want to make it a liar, would you?
-* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." They are under the `Cheats` header in MO2 and are called `Infinite Magicka Out of Combat`, `Infinite Shouting Out of Combat`, and `Infinite Stamina Out of Combat`. They can be disabled at any time.
+* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." They are under the `Optional (Cheats, Nudity, etc.)` header in MO2 and are called `Infinite Magicka Out of Combat`, `Infinite Shouting Out of Combat`, and `Infinite Stamina Out of Combat`. They can be disabled at any time.
 
 ---
 
