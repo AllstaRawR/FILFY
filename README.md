@@ -251,13 +251,12 @@
 - [x] Re-clean all plugins for safety (should be cleaned already)
 - [x] Seperate out all "cheat" mods to their own section
 - [x] Resolve DLSS/FSR/XeSS issues
-- [ ] Add Upscaler swapping information to the ReadMe
 - [ ] Update GamePlay Adjustments in the ReadMe
 - [ ] Update Feature Overview in the ReadMe
+- [ ] Add brief GIFs about each added feature
 - [ ] Seperate out all "articstic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
 - [ ] Update all currently installed mods
-- [ ] Add GIFs to the ReadMe
 
 #### IMPROVEMENTS
 - [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing them from the inlined Wabbajack files.
