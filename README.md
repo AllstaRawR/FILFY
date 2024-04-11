@@ -272,6 +272,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | I tried the above solutions and am still having DLL errors| Try right clicking on the mod/dll erroring in the left pane of MO2 and select `Reinstall this Mod`. |
 | Why are the load times to get into the game so long? | Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this? |
 | The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
+| My Snow/Deep Elf has a neck seam. | This is a known bug and can be solved by changing gender once. I.e. M -> F or M -> F -> M. You are also going to be missing some of the hair color sliders and tint colors. I am completely unsure as to why this happens and am trying to figure it out. |
 | The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the `crash-...log` file in the Discord for us to help. |
 
 ---
