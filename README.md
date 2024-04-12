@@ -34,6 +34,11 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 
 I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIFs below.
 
+<details>
+  <summary>Community Shades Usage</summary> 
+  <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f" loop>CommunityShadersUsage</video>
+</details>
+
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f" loop>CommunityShadersUsage</video>
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/1fed5b00-72af-4375-9af8-97cb02b41663" loop>SkyrimUpscalerUsage</video>
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/289c82bc-d9dc-4a2a-9d45-790474c67dd9" loop>ReShadeUsage</video>
