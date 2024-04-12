@@ -150,12 +150,12 @@ Finally, multiple methods of safety have been added. The game will reload a save
   * With various `Elden` based mods and `Valhalla`, you can now block, parry, and reflect different attacks. You can role-play as a jedi swatting arrows.
 * `Modern Combat Overhaul` and different movesets have been added, and they vary by race. Combat feels much more modern.
 * `Precision` and `Precision Creatures` adds a far more dynamic feel to how weapons interact with their targets. `Dynamic Collision Adjustment` then makes sure that your sword has just the right reach.
-* `SkyClimb` and `Animated Transversal` work together to allow you to vault over ledges and climb up mountains.
+* `SkyClimb` and `Animated Traversal` work together to allow you to vault over ledges and climb up mountains.
 * `Paragliding in Skyrim` has been added, feel free to glide like the Nintendon't hero that you aren't.
 * Enemies have been added from many different sources, such as `Mihail` and `4th Unknown`. There are all sorts of Morrowind and Oblivion enemies re-introduced.
   * Some are scary. The world is unleveled and has `Missing Encounter Zones Fixed`. Be careful out there.
   * I don't even need to start on dragons. Sure, there's `Deadly Dragons` and `Diverse Dragons`, but have you heard of `Infinite Dragon Variants`? We have it all folks.
-  * Sadly, `Fury` does not allow you to take dragons. I think?
+  * Sadly, `Fury` does not allow you to tame dragons. I think?
 * Thankfully, there is a lot of both weapon types and magic spells, meaning you will eventually be able to slay all the baddies. Or you can cast a waterwalking spell from `Mysticism` or `Apocalypse` and laugh as your enemies try to swim to you. You do you.
 
 #### Exploration
@@ -166,7 +166,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `Survival Mode Improved - SKSE` greatly alters the Survival Creation Club content, better integrating it into your game.
   * It also disables fast travel. I have therefore added the ability to fast travel if you aim your cursor at a road sign for a small fee. You can also travel to many more locations with ferries and carriages.
   * You can also fly around via your paraglider as mentioned above, so there's that...
-  * If you really hate this, you can go to the MCM for `Unlimited Fast Travel` and enable the `When disabled via scripts/console` option.
+  * If you really hate this, you can go to the MCM for `Unlimited Fast Travel` and enable the `When disabled via scripts/console` option. You will need to enable visibility for this MCM in `MenuMaid2`.
 * `Extended Encounters` makes it a lot more concerning when you do fast travel, as you never know what might be waiting for you at your destination. Thankfully `Horse Whistle Key` can help us get our horse to take us away!
 * Sure, `Carved Brink` and `Project AHO` add quests, but don't you want more?
   * `JaySerpa`, `Nimwraith`, and many more authors all added quests for you to complete.
@@ -177,8 +177,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `DynDOLOD` is generated, improving the distant visuals compared to vanilla.
   * `BethINI` is also included, so you can safely adjust your graphical settings as you desire. This is perfect for adjusting DynDOLOD distances.
 * 2K textures are shipped for almost everything included in the game. With the upscaler, this allows you to have decent performance with decent visuals at the same time. You can also download higher resolution versions of these if desired.
-* `Base Object Swapper` is used extensively, meaning that the diversity of things in the wild is increased. This is for both objects for for animals. There are 4 different colors of Horkers, if you feel the need to catch them all.
-* `Animated Potions`, `Animated Poisions`, `Animated Ingredients`, `Animated Interactions`, and more all work together to give you a more immersive feel when interacting with the world. You can even see enemies use health potions thanks to `Smart Potions`.
+* `Base Object Swapper` is used extensively, meaning that the diversity of things in the wild is increased. This is for both objects and for animals. There are 4 different colors of Horkers, if you feel the need to catch them all.
+* `Animated Potions`, `Animated Poisons`, `Animated Ingredients`, `Animated Interactions`, and more all work together to give you a more immersive feel when interacting with the world. You can even see enemies use health potions thanks to `Smart Potions`.
 * Finally, I really like Particle Lights, so there are a lot of those.
 
 #### User Interface
@@ -225,6 +225,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
     * `=`: Animated Interactions Menu
     * `F6`: Toggle UI
     * `F7`: KreatE (Weather adjustment and more)
+    * `Shift + D`: Dialogue History
 * Vanilla Shortcuts
     * `Tab` -> `T`: Waiting (you press the wait button, `T`, while inside of the `Tween Menu`)
     * `Q`: Favorites
@@ -237,6 +238,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
     * `/`: Skill Menu
     * `~`: Console Commands
     * `F12`: Steam Screenshot
+    * `PrintScreen`: Screenshot
 
 ---
 
@@ -274,7 +276,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
 | My Snow/Deep Elf has a neck seam. | This is a known bug and can be solved by changing gender once. I.e. M -> F or M -> F -> M. You are also going to be missing some of the hair color sliders and tint colors. I am completely unsure as to why this happens and am trying to figure it out. |
 | My camera keeps spawning in all crazy when the game loads. | Yeah, I know. `Capture Warmer` does this. It only lasts a fraction of a second but usually show up during the auto-pause. |
-| The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the `crash-...log` file in the Discord for us to help. |
+| The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the most recent `crash-...log` file in the Discord for us to help. |
 
 ---
 
@@ -289,12 +291,12 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Integrate the non-Patreon Skyrim Upscaler
 - [x] Update the GitHub ReadMe
 - [x] Re-clean all plugins for safety (should be cleaned already)
-- [x] Seperate out all "cheat" mods to their own section
+- [x] Separate out all "cheat" mods to their own section
 - [x] Resolve DLSS/FSR/XeSS issues
 - [x] Update GamePlay Adjustments in the ReadMe
 - [x] Update Feature Overview in the ReadMe
 - [ ] Add brief GIFs about each added feature
-- [ ] Seperate out all "articstic nudity" but SFW per Wabbajack mods to their own section
+- [ ] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
 - [ ] Update all currently installed mods
 
