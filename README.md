@@ -15,9 +15,10 @@
 
 | TABLE OF CONTENTS |
 | ----------- |
-| 1. [Feature Overview](#feature-overview) |
-| 2. [Wabbajack Installation](#wabbajack-installation-guide) |
-| 3. [FILFY Installation](#filfy-installation-guide) |
+| 0. [Feature Overview](#feature-overview) |
+| 1. [Wabbajack Installation](#wabbajack-installation-guide) |
+| 2. [FILFY Installation](#filfy-installation-guide) |
+| 3. [Feature List](#feature-list) |
 | 4. [Gameplay Adjustments](#gameplay-adjustments) |
 | 5. [Shortcut Keys](#shortcut-keys) |
 | 6. [Bundled Tools](#bundled-tools) |
@@ -28,11 +29,73 @@
 ---
 
 ### FEATURE OVERVIEW
+###### There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to add or remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be enabled or disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
+
+This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to keep reading or skip to the [Feature List](#feature-list) if you want to know what exactly. Have fun!
+
+---
+
+### WABBAJACK INSTALLATION GUIDE
+###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 450GB of disk space, 150GB for Downloads and 300GB for the remaining Deployments.
+1. Install copies of `TESV: Skyrim Special Editions` and `Skyrim Special Edition: Creation Kit` via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
+
+    ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
+    * Your `\Skyrim Special Edition` folder should look like this:
+   
+    ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRootCK.png "Windows-SkyrimRoot")
+3. Launch Skyrim to download all of the AE content from the Main Menu.
+    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 178 items and look like this:
+      
+        ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimDataCK.png "Windows-SkyrimData")
+4. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
+   
+    ![Windows-EmptyFolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-EmptyFolderStructure.png "Windows-EmptyFolderStructure")
+
+| CORRECT FOLDER STRUCTURE | INCORRECT FOLDER STRUCTURE |
+| ----------- | ----------- |
+| `D:\Wabbajack\Wabbajack.exe` | `C:\Wabbajack.exe` |
+| `C:\Wabbajack\Wabbajack.exe` | `C:\Windows\Wabbajack.exe` |
+| `D:\Wabbajack\FILFY\{modlist-contents}` | `C:\Windows\FILFY\{modlist-contents}` |
+| `C:\FILFY\{modlist-contents}` | `C:\{modlist-contents}` |
+
+4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
+   
+    ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
+
+---
+
+### FILFY INSTALLATION GUIDE
+###### This is a guide on how to actually install and play the game, once you finished with all Wabbajack setup.
+
+1. Click `Browse` in Wabbajack, then select `Download Modlist` on FILFY in the Gallery to download. You will have to select `Show Unofficial Lists` for it to show up.
+   
+    ![WJ-BrowseToFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-BrowseToFILFY.png "WJ-BrowseToFILFY")
+2. Once the download has finished, press the small play button in the same location to download the Wabbajack install file.
+3. Select the directory for `{modlist-contents}` that you made above. Click the `Play` button.
+    
+    ![WJ-InstallFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-InstallFILFY.png "WJ-InstallFILFY")
+
+4. If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and launch Mod Organizer 2.
+
+5. Click the `Run` button under the launch option of `Skyrim (SKSE)`, as shown below.
+   
+    ![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
+
+6. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **_1-2 minutes_** to fully load.
+
+    ![/SKSE-SplashScreen](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/SKSE-SplashScreenFixed.png "/SKSE-SplashScreen")
+7. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **_2-3 minutes_** to fully load.
+    * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **_around 1 minute_** and slow your computer down considerably, but only needs to be done once.
+
+    ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
+8. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
+
+---
+
+### FEATURE LIST
 ###### This is a quick summary of key features added by this mod, with GIFs! A more in-depth summary of features is below in [Gameplay Adjustments](#gameplay-adjustments).
 
-There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
-
-I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIFs below.
+I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the videos below.
 
 <details>
   <summary>Community Shaders Usage</summary> 
@@ -113,69 +176,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>Player Name Generator Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/96fd92a3-7dbb-4588-b930-491914066cde" loop></video>
 </details>
-
-| PC Specs | Location | Average FPS |
-| -------- | -------- | ------------|
-| a | b |c |
-| a | b |c |
-| a | b |c |
-  
----
-
-### WABBAJACK INSTALLATION GUIDE
-###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 450GB of disk space, 150GB for Downloads and 300GB for the remaining Deployments.
-1. Install copies of `TESV: Skyrim Special Editions` and `Skyrim Special Edition: Creation Kit` via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
-
-    ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
-    * Your `\Skyrim Special Edition` folder should look like this:
-   
-    ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRootCK.png "Windows-SkyrimRoot")
-3. Launch Skyrim to download all of the AE content from the Main Menu.
-    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 178 items and look like this:
-      
-        ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimDataCK.png "Windows-SkyrimData")
-4. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
-   
-    ![Windows-EmptyFolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-EmptyFolderStructure.png "Windows-EmptyFolderStructure")
-
-| CORRECT FOLDER STRUCTURE | INCORRECT FOLDER STRUCTURE |
-| ----------- | ----------- |
-| `D:\Wabbajack\Wabbajack.exe` | `C:\Wabbajack.exe` |
-| `C:\Wabbajack\Wabbajack.exe` | `C:\Windows\Wabbajack.exe` |
-| `D:\Wabbajack\FILFY\{modlist-contents}` | `C:\Windows\FILFY\{modlist-contents}` |
-| `C:\FILFY\{modlist-contents}` | `C:\{modlist-contents}` |
-
-4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
-   
-    ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
-
----
-
-### FILFY INSTALLATION GUIDE
-###### This is a guide on how to actually install and play the game, once you finished with all Wabbajack setup.
-
-1. Click `Browse` in Wabbajack, then select `Download Modlist` on FILFY in the Gallery to download. You will have to select `Show Unofficial Lists` for it to show up.
-   
-    ![WJ-BrowseToFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-BrowseToFILFY.png "WJ-BrowseToFILFY")
-2. Once the download has finished, press the small play button in the same location to download the Wabbajack install file.
-3. Select the directory for `{modlist-contents}` that you made above. Click the `Play` button.
-    
-    ![WJ-InstallFILFY](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/WJ-InstallFILFY.png "WJ-InstallFILFY")
-
-4. If the above steps completed without error, you can now open `ModOrganizer.exe` in your `FILFY\{modlist-contents}` folder and launch Mod Organizer 2.
-
-5. Click the `Run` button under the launch option of `Skyrim (SKSE)`, as shown below.
-   
-    ![MO2-Launch](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/MO2-LaunchSmall.png "MO2-Launch")
-
-6. You will now get a splash screen that shows up to reassure you that SKSE is loading. It will likely take **_1-2 minutes_** to fully load.
-
-    ![/SKSE-SplashScreen](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/SKSE-SplashScreenFixed.png "/SKSE-SplashScreen")
-7. You will now be at a black full screen, showing that Skyrim itself has now launched and is in the process of loading all plugins. It will likely take **_2-3 minutes_** to fully load.
-    * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **_around 1 minute_** and slow your computer down considerably, but only needs to be done once.
-
-    ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
-8. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
 
 --- 
 
