@@ -32,15 +32,14 @@
 
 There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
-I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIF below.
+I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIFs below.
 
-![CommunityShadersUsage](https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f)
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f"></video>
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/1fed5b00-72af-4375-9af8-97cb02b41663"></video>
+
+
+
 ![SkyrimUpscalerUsage]( "SkyrimUpscalerUsage")
-
-
-
-
-![SkyrimUpscalerUsage](https://github.com/AllstaRawR/FILFY/assets/164591926/1fed5b00-72af-4375-9af8-97cb02b41663)
 
 
 
