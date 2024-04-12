@@ -39,7 +39,6 @@ I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Th
   <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f" loop>CommunityShadersUsage</video>
 </details>
 
-<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f" loop>CommunityShadersUsage</video>
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/1fed5b00-72af-4375-9af8-97cb02b41663" loop>SkyrimUpscalerUsage</video>
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/289c82bc-d9dc-4a2a-9d45-790474c67dd9" loop>ReShadeUsage</video>
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/ee1dfd88-4800-486e-8ff4-f474404047d3" loop>KreatEUsage</video>
