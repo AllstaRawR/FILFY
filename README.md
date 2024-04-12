@@ -15,7 +15,7 @@
 
 | TABLE OF CONTENTS |
 | ----------- |
-| 0. [Feature Overview](#feature-overview) |
+| 0. [Introduction](#introduction) |
 | 1. [Wabbajack Installation](#wabbajack-installation-guide) |
 | 2. [FILFY Installation](#filfy-installation-guide) |
 | 3. [Feature List](#feature-list) |
@@ -29,9 +29,9 @@
 ---
 
 ### FEATURE OVERVIEW
-###### There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to add or remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be enabled or disabled. Body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
+###### There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to add or remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be enabled or disabled.
 
-This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to keep reading or skip to the [Feature List](#feature-list) if you want to know what exactly. Have fun!
+This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to keep reading or skip to the [Feature List](#feature-list) if you want to know what exactly. Following up on the above disclaimer, body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
 ---
 
