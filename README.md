@@ -270,9 +270,13 @@ Finally, multiple methods of safety have been added. The game will reload a save
     * `Backspace`: Immersive Equipment Displays
     * `End`: Community Shaders
     * `Delete`: Open Animation Replacer
+    * `Left Alt`: Dodge (Press)
+    * `F6`: Toggle UI
+    * `F7`: KreatE (Weather adjustment and more)
+    * `Shift + D`: Dialogue History
     * `O`: oBody Menu
     * `R`: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
-    * `T`: Dodge (must be unsheathed)
+    * `T`: Wheeler Menu
     * `Y`: Taunt
     * `U`: Character Stat Menu
     * `H`: Call Horse
@@ -280,22 +284,21 @@ Finally, multiple methods of safety have been added. The game will reload a save
     * `;`: Teleport Followers
     * `'`: Swiftly Order Swad
     * `=`: Animated Interactions Menu
-    * `F6`: Toggle UI
-    * `F7`: KreatE (Weather adjustment and more)
-    * `Shift + D`: Dialogue History
 * Vanilla Shortcuts
     * `Tab` -> `T`: Waiting (you press the wait button, `T`, while inside of the `Tween Menu`)
+    * `Left Alt`: Sprint (Hold)
+    * `Left Control`: Auto-Run
+    * `PrintScreen`: Screenshot
+    * `F12`: Steam Screenshot
+    * `C`: Sneak
     * `Q`: Favorites
     * `I`: Inventory
     * `P`: Spells
     * `F`: First/Third Person Toggle
     * `J`: Journal
-    * `C`: Auto-Run
     * `M`: Map
     * `/`: Skill Menu
     * `~`: Console Commands
-    * `F12`: Steam Screenshot
-    * `PrintScreen`: Screenshot
 
 ---
 
