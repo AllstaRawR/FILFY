@@ -29,7 +29,7 @@
 ---
 
 ### FEATURE OVERVIEW
-###### There is no sexually explicit content in this Wabbajack, but there is nudity. If you would like to add or remove the statues, paintings, etc. that feature nudity, they are under the `Optional (Cheats, Nudity, etc.)` header and can be enabled or disabled.
+###### There is no sexually explicit content in this Wabbajack, but there is artistic nudity. If you would like to add or remove this content, it is under the `Optional (Cheats, Nudity, etc.)` header in MO2 and can be enabled or disabled.
 
 This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to keep reading or skip to the [Feature List](#feature-list) if you want to know what exactly. Following up on the above disclaimer, body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
