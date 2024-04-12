@@ -47,38 +47,76 @@ I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Th
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/289c82bc-d9dc-4a2a-9d45-790474c67dd9" loop>ReShadeUsage</video>
 </details>
 <details>
-  <summary>KreatE Shades Usage</summary> 
+  <summary>KreatE Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/ee1dfd88-4800-486e-8ff4-f474404047d3" loop>KreatEUsage</video>
 </details>
 
 The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.I.T.`, `Komegaki`, and `B.O.O.B.I.E.S.`. You can also use the Add Item Menu function of `dMenu` to add items for testing... or cheating, we only judge you a little. Or view your stats in `Character Menu`.
 
+<details>
+  <summary>General UI Usage</summary> 
 <video src="" loop>GeneralUIUsage</video>
+</details>
+<details>
+  <summary>dMenu Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/beaa8b1b-2cd4-438f-abd9-2c4195679fe9" loop>dMenuUsage</video>
+</details>
+<details>
+  <summary>Character Menu Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/7df6b8b3-079a-40e3-a3ad-ab632314d7e2" loop>CharacterMenuUsage</video>
+</details>
 
 You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Quick Loot RE`. This is needed, as lots of enemies have been added. Ogrim and Ettins are quite scary, to be frank with you. Imps are just weird and funny. They do throw fireballs at you, so thankfully we have both `True Direction Movement` for target lock and `TK Dodge RE` for... well, dodging. You can also tell your followers to take specific actions really simply with `Swiftly Order Squad`.
 
+<details>
+  <summary>QuickLoot Usage</summary> 
 <video src="" loop>QuickLootUsage</video>
+</details>
+<details>
+  <summary>Wheeler Usage</summary> 
 <video src="" loop>WheelerUsage</video>
+</details>
+<details>
+ <summary>TK Dodge Usage</summary> 
 <video src="" loop>TKDodgeUsage</video>
+</details>
+<details>
+  <summary>Swiftly Order Squad Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/bc4e694f-5879-4505-bbf3-159678b81045" loop>SOSUsage</video>
+</details>
 
 Have you ever wanted to touch the sky? You still can't, but you can glide! `Paragliding in Skyrim` is wonderful and helps transversal dramatically. Ontop of this, `More Ferries` and `More Carriages` has been added, giving you more places to take them too. You can then fast travel with road signs you see on the road for a small fee, making walking along the road until you see a sign useful again. You'll want to be walking, too, because there are a lot of `Unmarked Locations Pack` out there. No, there is not a road sign from `Falskaar` to `Bruma`. Figure that travel out yourself.
 
+<details>
+  <summary>Paraglider Usage</summary> 
 <video src="" loop>ParagliderUsage</video>
+</details>
 
 Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Heck, you can even overhaul your body w/ `oBody` and the items on it with `I.E.D.`.
 
+<details>
+  <summary>Crafting Menu Usage</summary> 
 <video src="" loop>CraftingMenu</video>
+</details>
+<details>
+  <summary>Enchanting MenuUsage</summary> 
 <video src="" loop>EnchantingMenu</video>
-<video src="" loop>JumpingAndAttacking</video>
+</details>
+<details>
+  <summary>oBody Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/dc63160c-0cc2-4778-8525-3a774977136a" loop>oBody</video>
+</details>
+<details>
+  <summary>I.E.D. Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/0bc03552-ad74-4277-be91-f5be0c18f094" loop>IED</video>
+</details>
 
 Finally, multiple methods of safety have been added. The game will reload a save file twice if you are outside, thanks to `what's the mod's name...`, to help stave off corruption. `Skyrim SafeSave System Overhaul 2` disables AutoSaves and instead creates a full save every 5 minutes, as well as automtically saves when you are sleeping, praying, etc. There are many different script fixes and dll fixes installed as well to try to keep you enjoying the game as long as possible. My favorite "fix" is `Pause Menu After Load Screens` so that I can go get a drink while I wait for the game to load without finding myself killed by a Ettin. The most practical form of safety, however, is below. You can generate race specific names for your character by pressing the `Insert` key, thanks to `Player Name Generator`.
 
+<details>
+  <summary>Player Name Generator Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/96fd92a3-7dbb-4588-b930-491914066cde" loop></video>
+</details>
 
 | PC Specs | Location | Average FPS |
 | -------- | -------- | ------------|
