@@ -50,13 +50,13 @@ I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Th
   <summary>KreatE Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/ee1dfd88-4800-486e-8ff4-f474404047d3" loop>KreatEUsage</video>
 </details>
+<details>
+  <summary>Particle Lights Usage</summary> 
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/f3991711-48dc-4cbd-a66a-10ef139444f1" loop>ParticleLights</video>
+</details>
 
 The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.I.T.`, `Komegaki`, and `B.O.O.B.I.E.S.`. You can also use the Add Item Menu function of `dMenu` to add items for testing... or cheating, we only judge you a little. Or view your stats in `Character Menu`.
 
-<details>
-  <summary>General UI Usage</summary> 
-<video src="" loop>GeneralUIUsage</video>
-</details>
 <details>
   <summary>dMenu Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/beaa8b1b-2cd4-438f-abd9-2c4195679fe9" loop>dMenuUsage</video>
@@ -70,11 +70,11 @@ You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Qui
 
 <details>
   <summary>QuickLoot Usage</summary> 
-<video src="" loop>QuickLootUsage</video>
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/6c3d3850-f46f-4a98-9b6b-0b29e67759c1" loop>QuickLootUsage</video>
 </details>
 <details>
   <summary>Wheeler Usage</summary> 
-<video src="" loop>WheelerUsage</video>
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/867bb7b3-8a8a-423c-9367-f27d11f996ec" loop>WheelerUsage</video>
 </details>
 <details>
  <summary>TK Dodge Usage</summary> 
@@ -89,18 +89,14 @@ Have you ever wanted to touch the sky? You still can't, but you can glide! `Para
 
 <details>
   <summary>Paraglider Usage</summary> 
-<video src="" loop>ParagliderUsage</video>
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/e1ede8bf-a19b-4489-b5f6-cc0461a55b58" loop>ParagliderUsage</video>
 </details>
 
 Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Heck, you can even overhaul your body w/ `oBody` and the items on it with `I.E.D.`.
 
 <details>
   <summary>Crafting Menu Usage</summary> 
-<video src="" loop>CraftingMenu</video>
-</details>
-<details>
-  <summary>Enchanting Menu Usage</summary> 
-<video src="" loop>EnchantingMenu</video>
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/73acadad-5b82-4eea-b205-dcb22f1956df" loop>CraftingMenu</video>
 </details>
 <details>
   <summary>oBody Usage</summary> 
