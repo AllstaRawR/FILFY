@@ -263,42 +263,28 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ### SHORTCUT KEYS
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
-* Mod Added/Adjusted Shortcuts
-    * `PageDown`: Skyrim Upscaler
-    * `PageUp`: ReShade
-    * `Home`: dMenu
-    * `Backspace`: Immersive Equipment Displays
-    * `End`: Community Shaders
-    * `Delete`: Open Animation Replacer
-    * `Left Alt`: Dodge (Press)
-    * `F6`: Toggle UI
-    * `F7`: KreatE (Weather adjustment and more)
-    * `Shift + D`: Dialogue History
-    * `O`: oBody Menu
-    * `R`: Sheathe/Unsheathe (you can only draw/sheathe when pressing this button)
-    * `T`: Wheeler Menu
-    * `Y`: Taunt
-    * `U`: Character Stat Menu
-    * `H`: Call Horse
-    * `L`: Toggle Lantern Light
-    * `;`: Teleport Followers
-    * `'`: Swiftly Order Swad
-    * `=`: Animated Interactions Menu
-* Vanilla Shortcuts
-    * `Tab` -> `T`: Waiting (you press the wait button, `T`, while inside of the `Tween Menu`)
-    * `Left Alt`: Sprint (Hold)
-    * `Left Control`: Auto-Run
-    * `PrintScreen`: Screenshot
-    * `F12`: Steam Screenshot
-    * `C`: Sneak
-    * `Q`: Favorites
-    * `I`: Inventory
-    * `P`: Spells
-    * `F`: First/Third Person Toggle
-    * `J`: Journal
-    * `M`: Map
-    * `/`: Skill Menu
-    * `~`: Console Commands
+| Mod Added/Adjusted Shortcuts | Vanilla Shortcuts |
+| ------------------ | ------- |
+| `PageDown`: Skyrim Upscaler | `Tab` -> `T`: Waiting (Only available in the Tween Menu) |
+| `PageUp`: ReShade | `Left Alt`: Sprint (Hold) |
+| `Home`: dMenu | `Left Control`: Auto-Run |
+| `Backspace`: Immersive Equipment Displays | `PrintScreen`: Screenshot |
+| `End`: Community Shaders | `F12`: Steam Screenshot |
+| `Delete`: Open Animation Replacer | `C`: Sneak |
+| `Left Alt`: Dodge (Press) | `Q`: Favorites |
+| `F6`: Toggle UI | `I`: Inventory |
+| `F7`: KreatE (Weather adjustments) | `P`: Spells |
+| `Shift + D`: Dialogue History | `F`: First/Third Person Toggle |
+| `O`: oBody Menu | `J`: Journal |
+| `R`: Sheathe/Unsheathe | `M`: Map |
+| `T`: Wheeler Menu | `/`: Skill Menu |
+| `Y`: Taunt | `~`: Console Commands |
+| `U`: Character Stat Menu | `Tab`: Tween Menu |
+| `H`: Call Horse |  |
+| `L`: Toggle Lantern Light |  |
+| `;`: Teleport Followers |  |
+| `'`: Swiftly Order Swad |  |
+| `=`: Animated Interactions Menu |  |
 
 ---
 
