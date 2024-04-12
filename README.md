@@ -34,7 +34,7 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 
 I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIF below.
 
-![CommunityShadersUsage]( "CommunityShadersUsage")
+https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f
 ![SkyrimUpscalerUsage]( "SkyrimUpscalerUsage")
 
 The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.I.T.`, `Komegaki`, and `B.O.O.B.I.E.S.`.
@@ -296,7 +296,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Update GamePlay Adjustments in the ReadMe
 - [x] Update Feature Overview in the ReadMe
 - [ ] Add brief GIFs about each added feature
-- [ ] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
+- [x] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
 - [ ] Update all currently installed mods
 
