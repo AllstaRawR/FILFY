@@ -78,7 +78,7 @@ You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Qui
 </details>
 <details>
  <summary>TK Dodge Usage</summary> 
-<video src="" loop>TKDodgeUsage</video>
+<video src="https://github.com/AllstaRawR/FILFY/assets/164591926/d9ffd072-6acc-49b5-8cae-338d13c974aa" loop>TKDodgeUsage</video>
 </details>
 <details>
   <summary>Swiftly Order Squad Usage</summary> 
@@ -337,13 +337,13 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Resolve DLSS/FSR/XeSS issues
 - [x] Update GamePlay Adjustments in the ReadMe
 - [x] Update Feature Overview in the ReadMe
-- [ ] Add brief GIFs about each added feature
+- [x] Add brief GIFs about each added feature
 - [x] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
 - [ ] SkyPatch RACE records to remove ~40 plugins and clear the last unresolved conflicts
 - [ ] Update all currently installed mods
+- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing them from the inlined Wabbajack files.
 
 #### IMPROVEMENTS
-- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing them from the inlined Wabbajack files.
 - [ ] Switch to SFCO3 to remove ~100 plugins
 - [ ] Balance Experience scaling
 - [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
