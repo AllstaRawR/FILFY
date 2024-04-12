@@ -99,7 +99,7 @@ Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`
 <video src="" loop>CraftingMenu</video>
 </details>
 <details>
-  <summary>Enchanting MenuUsage</summary> 
+  <summary>Enchanting Menu Usage</summary> 
 <video src="" loop>EnchantingMenu</video>
 </details>
 <details>
