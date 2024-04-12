@@ -35,13 +35,21 @@ There is no sexually explicit content in this Wabbajack, but there is nudity. If
 I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. A table will be included at the bottom of this section with performance examples. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the GIFs below.
 
 <details>
-  <summary>Community Shades Usage</summary> 
+  <summary>Community Shaders Usage</summary> 
   <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/109438ff-e9dc-46fd-9234-14d1e5f31b8f" loop>CommunityShadersUsage</video>
 </details>
-
+<details>
+  <summary>Skyrim Upscaler Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/1fed5b00-72af-4375-9af8-97cb02b41663" loop>SkyrimUpscalerUsage</video>
+</details>
+<details>
+  <summary>ReShade Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/289c82bc-d9dc-4a2a-9d45-790474c67dd9" loop>ReShadeUsage</video>
+</details>
+<details>
+  <summary>KreatE Shades Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/ee1dfd88-4800-486e-8ff4-f474404047d3" loop>KreatEUsage</video>
+</details>
 
 The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.I.T.`, `Komegaki`, and `B.O.O.B.I.E.S.`. You can also use the Add Item Menu function of `dMenu` to add items for testing... or cheating, we only judge you a little. Or view your stats in `Character Menu`.
 
