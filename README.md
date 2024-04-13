@@ -320,6 +320,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
 | My Snow/Deep Elf has a neck seam. | This is a known bug and can be solved by changing gender once. I.e. M -> F or M -> F -> M. You are also going to be missing some of the hair color sliders and tint colors. I am completely unsure as to why this happens and am trying to figure it out. |
 | My camera keeps spawning in all crazy when the game loads. | Yeah, I know. `Capture Warmer` does this. It only lasts a fraction of a second but usually show up during the auto-pause. |
+| The game is weirdly zoomed into the left corner and I can't see the far right or bottom of the screen. | Do you have resolution scaling on in Windows? If so, open `\{FILFY-INSTALL}\\Tools\BethINI\BethINI.exe` and uncheck `Borderless` and `Windowed` then save. Launch the game then close it once it fully launches. Re-open `BethINI` and re-check `Borderless` and `Windowed`. You should now be able to launch and play the game normally. |
 | The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the most recent `crash-...log` file in the Discord for us to help. |
 
 ---
