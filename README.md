@@ -33,17 +33,19 @@
 
 This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to keep reading or skip to the [Feature List](#feature-list) if you want to know what exactly. Following up on the above disclaimer, body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
+---
+
 ### Gallery
 ###### General pictures of the environment. More pictures of gameplay, UI, etc. will be added later.
 
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011340_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011530_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011608_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011627_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011756_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011919_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011936_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012013_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012216_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412013056_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015901_1.jpg" width="45%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015936_1.jpg" width="45%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412020002_1.jpg" width="45%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011340_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011530_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011608_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011627_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011756_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011919_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011936_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012013_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012216_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412013056_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015901_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015936_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412020002_1.jpg" width="30%"></img>
 
 ---
 
