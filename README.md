@@ -16,7 +16,6 @@
 | TABLE OF CONTENTS |
 | ----------- |
 | 0. [Introduction](#introduction) |
-| 0.5. [Gallery](#gallery) |
 | 1. [Wabbajack Installation](#wabbajack-installation-guide) |
 | 2. [FILFY Installation](#filfy-installation-guide) |
 | 3. [Feature List](#feature-list) |
@@ -36,7 +35,7 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
 
 ---
 
-### Gallery
+### GALLERY
 ###### General pictures of the environment. More pictures of gameplay, UI, etc. will be added later.
 
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
