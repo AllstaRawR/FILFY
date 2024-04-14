@@ -51,7 +51,7 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
 
 ### WABBAJACK INSTALLATION GUIDE
 ###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 450GB of disk space, 150GB for Downloads and 300GB for the remaining Deployments.
-1. Install copies of `TESV: Skyrim Special Editions` and `Skyrim Special Edition: Creation Kit` via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
+1. Install copies of `TESV: Skyrim Special Edition` and `Skyrim Special Edition: Creation Kit` **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
 
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
     * Your `\Skyrim Special Edition` folder should look like this:
