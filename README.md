@@ -38,7 +38,7 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
 ### Gallery
 ###### General pictures of the environment. More pictures of gameplay, UI, etc. will be added later.
 
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011340_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011530_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011608_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011627_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011756_1.jpg" width="30%"></img>
