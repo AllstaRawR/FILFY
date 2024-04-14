@@ -328,7 +328,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | My Wabbajack installation failed and it wasn't Curios. | Close Wabbajack, try again. If this doesn't work, come bug us on the Discord. |
 | Lots of plugins are disabled in my MO2 right pane. | You can restore the load order from the backup. Click the yellow arrow to the left of the `Active Plugin Count` (far right side of MO2) and then restore from a recent backup stored with the Wabbajack. |
 | I am getting SKSE DLL errors on the Splash screen. | Ensure that you have [Visual Studio](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed and up to date.|
-| I can't seem to launch some of the tools. | You need [.Net](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.17-windows-arm64-installer) if trying to run Pandora or Synthesis. |
+| I can't seem to launch some of the tools. | You need [.Net](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-7.0.18-windows-x64-installer) if trying to run Pandora or Synthesis. |
 | I tried the above solutions and am still having DLL errors| Try right clicking on the mod/dll erroring in the left pane of MO2 and select `Reinstall this Mod`. |
 | Why are the load times to get into the game so long? | Go back to [Steps 6-8](#filfy-installation-guide). Did you properly wait for this? |
 | The game reloads my save twice when I'm outside and trying to load a save! | This is actually an intentional fix to help with save file reloading bugs. If you load an exterior save, it will load twice. |
