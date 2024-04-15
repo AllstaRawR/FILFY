@@ -382,9 +382,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### 1.6.X
 - [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
+- [ ] Balance Experience scaling
 
 #### 2.0.X
-- [ ] Balance Experience scaling
 - [x] Replace launch splash screen w/ an image that says something about the expected load times
 - [x] Create an icon for the modlist to show in the taskbar
 - [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
