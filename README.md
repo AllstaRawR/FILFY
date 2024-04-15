@@ -357,8 +357,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Add brief GIFs about each added feature
 - [x] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
 - [x] Clean out downloads folder
+- [ ] Integrate all currently installed mods
 - [ ] Update all currently installed mods
-- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing them from the inlined Wabbajack files.
+- [x] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 #### 1.1.X
 - [ ] Use SLUR to patch RACE records and remove ~50 plugins
