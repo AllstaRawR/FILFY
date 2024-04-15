@@ -372,12 +372,15 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### 1.3.X
 - [ ] Update all currently installed mods from 1.3.RC
-- [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
+- [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
 #### 1.4.X
 - [ ] Update all currently installed mods from 1.4.RC
-- [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
+- [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
+- [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
+- [ ] Convert remaining Enchantments to SkyPatcher to remove 25-50 plugins
+- [ ] Convert remaining Factions to SkyPatcher to remove 25-50 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
 #### 1.5.X
