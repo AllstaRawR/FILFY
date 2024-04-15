@@ -342,7 +342,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ### TO DO LIST
 ###### The never-ending list of things to fix, then to improve.
 
-#### IMMEDIATE
+#### 1.0.X
 - [x] Publish the list
 - [x] Integrate the Game INIs
 - [x] Integrate the SKSE INIs
@@ -361,20 +361,37 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Update all currently installed mods
 - [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing them from the inlined Wabbajack files.
 
-#### IMPROVEMENTS
+#### 1.1.X
 - [ ] Switch to SFCO3 to remove ~100 plugins
-- [ ] Balance Experience scaling
-- [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
-- [ ] Replace launch splash screen w/ an image that says something about the expected load times
-- [ ] Create an icon for the modlist to show in the taskbar
-- [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
-- [ ] Switch from StockGame to RootBuilder
-- [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
-- [ ] Covert remaining LLs to SkyPatcher to remove 250-500 plugins
-- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
-- [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
-- [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
 - [ ] Update DIALs per Elminster
+
+#### 1.2.X
+- [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
+- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
+
+#### 1.3.X
+- [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
+- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
+
+#### 1.4.X
+- [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
+- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
+
+#### 1.5.X
+- [ ] Switch from StockGame to RootBuilder
+- [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
+
+#### 1.6.X
+- [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
+
+#### 2.0.X
+- [ ] Balance Experience scaling
+- [x] Replace launch splash screen w/ an image that says something about the expected load times
+- [x] Create an icon for the modlist to show in the taskbar
+- [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
+
+#### Someday
+- [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
 
 ---
 
