@@ -363,7 +363,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### 1.1.X
 - [ ] Switch to SFCO3 to remove ~100 plugins
-- [ ] Update DIALs per Elminster
 
 #### 1.2.X
 - [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
@@ -392,6 +391,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### Someday
 - [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
+- [ ] Update DIALs per Elminster
 
 ---
 
