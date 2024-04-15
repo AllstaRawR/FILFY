@@ -23,7 +23,7 @@
 | 5. [Shortcut Keys](#shortcut-keys) |
 | 6. [Bundled Tools](#bundled-tools) |
 | 7. [Common Issues](#common-issues) |
-| 8. [To-Do List](#to-do-list) |
+| 8. [Roadmap](#Roadmap) |
 | 9. [Credits](#credits) |
 
 ---
@@ -339,7 +339,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 ---
 
-### TO DO LIST
+### Roadmap
 ###### The never-ending list of things to fix, then to improve.
 
 #### 1.0.X
