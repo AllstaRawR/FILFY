@@ -340,7 +340,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 #### Restoring Plugin Order
 * If you need to reload the plugin sort order, you can do this by clicking the `Restore Backup` button in Mod Organizer 2, then selecting the backup shipped with the modlist.
 
-    ![Screenshot 2024-04-16 175649](https://github.com/AllstaRawR/FILFY/assets/164591926/8803afdd-53bc-4fca-bb3a-b96878e2d9fa)
+    ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/d0fb72ab-9d4d-4cdf-bd99-4e54076dbe0d)
 
 #### Fixing Stuck Downloads in Wabbajack
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
