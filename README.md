@@ -337,13 +337,21 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | The game is weirdly zoomed into the left corner and I can't see the far right or bottom of the screen. | Do you have resolution scaling on in Windows? If so, open `\{FILFY-INSTALL}\\Tools\BethINI\BethINI.exe` and uncheck `Borderless` and `Windowed` then save. Launch the game then close it once it fully launches. Re-open `BethINI` and re-check `Borderless` and `Windowed`. You should now be able to launch and play the game normally. |
 | The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the most recent `crash-...log` file in the Discord for us to help. |
 
-#### Other Issues
+#### Restoring Plugin Order
 * If you need to reload the plugin sort order, you can do this by clicking the `Restore Backup` button in Mod Organizer 2, then selecting the backup shipped with the modlist.
 
     ![Screenshot 2024-04-16 175649](https://github.com/AllstaRawR/FILFY/assets/164591926/8803afdd-53bc-4fca-bb3a-b96878e2d9fa)
 
+#### Fixing Stuck Downloads in Wabbajack
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
-   * sdf
+   * [NewMiller Strange Piercings](https://www.mediafire.com/file/rwynzbu2mstm683/NewMiller_Strange.7z/file)
+   * [SMP Vanilla Chokers and Earrings](https://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file)
+   * [Knight Girl Armor](https://www.mediafire.com/file/4wdvgnua8zel039/[Christine]+Knight+Girl.7z/file)
+   * [Venom Blade Maiden Outgit](https://www.mediafire.com/file/31rtp8makdnazxi/[Christine]+Venom+Blade+Maiden.7z/file)
+   * [Guardian Kharoxia Clothes](https://drive.google.com/uc?export=download&id=1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK)
+   * [Sorceress Papillo Outfit](https://drive.google.com/uc?export=download&id=1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM)
+   * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
+   * [Pubic Hairs Overlays](https://drive.google.com/uc?export=download&id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG)
 
 ---
 
