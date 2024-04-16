@@ -11,7 +11,9 @@
 ---
 
 ### TABLE OF CONTENTS 
-###### If your issue is that Wabbajack cannot download missing files, please skip to [this section](https://github.com/AllstaRawR/FILFY/blob/main/README.md#fixing-stuck-downloads-in-wabbajack) and manually download these files to place inside of your Wabbajack downloads folder. You can skip to any desired section with the table of contents below. If you have questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
+###### You can skip to any desired section with the table of contents below. If you have questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
+
+#### If your issue is that Wabbajack cannot download missing files, please skip to [this section](https://github.com/AllstaRawR/FILFY/blob/main/README.md#fixing-stuck-downloads-in-wabbajack) and manually download these files to place inside of your Wabbajack downloads folder. 
 
 | TABLE OF CONTENTS |
 | ----------- |
