@@ -345,13 +345,13 @@ Finally, multiple methods of safety have been added. The game will reload a save
 #### Fixing Stuck Downloads in Wabbajack
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
    * [Strange Piercings](https://www.mediafire.com/file/rwynzbu2mstm683/NewMiller_Strange.7z/file)
+   * [Pubic Hairs Overlays](https://drive.google.com/uc?export=download&id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG)
    * [SMP Vanilla Chokers and Earrings](https://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file)
    * [Knight Girl Armor](https://www.mediafire.com/file/4wdvgnua8zel039/[Christine]+Knight+Girl.7z/file)
    * [Venom Blade Maiden Outgit](https://www.mediafire.com/file/31rtp8makdnazxi/[Christine]+Venom+Blade+Maiden.7z/file)
    * [Guardian Kharoxia Clothes](https://drive.google.com/uc?export=download&id=1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK)
    * [Sorceress Papillo Outfit](https://drive.google.com/uc?export=download&id=1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM)
    * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
-   * [Pubic Hairs Overlays](https://drive.google.com/uc?export=download&id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG)
 
 ---
 
