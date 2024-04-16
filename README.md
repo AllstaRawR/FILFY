@@ -279,7 +279,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `PageDown`: Skyrim Upscaler | `Tab` -> `T`: Waiting (Only available in the Tween Menu) |
 | `PageUp`: ReShade | `Left Alt`: Sprint (Hold) |
 | `Home`: dMenu | `Left Control`: Auto-Run |
-| `Backspace`: Immersive Equipment Displays | `PrintScreen`: Screenshot |
+| `Backspace`: Immersive Equipment Displays | `Left Shift`: Power Attack (Hold) |
 | `End`: Community Shaders | `F12`: Steam Screenshot |
 | `Delete`: Open Animation Replacer | `C`: Sneak |
 | `Left Alt`: Dodge (Press) | `Q`: Favorites |
@@ -291,7 +291,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `T`: Wheeler Menu | `/`: Skill Menu |
 | `Y`: Taunt | `~`: Console Commands |
 | `U`: Character Stat Menu | `Tab`: Tween Menu |
-| `H`: Call Horse |  |
+| `H`: Call Horse | `PrintScreen`: Screenshot | |
 | `L`: Toggle Lantern Light |  |
 | `;`: Teleport Followers |  |
 | `'`: Swiftly Order Swad |  |
