@@ -8,7 +8,7 @@
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_RECOMMENDED.svg" width="28"> &nbsp; 32GB+ DDR4 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_REQUIRED.svg" width="28"> &nbsp; 16GB DDR4 |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_RECOMMENDED.svg" width="24"> &nbsp; 1TB NVME (PCIE Gen4x4) | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_REQUIRED.svg" width="24"> &nbsp; 1TB SSD (SATA 3) |
 
-###### If you do not have FSR/DLSS/XeSS, you might see crashing with only 8GB of VRAM. This is caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
+###### If you do not use the bundled FSR/DLSS/XeSS, you might see crashing with only 8GB of VRAM. This is caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
 
 ---
 
