@@ -19,7 +19,7 @@ If your issue is that Wabbajack cannot download missing files, please skip to [t
 
 | TABLE OF CONTENTS |
 | ----------- |
-| 0. [GALLERY](#gallery) |
+| 0. [Gallery](#gallery) |
 | 1. [Wabbajack Installation](#wabbajack-installation-guide) |
 | 2. [FILFY Installation](#filfy-installation-guide) |
 | 3. [Feature List](#feature-list) |
