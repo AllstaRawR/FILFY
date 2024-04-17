@@ -348,8 +348,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### Fixing Stuck Downloads in Wabbajack
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
-   * [Dint Hair Pack 2 1.10](https://drive.google.com/uc?export=download&id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ)
-   * [Dint BDOR Hairs 0.17](https://drive.google.com/uc?export=download&id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3)
+   * [Dint Hair Pack 2 (v1.11)](https://drive.google.com/uc?export=download&id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ)
+   * [Dint BDOR Hairs (v0.17.7)](https://drive.google.com/uc?export=download&id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3)
    * [Strange Piercings](https://www.mediafire.com/file/rwynzbu2mstm683/NewMiller_Strange.7z/file)
    * [Pubic Hairs Overlays](https://drive.google.com/uc?export=download&id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG)
    * [SMP Vanilla Chokers and Earrings](https://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file)
