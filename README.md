@@ -285,7 +285,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `Home`: dMenu | `Left Control`: Auto-Run |
 | `Backspace`: Immersive Equipment Displays | `Left Shift`: Power Attack (Hold) |
 | `End`: Community Shaders | `F12`: Steam Screenshot |
-| `Delete`: Open Animation Replacer | `C`: Sneak |
+| `Shift + O`: Open Animation Replacer | `C`: Sneak |
 | `Left Alt`: Dodge (Press) | `Q`: Favorites |
 | `F6`: Toggle UI | `I`: Inventory |
 | `F7`: KreatE (Weather adjustments) | `P`: Spells |
