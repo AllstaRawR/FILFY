@@ -383,22 +383,27 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 #### 1.1.X
+- [x] Update all currently installed mods from 1.0.RC
+- [ ] Switch from StockGame to RootBuilder
+- [ ] Add Performance and Quality presets to the list
+
+#### 1.2.X
 - [ ] Update all currently installed mods from 1.1.RC
 - [ ] Integrate SkyPatcher for O.W.L. and for Books Covers Skyrim
 - [ ] Convert RACE records to S.L.U.R. to remove ~50 plugins
 - [ ] Switch to SFCO3 to remove ~100 plugins
 
-#### 1.2.X
+#### 1.3.X
 - [ ] Update all currently installed mods from 1.2.RC
 - [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
-#### 1.3.X
+#### 1.4.X
 - [ ] Update all currently installed mods from 1.3.RC
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
-#### 1.4.X
+#### 1.5.X
 - [ ] Update all currently installed mods from 1.4.RC
 - [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
 - [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
@@ -406,15 +411,11 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Convert remaining Factions to SkyPatcher to remove 25-50 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
-#### 1.5.X
-- [ ] Update all currently installed mods from 1.5.RC
-- [ ] Switch from StockGame to RootBuilder
-- [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
-
 #### 1.6.X
 - [ ] Update all currently installed mods from 1.6.RC
 - [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
 - [ ] Balance Experience scaling
+- [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
 
 #### 2.0.X
 - [ ] Update all currently installed mods from 2.0.RC
