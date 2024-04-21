@@ -363,6 +363,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
    * [Guardian Kharoxia Clothes](https://drive.google.com/uc?export=download&id=1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK)
    * [Sorceress Papillo Outfit](https://drive.google.com/uc?export=download&id=1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM)
    * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
+   * [NGIO-NG 1.0.10](https://github.com/SaneEngineer/No-Grass-In-Objects-NG/releases/download/1.0.10/NGIO-NG-1.0.10-AE.zip)
 
 ---
 
@@ -389,6 +390,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### 1.1.X
 - [x] Update all currently installed mods from 1.0.RC
+- [x] Add Grass Cache
+- [x] Add Grass LOD
 - [ ] Switch from StockGame to RootBuilder
 - [ ] Add Performance and Quality presets to the list
 
