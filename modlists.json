@@ -33,14 +33,14 @@
       "discordURL": "https://discord.gg/ag6FSESCK6"
     },
     "download_metadata": {
-      "Hash": "i47IOtHhIyU=",
-      "Size": 1703932436,
-      "NumberOfArchives": 2909,
-      "SizeOfArchives": 184565186752,
-      "NumberOfInstalledFiles": 472930,
-      "SizeOfInstalledFiles": 333593835722
+      "Hash":"UhUdShBoiT0=",
+      "Size":1797852062,
+      "NumberOfArchives":2936",
+      "SizeOfArchives":181645340885,
+      "NumberOfInstalledFiles":495036,
+      "SizeOfInstalledFiles":348476604805
     },
-    "version": "1.1.1",
+    "version": "1.1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-04-19T02:05:18.2877415Z",
     "repositoryName": ""
