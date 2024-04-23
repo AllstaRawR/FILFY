@@ -37,6 +37,8 @@ If your issue is that Wabbajack cannot download missing files, please skip to [t
 
 This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to look at the gallery below and keep reading, or you can skip to the [Feature List](#feature-list). Following up on the above disclaimer, body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
+If you want to improve the default graphical fidelity, navigate to [Optional Graphical Adjustments](#optional-graphical-adjustments) after installation. This can significantly improve the visuals, at the cost of performance and disk space.
+
 ---
 
 ### GALLERY
@@ -134,7 +136,7 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
 
 #### DynDOLOD Performance & Quality Presets
-###### Performance takes ~81GB of additional storage and Quality takes ~GB of additional storage, once installed.
+###### Performance takes ~81GB of additional storage and Quality takes ~136GB of additional storage, once installed.
 
 1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality. **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
 
