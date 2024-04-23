@@ -106,7 +106,32 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
     * If this is the first time you have launched this modpack, the game will need to compile shaders between Step 4 and 5. This will take **_around 1 minute_** and slow your computer down considerably, but only needs to be done once.
 
     ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
-8. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done!
+8. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done! Unless... you want more graphical fidelity?
+
+---
+
+### Optional Graphical Improvements
+###### Can your system handle it?
+
+There are a few different options to improve your graphical fideliity. Firstly, you can update the game settings with the included BethINI install. You can then also install the pre-generated DynDOLOD outputs, either for performance or for quality.
+
+#### BethINI Settings Updates
+
+1. ...
+
+#### DynDOLOD Performance & Quality Presets
+
+1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality. **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
+
+![image](https://github.com/AllstaRawR/FILFY/assets/164591926/45bfea70-fefd-48fd-9495-94c771973225)
+
+2. Once you've downloaded these files, install them inside of Mod Organizer 2 like you would a typical mod through the `Downloads` tab in the right pane. Ensure that they show up in the left pane in the order shown below:
+
+![image](https://github.com/AllstaRawR/FILFY/assets/164591926/41796773-9d7a-4878-91a8-54865ce368c6)
+
+3. You can now navigate to the `Plugins` tab in the right pane and restore the backup shipped with F.I.L.F.Y., this will ensure that the plugins load in the right order.
+
+![image](https://github.com/AllstaRawR/FILFY/assets/164591926/34e2ee10-42b1-452b-8261-4dbc11e6e6f8)
 
 ---
 
