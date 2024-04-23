@@ -110,22 +110,37 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
 
 ---
 
-### Optional Graphical Improvements
-###### Can your system handle it?
+### Optional Graphical Adjustments
 
-There are a few different options to improve your graphical fideliity. Firstly, you can update the game settings with the included BethINI install. You can then also install the pre-generated DynDOLOD outputs, either for performance or for quality.
+There are a few different options to improve your graphical fideliity. Firstly, you can update the game settings with the included BethINI install. You can then also adjust the settings inside of the `Skyrim Upscaler` in-game. Finally you can install the pre-generated DynDOLOD outputs, either for performance or for quality. DynDOLOD is not packaged with the Wabbajack Install in order to allow the list to be used by those with less free storage available, as well as offer the opportunity for users to opt for the quality preset.
 
-#### BethINI Settings Updates
+#### BethINI Settings Adjustments
 
-1. ...
+1. Navigate in Windows File Explorer to `{FILFY-Install}\Tools\BethINI\BethINI.exe`. Once open, it will look like this.
+
+![image](https://github.com/AllstaRawR/FILFY/assets/164591926/acf82986-0afe-451a-97f2-d106d5fb3ab5)
+
+2. You can now use any of the presets below (Poor - Ultra). Ensure that the Antialiasing stays at `Off`, as using `TAA` or `FXAA` will cause issues with the bundled Upscaler.
+3. You can review any changes made to the INIs in the right tab by clicking `Refresh`.
+
+#### Skyrim Upscaler Adjustments
+
+1. You can open the Skyrim Upscaler menu in the game by pressing the `Page Down` key on your keyboard. Once opened, it will look like this:
+2. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
+
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/47ab5167-feb4-47fe-a67b-df0ead4648e2" width="40%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/f9acaa93-a0d5-447d-ad83-ae54504f856f" width="40%"></img>
+
+3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
 
 #### DynDOLOD Performance & Quality Presets
+###### Performance takes ~81GB of additional storage and Quality takes ~GB of additional storage, once installed.
 
 1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality. **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
 
 ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/45bfea70-fefd-48fd-9495-94c771973225)
 
-2. Once you've downloaded these files, install them inside of Mod Organizer 2 like you would a typical mod through the `Downloads` tab in the right pane. Ensure that they show up in the left pane in the order shown below:
+2. Once you've downloaded these files, install them inside of Mod Organizer 2 like you would a typical mod through the `Downloads` tab in the right pane. Ensure that they show up in the left pane in the order shown below, as the outputs *must load after `F.I.L.F.Y. - INI Settings`*.
 
 ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/41796773-9d7a-4878-91a8-54865ce368c6)
 
