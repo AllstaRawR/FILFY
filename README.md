@@ -143,7 +143,7 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 
 ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/45bfea70-fefd-48fd-9495-94c771973225)
 
-2. Once you've downloaded these files, install them inside of Mod Organizer 2 like you would a typical mod through the `Downloads` tab in the right pane. Ensure that they show up in the left pane in the order shown below, as the outputs *must load after `F.I.L.F.Y. - INI Settings`*.
+2. Once you've downloaded these files, install them inside of Mod Organizer 2 like you would a typical mod through the `Downloads` tab in the right pane. Ensure that they show up in the left pane in the order shown below, as the outputs *must load after* `F.I.L.F.Y. - INI Settings`.
 
 ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/41796773-9d7a-4878-91a8-54865ce368c6)
 
