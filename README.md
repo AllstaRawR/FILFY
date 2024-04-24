@@ -138,7 +138,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 #### DynDOLOD Performance & Quality Presets
 ###### Performance takes ~81GB of additional storage and Quality takes ~136GB of additional storage, once installed.
 
-1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality. **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
+1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality.
+    * **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
 
 ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/45bfea70-fefd-48fd-9495-94c771973225)
 
