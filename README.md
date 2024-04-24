@@ -438,6 +438,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Add Grass LOD
 - [ ] Include RootBuilder and make ENB/CS install options
 - [x] Add Performance and Quality presets to the list
+- [ ] Completely re-work Immersive Armors
 
 #### 1.2.X
 - [ ] Update all currently installed mods from 1.1.RC
