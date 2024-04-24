@@ -436,8 +436,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Update all currently installed mods from 1.0.RC
 - [x] Add Grass Cache
 - [x] Add Grass LOD
-- [ ] Switch from StockGame to RootBuilder
-- [ ] Add Performance and Quality presets to the list
+- [ ] Include RootBuilder and make ENB/CS install options
+- [x] Add Performance and Quality presets to the list
 
 #### 1.2.X
 - [ ] Update all currently installed mods from 1.1.RC
