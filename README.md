@@ -408,6 +408,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
    * [Guardian Kharoxia Clothes](https://drive.google.com/uc?export=download&id=1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK)
    * [Sorceress Papillo Outfit](https://drive.google.com/uc?export=download&id=1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM)
    * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
+   * [xEdit 4.1.5F](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
 
 ---
 
