@@ -392,7 +392,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
     ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/d0fb72ab-9d4d-4cdf-bd99-4e54076dbe0d)
 
 #### Fixing Stuck Downloads in Wabbajack
-* If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
+* If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, GitHub, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
   * It will look like this:
 
     ![Screenshot 2024-04-18 204840](https://github.com/AllstaRawR/FILFY/assets/164591926/e11f2035-22b8-4d49-a7d8-e92f6e46c7e2)
@@ -440,7 +440,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Add Grass LOD
 - [ ] Include RootBuilder and make ENB/CS install options
 - [x] Add Performance and Quality presets to the list
-- [ ] Completely re-work Immersive Armors
+- [x] Completely re-work Immersive Armors
 
 #### 1.2.X
 - [ ] Update all currently installed mods from 1.1.RC
