@@ -409,7 +409,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
    * [Sorceress Papillo Outfit](https://drive.google.com/uc?export=download&id=1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM)
    * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
    * [xEdit 4.1.5F](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
-   * [Dark Rose MO2 Theme](https://github.com/RevontuletCXVII/Revontulets-MO2-Themes/releases/tag/Theme-Release)
+   * [Dark Rose MO2 Theme](https://github.com/RevontuletCXVII/Revontulets-MO2-Themes/releases/download/Theme-Release/Revontulet-DarkRose.rar)
 
 ---
 
