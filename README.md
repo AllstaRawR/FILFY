@@ -22,13 +22,14 @@ If your issue is that Wabbajack cannot download missing files, please skip to [t
 | 0. [Gallery](#gallery) |
 | 1. [Wabbajack Installation](#wabbajack-installation-guide) |
 | 2. [FILFY Installation](#filfy-installation-guide) |
-| 3. [Feature List](#feature-list) |
-| 4. [Gameplay Adjustments](#gameplay-adjustments) |
-| 5. [Shortcut Keys](#shortcut-keys) |
-| 6. [Bundled Tools](#bundled-tools) |
-| 7. [Common Issues](#common-issues) |
-| 8. [Roadmap](#Roadmap) |
-| 9. [Credits](#credits) |
+| 3. [Optional Graphical Adjustments](#optional-graphical-adjustments) |
+| 4. [Feature List](#feature-list) |
+| 5. [Gameplay Adjustments](#gameplay-adjustments) |
+| 6. [Shortcut Keys](#shortcut-keys) |
+| 7. [Bundled Tools](#bundled-tools) |
+| 8. [Common Issues](#common-issues) |
+| 9. [Roadmap](#Roadmap) |
+| X. [Credits](#credits) |
 
 ---
 
@@ -121,8 +122,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB.
 2. You will need to disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB.
 
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="40%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea" width="40%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="55%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea" width="35%"></img>
 
 #### BethINI Settings Adjustments
 
@@ -138,8 +139,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 1. You can open the Skyrim Upscaler menu in the game by pressing the `Page Down` key on your keyboard. Once opened, it will look like this:
 2. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
 
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/47ab5167-feb4-47fe-a67b-df0ead4648e2" width="40%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/f9acaa93-a0d5-447d-ad83-ae54504f856f" width="40%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/47ab5167-feb4-47fe-a67b-df0ead4648e2" width="45%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/f9acaa93-a0d5-447d-ad83-ae54504f856f" width="45%"></img>
 
 3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
 
