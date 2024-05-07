@@ -432,7 +432,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
 - [x] Clean out downloads folder
 - [x] Integrate all currently installed mods
-- [x] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 #### 1.1.X
 - [x] Update all currently installed mods from 1.0.RC
@@ -444,8 +443,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 #### 1.2.X
 - [ ] Update all currently installed mods from 1.1.RC
-- [ ] Integrate SkyPatcher for O.W.L. and for Books Covers Skyrim
 - [ ] Convert RACE records to S.L.U.R. to remove ~50 plugins
+- [ ] Integrate SkyPatcher for O.W.L. and for Books Covers Skyrim
+- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 - [ ] Switch to SFCO3 to remove ~100 plugins
 
 #### 1.3.X
