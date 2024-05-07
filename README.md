@@ -122,8 +122,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB.
 2. You will need to disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB.
 
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="55%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea" width="35%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="50%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea" width="40%"></img>
 
 #### BethINI Settings Adjustments
 
