@@ -56,7 +56,7 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 ---
 
 ### WABBAJACK INSTALLATION GUIDE
-###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 410GB of disk space, plus the 20GB from the vanilla Skyrim install.
+###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 490GB of disk space, plus the 20GB from the vanilla Skyrim install.
 1. Install copies of `TESV: Skyrim Special Edition` and `Skyrim Special Edition: Creation Kit` **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
 
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
@@ -116,6 +116,16 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 
 There are a few different options to improve your graphical fideliity. Firstly, you can update the game settings with the included BethINI install. You can then also adjust the settings inside of the `Skyrim Upscaler` in-game. Finally you can install the pre-generated DynDOLOD outputs, either for performance or for quality. DynDOLOD is not packaged with the Wabbajack Install in order to allow the list to be used by those with less free storage available, as well as offer the opportunity for users to opt for the quality preset.
 
+#### Switching to ENB
+
+1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB.
+
+![image](https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e)
+
+2. You will need to disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB.
+
+![image](https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea)
+
 #### BethINI Settings Adjustments
 
 1. Navigate in Windows File Explorer to `{FILFY-Install}\Tools\BethINI\BethINI.exe`. Once open, it will look like this.
@@ -136,7 +146,7 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
 
 #### DynDOLOD Performance & Quality Presets
-###### Performance takes ~81GB of additional storage and Quality takes ~136GB of additional storage, once installed.
+###### Performance takes ~81GB of storage and Quality takes ~136GB of storage, which means it will take around 55GB more storage if you replace Performance with Quality.
 
 1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality.
     * **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
