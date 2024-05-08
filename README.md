@@ -119,8 +119,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 
 #### Switching to ENB
 
-1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB.
-2. You will need to disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB.
+1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB. This will automatically disable `Community Shaders`.
+2. You will need to ensure that the `Skyrim Upscaler` is `OFF` in the menu, or disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB.
 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="50%"></img>
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea" width="40%"></img>
@@ -136,8 +136,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 
 #### Skyrim Upscaler Adjustments
 
-1. You can open the Skyrim Upscaler menu in the game by pressing the `Page Down` key on your keyboard. Once opened, it will look like this:
-2. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
+1. You can open the `Skyrim Upscaler` menu in the game by pressing the `Page Down` key on your keyboard. Once opened, it will look like this:
+2. The upscaler is defaulted to `OFF`. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/47ab5167-feb4-47fe-a67b-df0ead4648e2" width="45%"></img>
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/f9acaa93-a0d5-447d-ad83-ae54504f856f" width="45%"></img>
