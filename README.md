@@ -154,6 +154,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 2. You can now use any of the presets below (Poor - Ultra). Ensure that the Antialiasing stays at `Off`, as using `TAA` or `FXAA` will cause issues with the bundled Upscaler.
 3. You can review any changes made to the INIs in the right tab by clicking `Refresh`.
 
+</details>
+
 <details>
   <summary>Skyrim Upscaler Adjustments</summary>
 
