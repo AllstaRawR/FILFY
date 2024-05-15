@@ -455,7 +455,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ###### Read this *before* you make a bug report or GroundAura will answer you passive-aggressively.
 
 <details>
-  <summary>Chart</summary>
+  <summary>General Issues Chart</summary>
     
 | Problem | Solution |
 | ------- | -------- |
