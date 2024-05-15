@@ -92,10 +92,14 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
     ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
 
 </details>
+
 ---
 
 ### FILFY INSTALLATION GUIDE
 ###### This is a guide on how to actually install and play the game, once you finished with all Wabbajack setup.
+
+<details>
+  <summary>Steps</summary>
 
 1. Click `Browse` in Wabbajack, then select `Download Modlist` on FILFY in the Gallery to download. You will have to select `Show Unofficial Lists` for it to show up.
    
@@ -120,13 +124,17 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
     ![Skyrim-LaunchSmall](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Skyrim-LaunchSmall.png "Skyrim-LaunchSmall")
 8. Skyrim will automatically load into your latest save file (or a new game if you do not have a save file). Congratulations, you are done! Unless... you want more graphical fidelity?
 
+</details>
+
 ---
 
 ### Optional Graphical Adjustments
 
 There are a few different options to improve your graphical fideliity. Firstly, you can update the game settings with the included BethINI install. You can then also adjust the settings inside of the `Skyrim Upscaler` in-game. Finally you can install the pre-generated DynDOLOD outputs, either for performance or for quality. DynDOLOD is not packaged with the Wabbajack Install in order to allow the list to be used by those with less free storage available, as well as offer the opportunity for users to opt for the quality preset.
 
-#### Switching to ENB
+
+<details>
+  <summary>Switching to ENB</summary>
 
 1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB. This will automatically disable `Community Shaders`.
 2. You will need to ensure that the `Skyrim Upscaler` is `OFF` in the menu, or disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB.
@@ -134,7 +142,10 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="50%"></img>
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/e6ed9d04-8c61-448b-a61a-3e8aa3f7a6ea" width="40%"></img>
 
-#### BethINI Settings Adjustments
+</details>
+
+<details>
+  <summary>BethINI Settings Adjustments</summary>
 
 1. Navigate in Windows File Explorer to `{FILFY-Install}\Tools\BethINI\BethINI.exe`. Once open, it will look like this.
 
@@ -143,7 +154,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 2. You can now use any of the presets below (Poor - Ultra). Ensure that the Antialiasing stays at `Off`, as using `TAA` or `FXAA` will cause issues with the bundled Upscaler.
 3. You can review any changes made to the INIs in the right tab by clicking `Refresh`.
 
-#### Skyrim Upscaler Adjustments
+<details>
+  <summary>Skyrim Upscaler Adjustments</summary>
 
 1. You can open the `Skyrim Upscaler` menu in the game by pressing the `Page Down` key on your keyboard. Once opened, it will look like this:
 2. The upscaler is defaulted to `OFF`. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
@@ -153,7 +165,11 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 
 3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
 
-#### DynDOLOD Performance & Quality Presets
+</details>
+
+<details>
+  <summary>DynDOLOD Performance & Quality Presets</summary>
+  
 ###### Performance takes ~81GB of storage and Quality takes ~136GB of storage, which means it will take around 55GB more storage if you replace Performance with Quality.
 
 1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality.
@@ -168,6 +184,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 3. You can now navigate to the `Plugins` tab in the right pane and restore the backup shipped with F.I.L.F.Y., this will ensure that the plugins load in the right order.
 
 ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/34e2ee10-42b1-452b-8261-4dbc11e6e6f8)
+
+</details>
 
 ---
 
