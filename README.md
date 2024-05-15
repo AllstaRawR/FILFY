@@ -45,6 +45,8 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 ### GALLERY
 ###### General pictures of the environment. More pictures of gameplay, UI, etc. will be added later.
 
+<details>
+  <summary>Gallery Pictures</summary>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011530_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011608_1.jpg" width="30%"></img>
@@ -53,11 +55,15 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012013_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012216_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412013056_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015901_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015936_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412020002_1.jpg" width="30%"></img>
+</details>
 
 ---
 
 ### WABBAJACK INSTALLATION GUIDE
 ###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 490GB of disk space, plus the 20GB from the vanilla Skyrim install.
+
+<details>
+  <summary>Steps</summary>
 1. Install copies of `TESV: Skyrim Special Edition` and `Skyrim Special Edition: Creation Kit` **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
 
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
@@ -82,7 +88,7 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
    
     ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
-
+</details>
 ---
 
 ### FILFY INSTALLATION GUIDE
