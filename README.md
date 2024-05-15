@@ -26,9 +26,8 @@ If your issue is that Wabbajack cannot download missing files, please skip to [t
 | 4. [Feature List](#feature-list) |
 | 5. [Gameplay Adjustments](#gameplay-adjustments) |
 | 6. [Shortcut Keys](#shortcut-keys) |
-| 7. [Bundled Tools](#bundled-tools) |
-| 8. [Common Issues](#common-issues) |
-| 9. [Roadmap](#Roadmap) |
+| 7. [Common Issues](#common-issues) |
+| 8. [Roadmap](#Roadmap) |
 | X. [Credits](#credits) |
 
 ---
@@ -376,6 +375,26 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
+<details>
+  <summary>Bundled Tools</summary>
+
+* Creation Kit (with Creation Kit Platform Extended)
+  * This is what Bethesda gave us to make mods, but better!
+* SSEEdit
+  * This is your go-to tool to see what might be going on inside of the plugins.
+* BodySlide
+  * This is to generate all of your hawt armor mod bodyslide files.
+  * This modpack features oBody, so you will need to ensure that you use the HIMBO or 3BA `Zeroed Presets` when generating BodySlide files, as well as ensure that you build morphs.
+* Nemesis
+  * This is the current go-to animation generation tool. I would like to switch to Pandora, but it currently has caching issues.
+* Beth INI
+  * This can be run to adjust your INIs as desired for optimal quality and performance.
+* Cathedral Assets Optimizer
+  * This can be run to correct texture, mesh, and animation errors.
+* There are more included but hidden inside of the launcher. This is because I did not bundle their install files. If you would like to add some of them back, feel free. Examples include zEdit, Wrye Bash, and DynDOLOD.
+
+</details>
+
 ---
 
 ### SHORTCUT KEYS
@@ -466,7 +485,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 <details>
-  <summary>Fixing Stuck Downloads in Wabbajack</summary>
+  <summary>### Fixing Stuck Downloads in Wabbajack</summary>
   
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, GitHub, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
   * It will look like this:
