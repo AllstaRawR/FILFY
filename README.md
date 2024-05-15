@@ -495,7 +495,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ###### The never-ending list of things to fix, then to improve.
 
 <details>
-  <summary>1.0.X (Completed)</summary>
+  <summary>1.0.X</summary>
     
 - [x] Publish the list
 - [x] Integrate the Game INIs
@@ -516,7 +516,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 <details>
-  <summary>1.1.X (Completed)</summary>
+  <summary>1.1.X</summary>
   
 - [x] Update all currently installed mods from 1.0.RC
 - [x] Add Grass Cache
@@ -579,7 +579,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
-<details>
+<details open>
   <summary>2.0.X</summary>
   
 - [ ] Update all currently installed mods from 2.0.RC
