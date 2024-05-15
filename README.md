@@ -382,7 +382,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
 <details>
-  <summary>Chart</summary>
+  <summary>Key Codes</summary>
   
 | Mod Added/Adjusted Shortcuts | Vanilla Shortcuts |
 | ------------------ | ------- |
@@ -458,6 +458,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 <details>
   <summary>Restoring Plugin Order</summary>
+  
 * If you need to reload the plugin sort order, you can do this by clicking the `Restore Backup` button in Mod Organizer 2, then selecting the backup shipped with the modlist.
 
     ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/d0fb72ab-9d4d-4cdf-bd99-4e54076dbe0d)
@@ -466,6 +467,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 <details>
   <summary>Fixing Stuck Downloads in Wabbajack</summary>
+  
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, GitHub, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
   * It will look like this:
 
@@ -493,7 +495,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ###### The never-ending list of things to fix, then to improve.
 
 <details>
-  <summary>1.0.X</summary>
+  <summary>1.0.X (Completed)</summary>
     
 - [x] Publish the list
 - [x] Integrate the Game INIs
@@ -514,7 +516,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 <details>
-  <summary>1.1.X</summary>
+  <summary>1.1.X (Completed)</summary>
   
 - [x] Update all currently installed mods from 1.0.RC
 - [x] Add Grass Cache
