@@ -46,7 +46,7 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 ###### General pictures of the environment. More pictures of gameplay, UI, etc. will be added later.
 
 <details>
-  <summary>Gallery Pictures</summary>
+  <summary>Pictures</summary>
   
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="30%"></img>
@@ -194,6 +194,9 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 ### FEATURE LIST
 ###### This is a quick summary of key features added by this mod, with GIFs! A more in-depth summary of features is below in [Gameplay Adjustments](#gameplay-adjustments).
 
+<details>
+  <summary>Features</summary>
+
 I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the videos below.
 
 <details>
@@ -276,12 +279,15 @@ Finally, multiple methods of safety have been added. The game will reload a save
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/96fd92a3-7dbb-4588-b930-491914066cde" loop></video>
 </details>
 
+</details>
+
 --- 
 
 ### GAMEPLAY ADJUSTMENTS
 ###### This is an explaination of core gameplay altering modifications and adjustments, this is not comprehensive.
 
-#### Overhauls
+<details>
+  <summary>Overhauls</summary>
 
 * `Seasons of Skyrim` makes the weather change throughout the year, changing the ground cover, trees, enemies, and even more.
 * Perks are overhauled with `Ordinator`, though this will likely be adjusted to `Vorkiinator Black` in the future.
@@ -294,8 +300,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `Simple Hunting Overhaul` and `Simple Fishing Overhaul` work with `Immersive Equipment Displays` to make these activities both fun and useful for the first time.
 * `Trade and Barter` and `Trade Routes` both mean that merchants now have a different inventory and price than you are used to. Solitude sure must have a lot of taxes to justify these prices...
 
+</details>
 
-#### Movement & Combat
+<details>
+  <summary>Movement & Combat</summary>
 
 * `True Directional Movement` allows for natural, fluid Third Person gameplay.
   * Combined with `SmoothCam`, you can now lock onto targets or free-aim your bow like never before.
@@ -311,7 +319,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * Thankfully, there is a lot of both weapon types and magic spells, meaning you will eventually be able to slay all the baddies. Or you can cast a waterwalking spell from `Mysticism` or `Apocalypse` and laugh as your enemies try to swim to you. You do you.
 * If those baddies do successfully end you, `Stay In The Fight` allows you to, well, stay in the fight, but at a cost.
 
-#### Exploration
+</details>
+
+<details>
+  <summary>Exploration</summary>
 
 * `Bruma`, `Wyrmstooth`, `Falskaar`, `New Vominheim`, `Vigilant`, `Sirenroot`, and multiple more Worldspace expansions have all been included and patched to function together.
 * There are now many more unmarked locations (such as from the multiple `Unmarked Locations Packs`) for you to discover in the game and find special loot.
@@ -324,7 +335,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * Sure, `Carved Brink` and `Project AHO` add quests, but don't you want more?
   * `JaySerpa`, `Nimwraith`, and many more authors all added quests for you to complete.
 
-#### Graphics & Animations
+</details>
+
+<details>
+  <summary>Graphics & Animations</summary>
 
 * `Community Shaders` is used as a base, combined with the `Skyrim Upscaler`, allowing you to use DLSS, FSR, or XeSS. This allows you to use this modlist on a very large range of hardware.
 * `DynDOLOD` is generated, improving the distant visuals compared to vanilla.
@@ -334,7 +348,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `Animated Potions`, `Animated Poisons`, `Animated Ingredients`, `Animated Interactions`, and more all work together to give you a more immersive feel when interacting with the world. You can even see enemies use health potions thanks to `Smart Potions`.
 * Finally, I really like Particle Lights, so there are a lot of those.
 
-#### User Interface
+</details>
+
+<details>
+  <summary>User Interface</summary>
 
 * `Aura's Inventory Tweaks` ontop of `SkyUI` is the base of the menu system for this modlist. This also uses icons from `B.O.O.B.I.E.S.`, and the framework from `Inventory Interface Information Injector`. This means that no matter what menu you're in, the menu system actually makes sense.
   * This is improved by `C.O.C.K.S.` category adjustments for crafting, as well as Komegaki's many different I4 mods.
@@ -346,7 +363,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `A Clear Map of Skyrim` combined with `DynDOLOD` makes the World Map so much more... more. It's just more.
 * There's even a `Photo Mode` for you screen archers out there.
 
-#### "Non-Immersive" Adjustments & Nudity
+</details>
+
+<details>
+  <summary>"Non-Immersive" Adjustments & Nudity</summary>
 
 * There are a few mods that add nudity to the game. I have enabled them by default. You are free to disable them (under the `Optional (Cheats, Nudity, etc.)` header in MO2) as you wish.
   * They are `Add...`, `and`, `and`, and finally `this`.
@@ -359,6 +379,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ### SHORTCUT KEYS
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
 
+<details>
+  <summary>Chart</summary>
+  
 | Mod Added/Adjusted Shortcuts | Vanilla Shortcuts |
 | ------------------ | ------- |
 | `PageDown`: Skyrim Upscaler | `Tab` -> `T`: Waiting (Only available in the Tween Menu) |
@@ -382,6 +405,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `'`: Swiftly Order Swad |  |
 | `=`: Animated Interactions Menu |  |
 | `Shift + E`: Simplicity of Stalking |  |
+
+</details>
 
 ---
 
@@ -408,6 +433,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ### COMMON ISSUES
 ###### Read this *before* you make a bug report or GroundAura will answer you passive-aggressively.
 
+<details>
+  <summary>Chart</summary>
+    
 | Problem | Solution |
 | ------- | -------- |
 | Wabbajack is erroring when installing and telling me that it is `Unable to Download Data_ccgssse037-curiosesl/bsa` | Delete the `ccgssse037-curios` BSA and ESL files, then open Skyrim to re-download the AE content. **Do not** re-verify files via Steam afterwards, or you will have to repeat this step. |
@@ -424,12 +452,18 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | The game is weirdly zoomed into the left corner and I can't see the far right or bottom of the screen. | Do you have resolution scaling on in Windows? If so, open `\{FILFY-INSTALL}\\Tools\BethINI\BethINI.exe` and uncheck `Borderless` and `Windowed` then save. Launch the game then close it once it fully launches. Re-open `BethINI` and re-check `Borderless` and `Windowed`. You should now be able to launch and play the game normally. |
 | The game crashed and none of this helped! | Please navigate to the `\Users\{you}\Documents\My Games\Skyrim Special Edition\SKSE` folder on your PC and post the most recent `crash-...log` file in the Discord for us to help. |
 
-#### Restoring Plugin Order
+</details>
+
+<details>
+  <summary>Restoring Plugin Order</summary>
 * If you need to reload the plugin sort order, you can do this by clicking the `Restore Backup` button in Mod Organizer 2, then selecting the backup shipped with the modlist.
 
     ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/d0fb72ab-9d4d-4cdf-bd99-4e54076dbe0d)
 
-#### Fixing Stuck Downloads in Wabbajack
+</details>
+
+<details>
+  <summary>Fixing Stuck Downloads in Wabbajack</summary>
 * If you have any plugins fail to download in the Wabbajack and they are non-Nexus links (MediaFire, Google Drive, GitHub, etc.), you can download them manually by going to the following links and then moving these into your `\Downloads\` folder that you set when installing F.I.L.F.Y.
   * It will look like this:
 
@@ -449,12 +483,16 @@ Finally, multiple methods of safety have been added. The game will reload a save
    * [xEdit 4.1.5F](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
    * [Dark Rose MO2 Theme](https://github.com/RevontuletCXVII/Revontulets-MO2-Themes/releases/download/Theme-Release/Revontulet-DarkRose.rar)
 
+</details>
+
 ---
 
 ### Roadmap
 ###### The never-ending list of things to fix, then to improve.
 
-#### 1.0.X
+<details>
+  <summary>1.0.X</summary>
+    
 - [x] Publish the list
 - [x] Integrate the Game INIs
 - [x] Integrate the SKSE INIs
@@ -471,7 +509,11 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Clean out downloads folder
 - [x] Integrate all currently installed mods
 
-#### 1.1.X
+</details>
+
+<details>
+  <summary>1.1.X</summary>
+  
 - [x] Update all currently installed mods from 1.0.RC
 - [x] Add Grass Cache
 - [x] Add Grass LOD
@@ -479,7 +521,11 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Add Performance and Quality presets to the list
 - [x] Completely re-work Immersive Armors
 
-#### 1.2.X
+</details>
+
+<details>
+  <summary>1.2.X</summary>
+  
 - [x] Update all currently installed mods from 1.1.RC
 - [x] Convert Immersive Wenches to Optional plugins
 - [ ] Convert RACE records to S.L.U.R. to remove ~50 plugins
@@ -487,17 +533,29 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 - [x] Switch to SFCO3 to remove ~100 plugins
 
-#### 1.3.X
+</details>
+
+<details>
+  <summary>1.3.X</summary>
+  
 - [ ] Update all currently installed mods from 1.2.RC
 - [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
-#### 1.4.X
+</details>
+
+<details>
+  <summary>1.4.X</summary>
+  
 - [ ] Update all currently installed mods from 1.3.RC
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
-#### 1.5.X
+</details>
+
+<details>
+  <summary>1.5.X</summary>
+  
 - [ ] Update all currently installed mods from 1.4.RC
 - [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
 - [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
@@ -505,21 +563,35 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Convert remaining Factions to SkyPatcher to remove 25-50 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
-#### 1.6.X
+</details>
+
+<details>
+  <summary>1.6.X</summary>
+  
 - [ ] Update all currently installed mods from 1.6.RC
 - [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
 - [ ] Balance Experience scaling
 - [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
 
-#### 2.0.X
+</details>
+
+<details>
+  <summary>2.0.X</summary>
+  
 - [ ] Update all currently installed mods from 2.0.RC
 - [x] Replace launch splash screen w/ an image that says something about the expected load times
 - [x] Create an icon for the modlist to show in the taskbar
 - [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
 
-#### Someday
+</details>
+
+<details>
+  <summary>Someday</summary>
+  
 - [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
 - [ ] Update DIALs per Elminster
+
+</details>
 
 ---
 
