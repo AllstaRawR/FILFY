@@ -37,7 +37,7 @@ If your issue is that Wabbajack cannot download missing files, please skip to [t
 
 This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to look at the gallery below and keep reading, or you can skip to the [Feature List](#feature-list). Following up on the above disclaimer, body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
-If you want to improve the default graphical fidelity, navigate to [Optional Graphical Adjustments](#optional-graphical-adjustments) after installation. This can significantly improve the visuals, at the cost of performance and disk space.
+If you want to improve either the default performance of the the default graphical fidelity, navigate to [Optional Graphical Adjustments](#optional-graphical-adjustments) after installation. This can significantly improve the visuals or performance, at the cost of the alternative.
 
 ---
 
