@@ -47,6 +47,7 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 
 <details>
   <summary>Gallery Pictures</summary>
+  
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011530_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011608_1.jpg" width="30%"></img>
@@ -64,17 +65,18 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 
 <details>
   <summary>Steps</summary>
+  
 1. Install copies of `TESV: Skyrim Special Edition` and `Skyrim Special Edition: Creation Kit` **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
 
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
     * Your `\Skyrim Special Edition` folder should look like this:
    
     ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRootCK.png "Windows-SkyrimRoot")
-3. Launch Skyrim to download all of the AE content from the Main Menu.
+2. Launch Skyrim to download all of the AE content from the Main Menu.
     * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 178 items and look like this:
       
         ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimDataCK.png "Windows-SkyrimData")
-4. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
+3. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
    
     ![Windows-EmptyFolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-EmptyFolderStructure.png "Windows-EmptyFolderStructure")
 
@@ -88,6 +90,7 @@ If you want to improve the default graphical fidelity, navigate to [Optional Gra
 4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
    
     ![Windows-FolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-FolderStructure.png "Windows-FolderStructure")
+
 </details>
 ---
 
