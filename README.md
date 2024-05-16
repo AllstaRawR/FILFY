@@ -193,7 +193,7 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 ###### This is a quick summary of key features added by this mod, with GIFs! A more in-depth summary of features is below in [Gameplay Adjustments](#gameplay-adjustments).
 
 <details>
-  <summary>Features</summary>
+  <summary>Grapical Features</summary>
 
 I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Then I can't help you. Do you have a decent PC from the last half-decade? I'm your man! This list is based around `Community Shaders`, `ReShade`, and the `Skyrim Upscaler`. Community Shaders has come a long way since it was first released, especially with the 0.8.X updates. Combined with ReShade and either DLSS, FSR, or XeSS, you can achieve shockingly good graphics with decent framerates. The Skyrim Upscaler and Community Shaders both have multiple options to adjust to increase either graphical fidelity or performance, as seen in the videos below.
 
@@ -218,6 +218,11 @@ I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Th
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/f3991711-48dc-4cbd-a66a-10ef139444f1" loop>ParticleLights</video>
 </details>
 
+</details>
+
+<details>
+  <summary>UI Icons & Look</summary>
+    
 The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.I.T.`, `Komegaki`, and `B.O.O.B.I.E.S.`. You can also use the Add Item Menu function of `dMenu` to add items for testing... or cheating, we only judge you a little. Or view your stats in `Character Menu`.
 
 <details>
@@ -228,6 +233,11 @@ The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.
   <summary>Character Menu Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/7df6b8b3-079a-40e3-a3ad-ab632314d7e2" loop>CharacterMenuUsage</video>
 </details>
+
+</details>
+
+<details>
+  <summary>UI Interaction</summary>
 
 You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Quick Loot RE`. This is needed, as lots of enemies have been added. Ogrim and Ettins are quite scary, to be frank with you. Imps are just weird and funny. They do throw fireballs at you, so thankfully we have both `True Direction Movement` for target lock and `TK Dodge RE` for... well, dodging. You can also tell your followers to take specific actions really simply with `Swiftly Order Squad`.
 
@@ -248,12 +258,22 @@ You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Qui
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/bc4e694f-5879-4505-bbf3-159678b81045" loop>SOSUsage</video>
 </details>
 
+</details>
+
+<details>
+  <summary>Movement Features</summary>
+
 Have you ever wanted to touch the sky? You still can't, but you can glide! `Paragliding in Skyrim` is wonderful and helps transversal dramatically. Ontop of this, `More Ferries` and `More Carriages` has been added, giving you more places to take them too. You can then fast travel with road signs you see on the road for a small fee, making walking along the road until you see a sign useful again. You'll want to be walking, too, because there are a lot of `Unmarked Locations Pack` out there. No, there is not a road sign from `Falskaar` to `Bruma`. Figure that travel out yourself.
 
 <details>
   <summary>Paraglider Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/e1ede8bf-a19b-4489-b5f6-cc0461a55b58" loop>ParagliderUsage</video>
 </details>
+
+</details>
+
+<details>
+  <summary>Overhaulled Features</summary>
 
 Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Heck, you can even overhaul your body w/ `oBody` and the items on it with `I.E.D.`.
 
@@ -270,6 +290,11 @@ Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/0bc03552-ad74-4277-be91-f5be0c18f094" loop>IED</video>
 </details>
 
+</details>
+
+<details>
+  <summary>Final Features</summary>
+    
 Finally, multiple methods of safety have been added. The game will reload a save file twice if you are outside, thanks to `what's the mod's name...`, to help stave off corruption. `Skyrim SafeSave System Overhaul 2` disables AutoSaves and instead creates a full save every 5 minutes, as well as automtically saves when you are sleeping, praying, etc. There are many different script fixes and dll fixes installed as well to try to keep you enjoying the game as long as possible. My favorite "fix" is `Pause Menu After Load Screens` so that I can go get a drink while I wait for the game to load without finding myself killed by a Ettin. The most practical form of safety, however, is below. You can generate race specific names for your character by pressing the `Insert` key, thanks to `Player Name Generator`.
 
 <details>
@@ -278,7 +303,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 </details>
-
 --- 
 
 ### GAMEPLAY ADJUSTMENTS
