@@ -57,7 +57,11 @@ If you want to improve either the default performance of the the default graphic
 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/b578e4b6-242d-464a-b6d4-aadbd05f7fb7" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/cbc407c5-69ca-48a8-91b4-0f1307bf2fe2" width="30%"></img>
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/cc70da0a-d338-4fe9-98af-0745fe95cbdd" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/530b1a51-ae88-4e92-a3c5-c9bc6406ed2d" width="30%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/5c7548f7-ad3b-4cea-a522-fcbb09b9a563" width="30%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/5c7548f7-ad3b-4cea-a522-fcbb09b9a563" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/59c59f70-5cda-411c-818b-cdf506db324f" width="30%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/5384aa17-bc4f-4295-9b4e-a50eda3b8e56" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/3352bf14-dad0-4e5e-81cf-87d69333b4a5" width="30%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/bf95d923-3ce8-4b21-8f54-7079f5700b61" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/12e9dffa-3153-42dc-ad4e-01d018b48db6" width="30%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/4b7a6517-6294-45c4-abc2-f39f692344e8" width="30%"></img>
+
 
 </details>
 
