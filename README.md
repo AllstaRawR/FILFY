@@ -217,7 +217,6 @@ I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Th
   <summary>Particle Lights Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/f3991711-48dc-4cbd-a66a-10ef139444f1" loop>ParticleLights</video>
 </details>
-
 </details>
 
 # 
@@ -235,7 +234,6 @@ The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.
   <summary>Character Menu Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/7df6b8b3-079a-40e3-a3ad-ab632314d7e2" loop>CharacterMenuUsage</video>
 </details>
-
 </details>
 
 # 
@@ -261,7 +259,6 @@ You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Qui
   <summary>Swiftly Order Squad Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/bc4e694f-5879-4505-bbf3-159678b81045" loop>SOSUsage</video>
 </details>
-
 </details>
 
 # 
@@ -275,7 +272,6 @@ Have you ever wanted to touch the sky? You still can't, but you can glide! `Para
   <summary>Paraglider Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/e1ede8bf-a19b-4489-b5f6-cc0461a55b58" loop>ParagliderUsage</video>
 </details>
-
 </details>
 
 # 
@@ -297,7 +293,6 @@ Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`
   <summary>I.E.D. Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/0bc03552-ad74-4277-be91-f5be0c18f094" loop>IED</video>
 </details>
-
 </details>
 
 # 
@@ -311,7 +306,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>Player Name Generator Usage</summary> 
 <video src="https://github.com/AllstaRawR/FILFY/assets/164591926/96fd92a3-7dbb-4588-b930-491914066cde" loop></video>
 </details>
-
 </details>
 
 --- 
