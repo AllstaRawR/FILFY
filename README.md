@@ -220,6 +220,8 @@ I like pretty graphics. Do you like pretty graphics? Do you have a potato PC? Th
 
 </details>
 
+--- 
+
 <details>
   <summary>UI Icons & Look</summary>
     
@@ -235,6 +237,8 @@ The UI has a new skin via `Untarnished UI`, icons via `I4`, and features via `A.
 </details>
 
 </details>
+
+--- 
 
 <details>
   <summary>UI Interaction</summary>
@@ -260,6 +264,8 @@ You can interact with the UI more fluidly in combat thanks to `Wheeler` and `Qui
 
 </details>
 
+--- 
+
 <details>
   <summary>Movement Features</summary>
 
@@ -271,6 +277,8 @@ Have you ever wanted to touch the sky? You still can't, but you can glide! `Para
 </details>
 
 </details>
+
+--- 
 
 <details>
   <summary>Overhaulled Features</summary>
@@ -292,6 +300,8 @@ Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`
 
 </details>
 
+--- 
+
 <details>
   <summary>Final Features</summary>
     
@@ -303,6 +313,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 </details>
+
 --- 
 
 ### GAMEPLAY ADJUSTMENTS
