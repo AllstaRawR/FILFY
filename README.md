@@ -135,7 +135,7 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 <details>
   <summary>Switching to ENB</summary>
 
-1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked ENB. This will automatically disable `Community Shaders` in the game, but leave it enabled in MO2.
+1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked `Root - ENBSeries - X`, as well as one of the presets marked `ENB OPTION X`. This will automatically disable `Community Shaders` in the game, but leave it enabled in MO2.
 2. You will need to ensure that the `Skyrim Upscaler` is `OFF` in the in-game menu, or disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB. If you do leave it `ON` it will be very obvious as UI elements will render and everything else will be black.
 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="50%"></img>
