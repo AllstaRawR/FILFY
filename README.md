@@ -142,6 +142,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 
 </details>
 
+#
+
 <details>
   <summary>BethINI Settings Adjustments</summary>
 
@@ -153,6 +155,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 3. You can review any changes made to the INIs in the right tab by clicking `Refresh`.
 
 </details>
+
+#
 
 <details>
   <summary>Skyrim Upscaler Adjustments</summary>
@@ -166,6 +170,8 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
 
 </details>
+
+#
 
 <details>
   <summary>DynDOLOD Performance & Quality Presets</summary>
@@ -348,6 +354,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
+#
+
 <details>
   <summary>Exploration</summary>
 
@@ -364,6 +372,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
+#
+
 <details>
   <summary>Graphics & Animations</summary>
 
@@ -376,6 +386,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * Finally, I really like Particle Lights, so there are a lot of those.
 
 </details>
+
+#
 
 <details>
   <summary>User Interface</summary>
@@ -392,6 +404,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
+#
+
 <details>
   <summary>"Non-Immersive" Adjustments & Nudity</summary>
 
@@ -402,6 +416,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." They are under the `Optional (Cheats, Nudity, etc.)` header in MO2 and are called `Infinite Magicka Out of Combat`, `Infinite Shouting Out of Combat`, and `Infinite Stamina Out of Combat`. They can be disabled at any time.
 
 </details>
+
+#
 
 <details>
   <summary>Bundled Tools</summary>
@@ -483,6 +499,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
+#
+
 <details>
   <summary>Restoring Plugin Order</summary>
   
@@ -491,6 +509,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
     ![image](https://github.com/AllstaRawR/FILFY/assets/164591926/d0fb72ab-9d4d-4cdf-bd99-4e54076dbe0d)
 
 </details>
+
+#
 
 #### Fixing Stuck Downloads in Wabbajack
   
