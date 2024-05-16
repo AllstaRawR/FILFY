@@ -45,7 +45,7 @@ If you want to improve either the default performance of the the default graphic
 ###### General pictures of the environment. More pictures of gameplay, UI, etc. will be added later.
 
 <details>
-  <summary>Pictures</summary>
+  <summary>Community Shaders</summary>
   
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011347_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011425_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412011526_1.jpg" width="30%"></img>
@@ -55,6 +55,17 @@ If you want to improve either the default performance of the the default graphic
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012013_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412012216_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412013056_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015901_1.jpg" width="30%"></img>
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015936_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412020002_1.jpg" width="30%"></img>
+</details>
+
+#
+
+<details>
+  <summary>ENB</summary>
+
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/b578e4b6-242d-464a-b6d4-aadbd05f7fb7" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/cbc407c5-69ca-48a8-91b4-0f1307bf2fe2" width="30%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/cc70da0a-d338-4fe9-98af-0745fe95cbdd" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/530b1a51-ae88-4e92-a3c5-c9bc6406ed2d" width="30%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/5c7548f7-ad3b-4cea-a522-fcbb09b9a563" width="30%"></img>
+
 </details>
 
 ---
@@ -334,6 +345,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `Trade and Barter` and `Trade Routes` both mean that merchants now have a different inventory and price than you are used to. Solitude sure must have a lot of taxes to justify these prices...
 
 </details>
+
+#
 
 <details>
   <summary>Movement & Combat</summary>
