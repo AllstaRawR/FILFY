@@ -591,7 +591,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
   
 - [x] Update all currently installed mods from 1.1.RC
 - [x] Convert Immersive Wenches to Optional plugins
-- [ ] Convert RACE records to S.L.U.R. to remove ~50 plugins
+- [x] Convert RACE records to FLM to remove ~30 plugins
+- [x] Resolve Custom Race Issues so that we can finally use custom races
 - [ ] Integrate SkyPatcher for O.W.L. and for Books Covers Skyrim
 - [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 - [x] Switch to SFCO3 to remove ~100 plugins
@@ -602,7 +603,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.3.X</summary>
   
 - [ ] Update all currently installed mods from 1.2.RC
-- [ ] Convert remaining FLs to SkyPatcher to remove 100-200 plugins
+- [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
 </details>
