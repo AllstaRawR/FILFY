@@ -593,7 +593,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Convert Immersive Wenches to Optional plugins
 - [x] Convert RACE records to FLM to remove ~30 plugins
 - [x] Resolve Custom Race Issues so that we can finally use custom races
-- [ ] Integrate SkyPatcher for O.W.L. and for Books Covers Skyrim
+- [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 - [x] Switch to SFCO3 to remove ~100 plugins
 
