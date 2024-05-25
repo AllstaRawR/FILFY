@@ -182,7 +182,7 @@ There are a few different options to improve your graphical fideliity. Firstly, 
 #
 
 <details>
-  <summary>~~DynDOLOD Performance & Quality Presets~~</summary>
+  <summary>DynDOLOD Performance & Quality Presets (Quality is Currently Disabled)</summary>
   
 ###### Performance (the default preset) takes ~81GB of storage and Quality takes ~136GB of storage, which means it will take around 55GB more storage if you replace Performance with Quality.
 
