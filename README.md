@@ -291,7 +291,7 @@ Have you ever wanted to touch the sky? You still can't, but you can glide! `Para
 # 
 
 <details>
-  <summary>Overhaulled Features</summary>
+  <summary>Overhauled Features</summary>
 
 Almost everything has been overhauled. Crafting with `C.C.O.R.` and `W.A.C.C.F.`, eating and cooking with `C.A.C.O.`, walking with `True Directional Movement`, jumping with `Better Jumping` and `Jump Attack`, slicing your sword with `M.C.O.`, raycasting your bow crosshair with `SmoothCam`, training with `Simplicity of Skills`, then even just going to sleep in a tent in `JK's Riften Outskirts`... there's really not much left to overhaul, and if there is, it's town related. Trust me, I've got a list to expand the towns even more. Heck, you can even overhaul your body w/ `oBody` and the items on it with `I.E.D.`.
 
