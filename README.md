@@ -601,7 +601,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.3.X</summary>
   
 - [x] Update all currently installed mods from 1.2.RC
-- [ ] Switch Skyrim Installation to 1.5.97
+- [ ] Re-do all FaceGen with VHR SMP
+- [ ] Update the Daegon Quest start
+- [ ] Correct SuccubusRace spelling
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
@@ -613,6 +615,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.4.X</summary>
   
 - [ ] Update all currently installed mods from 1.3.RC
+- [ ] Switch Skyrim Installation to 1.5.97
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
