@@ -620,6 +620,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.4.X</summary>
   
 - [ ] Update all currently installed mods from 1.3.RC
+- [ ] Generate seasonal Grass Cache instead of generic
 - [ ] Switch Skyrim Installation to 1.5.97
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
