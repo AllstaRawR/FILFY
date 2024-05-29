@@ -603,7 +603,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Update all currently installed mods from 1.2.RC
 - [ ] Re-do all FaceGen with VHR SMP
 - [ ] Update the Daegon Quest start
-- [ ] Correct SuccubusRace spelling
+- [x] Correct all Succubus Race spelling
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
