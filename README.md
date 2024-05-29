@@ -649,7 +649,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
-<details open>
+<details>
   <summary>Someday</summary>
   
 - [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
