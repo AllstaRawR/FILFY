@@ -570,6 +570,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Add brief GIFs about each added feature
 - [x] Separate out all "artistic nudity" but SFW per Wabbajack mods to their own section
 - [x] Clean out downloads folder
+- [x] Replace launch splash screen
+- [x] Create an icon for the modlist to show in the taskbar
 - [x] Integrate all currently installed mods
 
 </details>
@@ -601,6 +603,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.3.X</summary>
   
 - [x] Update all currently installed mods from 1.2.RC
+- [x] Create Main Menu links
+- [x] Create a Main Menu replacer
+- [x] Link to the Discord and to the ReadMe through the ingame Main Menu
 - [ ] Re-do all FaceGen with VHR SMP
 - [ ] Update the Daegon Quest start
 - [x] Correct all Succubus Race spelling
@@ -644,18 +649,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 <details open>
-  <summary>2.0.X</summary>
-  
-- [ ] Update all currently installed mods from 2.0.RC
-- [x] Replace launch splash screen w/ an image that says something about the expected load times
-- [x] Create an icon for the modlist to show in the taskbar
-- [x] Create Main Menu links
-- [ ] Create a Main Menu replacer
-- [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
-
-</details>
-
-<details>
   <summary>Someday</summary>
   
 - [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
