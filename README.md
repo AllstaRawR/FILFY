@@ -649,6 +649,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Update all currently installed mods from 2.0.RC
 - [x] Replace launch splash screen w/ an image that says something about the expected load times
 - [x] Create an icon for the modlist to show in the taskbar
+- [ ] Create a Main Menu replacer
 - [ ] Link to the Discord and to the ReadMe through the ingame Main Menu
 
 </details>
