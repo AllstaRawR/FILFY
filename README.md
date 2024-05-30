@@ -606,9 +606,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Create Main Menu links
 - [x] Create a Main Menu replacer
 - [x] Link to the Discord and to the ReadMe through the ingame Main Menu
+- [x] Stop Inlining StockGame
+- [x] Correct all Succubus Race spelling
 - [ ] Re-do all FaceGen with VHR SMP
 - [ ] Update the Daegon Quest start
-- [x] Correct all Succubus Race spelling
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
