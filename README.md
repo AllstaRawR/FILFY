@@ -596,6 +596,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Convert RACE records to FLM to remove ~30 plugins
 - [x] Resolve Custom Race Issues so that we can finally use custom races
 - [x] Switch to SFCO3 to remove ~100 plugins
+- [x] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
 </details>
 
@@ -608,8 +609,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Link to the Discord and to the ReadMe through the ingame Main Menu
 - [x] Stop Inlining StockGame
 - [x] Correct all Succubus Race spelling
-- [ ] Re-do all FaceGen with VHR SMP
 - [x] Update the Daegon Quest start
+- [ ] Generate seasonal Grass Cache instead of generic
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
@@ -621,7 +622,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.4.X</summary>
   
 - [ ] Update all currently installed mods from 1.3.RC
-- [ ] Generate seasonal Grass Cache instead of generic
+- [ ] Switch NPC Overhaul to one with VHR
 - [ ] Switch Skyrim Installation to 1.5.97
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
