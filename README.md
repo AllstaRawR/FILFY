@@ -609,7 +609,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Stop Inlining StockGame
 - [x] Correct all Succubus Race spelling
 - [ ] Re-do all FaceGen with VHR SMP
-- [ ] Update the Daegon Quest start
+- [x] Update the Daegon Quest start
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
