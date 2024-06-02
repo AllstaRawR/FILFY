@@ -17,11 +17,18 @@
 
 If your issue is that Wabbajack cannot download missing files, please skip to [this section](https://github.com/AllstaRawR/FILFY/blob/main/README.md#fixing-stuck-downloads-in-wabbajack) and manually download these files to place inside of your Wabbajack downloads folder. If you have any additional questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6). I will then make an effort to add them to the list here.
 
-| FILFY | TABLE | OF | CONTENTS |
-| ----------- | ----------- | ----------- | ----------- |
-| [Screenshot Gallery](#gallery) | [Wabbajack Installation](#wabbajack-installation-guide) | [FILFY Installation](#filfy-installation-guide) | [Graphical Adjustments](#optional-graphical-adjustments) |
-| [Feature List](#feature-list) | [Gameplay Adjustments](#gameplay-adjustments) | [Shortcut Keys](#shortcut-keys) | [Common Issues](#common-issues) |
-| [Future Roadmap](#roadmap) | [Personal Credits](#credits) | | |
+| FILFY TABLE OF CONTENTS|
+| ----------- |
+| [Screenshot Gallery](#gallery) |
+| [Wabbajack Installation](#wabbajack-installation-guide) |
+| [FILFY Installation](#filfy-installation-guide) |
+| [Graphical Adjustments](#optional-graphical-adjustments) |
+| [Feature List](#feature-list) |
+| [Gameplay Adjustments](#gameplay-adjustments) |
+| [Shortcut Keys](#shortcut-keys) |
+| [Common Issues](#common-issues) |
+| [Future Roadmap](#roadmap) |
+| [Personal Credits](#credits) |
 
 ---
 
