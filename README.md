@@ -137,7 +137,7 @@ If you want to improve either the default performance of the the default graphic
 
 ### Optional Graphical Adjustments
 
-There are a few different options to improve your graphical fideliity. Firstly, you can update the game settings with the included BethINI install. You can then also adjust the settings inside of the `Skyrim Upscaler` in-game. Finally you can install the pre-generated DynDOLOD outputs, either for performance or for quality. DynDOLOD is not packaged with the Wabbajack Install in order to allow the list to be used by those with less free storage available, as well as offer the opportunity for users to opt for the quality preset.
+There are a few different options to improve your graphical fidelity. Firstly, you can switch to ENB. All needed files are included in the release. You can then update the game settings with the included BethINI install and/or adjust the settings inside of the `Skyrim Upscaler` in-game (which you will need to set to `OFF` if you enable ENB). ~~Finally you can install the pre-generated DynDOLOD outputs, either for performance or for quality. DynDOLOD is not packaged with the Wabbajack Install in order to allow the list to be used by those with less free storage available, as well as offer the opportunity for users to opt for the quality preset.~~
 
 
 <details>
