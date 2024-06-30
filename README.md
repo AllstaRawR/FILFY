@@ -150,10 +150,12 @@ There are a few different options to improve your graphical fidelity. Firstly, y
 <details>
   <summary>Switching to ENB</summary>
 
-1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked `Root - ENBSeries - X`, as well as one of the presets marked `ENB OPTION X`. This will automatically disable `Community Shaders` in the game, but leave it enabled in MO2.
-2. You will need to ensure that the `Skyrim Upscaler` is `OFF` in the in-game menu, or disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB. If you do leave it `ON` it will be very obvious as UI elements will render and everything else will be black.
+~~1. ENB is now bundled with FILFY. You can go into the `Optional (Default Off)` section of installed mods in MO2 and enable the plugins marked `Root - ENBSeries - X`, as well as one of the presets marked `ENB OPTION X`. This will automatically disable `Community Shaders` in the game, but leave it enabled in MO2.
+2. You will need to ensure that the `Skyrim Upscaler` is `OFF` in the in-game menu, or disable the plugins for `Community Shaders - Skyrim Upscaler - ...`, otherwise your game will show a black screen at launch, as the Nexus version of the `Skyrim Upscaler` does not support ENB. If you do leave it `ON` it will be very obvious as UI elements will render and everything else will be black.~~
 
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/d1d2e1d4-e0a2-423b-abb9-b562e0cd524e" width="50%"></img>
+1. You can now switch to ENB simply by choosing the ENB profile. The default profile includes Community Shaders instead.
+
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/842e693e-2f17-4f15-a074-e0a2abfc20a4" width="50%"></img>
 
 </details>
 
@@ -176,35 +178,13 @@ There are a few different options to improve your graphical fidelity. Firstly, y
 <details>
   <summary>Skyrim Upscaler Adjustments</summary>
 
-1. You can open the `Skyrim Upscaler` menu in the game by pressing the `Page Down` key on your keyboard. Once opened, it will look like this:
-2. The upscaler is defaulted to `OFF`. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
+1. You can open the `Skyrim Upscaler` menu in the game by pressing the `Page Down` key on your keyboard (unless you are on the ENB profile, in while case it is disabled). Once opened, it will look like this:
+2. The upscaler is defaulted to `FSR2`. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/47ab5167-feb4-47fe-a67b-df0ead4648e2" width="45%"></img>
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/f9acaa93-a0d5-447d-ad83-ae54504f856f" width="45%"></img>
 
-3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior Anti-aliasing technique over FXAA or TXAA.
-
-</details>
-
-#
-
-<details>
-  <summary>DynDOLOD Performance & Quality Presets (Quality is Currently Disabled)</summary>
-  
-###### Performance (the default preset) takes ~81GB of storage and Quality takes ~136GB of storage, which means it will take around 55GB more storage if you replace Performance with Quality.
-
-1. Navigate to the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/115534?tab=files) for F.I.L.F.Y. and scroll down to "Optional Files". You will need to download LODGen, TexGen, and DynDOLOD from this section. You will also need to make sure that they match (i.e. choose all performance or all quality, do not mix and match). This will either be 3 or 4 downloads, depending on if you choose performance or quality.
-    * **If you have an existing save file, ensure that the last save is indoors, you will encounter odd issues if you activate or update DynDOLOD from an exterior cell.**
-
-![image](https://github.com/AllstaRawR/FILFY/assets/164591926/45bfea70-fefd-48fd-9495-94c771973225)
-
-2. Once you've downloaded these files, install them inside of Mod Organizer 2 like you would a typical mod through the `Downloads` tab in the right pane. Ensure that they show up in the left pane in the order shown below, as the outputs *must load after* `F.I.L.F.Y. - INI Settings`.
-
-![image](https://github.com/AllstaRawR/FILFY/assets/164591926/41796773-9d7a-4878-91a8-54865ce368c6)
-
-3. You can now navigate to the `Plugins` tab in the right pane and restore the backup shipped with F.I.L.F.Y., this will ensure that the plugins load in the right order.
-
-![image](https://github.com/AllstaRawR/FILFY/assets/164591926/34e2ee10-42b1-452b-8261-4dbc11e6e6f8)
+3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior anti-aliasing technique over FXAA or TXAA.
 
 </details>
 
