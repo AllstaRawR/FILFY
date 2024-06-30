@@ -572,6 +572,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Include RootBuilder and make ENB/CS install options
 - [x] Add Performance and Quality presets to the list
 - [x] Completely re-work Immersive Armors
+- [x] Compact plugins that are easily compacted
+- [x] Rework BodySlide generation
 
 </details>
 
@@ -579,10 +581,14 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>1.2.X</summary>
   
 - [x] Update all currently installed mods from 1.1.RC
+- [x] Add ENB options
+- [x] Integrate RootBuilder properly this time
+- [x] Add Parallax to landscapes
 - [x] Convert Immersive Wenches to Optional plugins
 - [x] Convert RACE records to FLM to remove ~30 plugins
 - [x] Resolve Custom Race Issues so that we can finally use custom races
 - [x] Switch to SFCO3 to remove ~100 plugins
+- [x] Move to a new MO2 theme!
 - [x] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
 </details>
@@ -597,7 +603,9 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Stop Inlining StockGame
 - [x] Correct all Succubus Race spelling
 - [x] Update the Daegon Quest start
-- [x] Generate seasonal Grass Cache instead of generic
+- [x] Generate Seasonal Grass Cache instead of generic
+- [x] Turn ENB and CS into easily selected profiles in MO2 and update the ReadMe
+- [x] Adjust world balance
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
