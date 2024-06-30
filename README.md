@@ -155,7 +155,7 @@ There are a few different options to improve your graphical fidelity. Firstly, y
 
 1. You can now switch to ENB simply by choosing the ENB profile. The default profile includes Community Shaders instead.
 
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/842e693e-2f17-4f15-a074-e0a2abfc20a4" width="50%"></img>
+<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/842e693e-2f17-4f15-a074-e0a2abfc20a4" width="90%"></img>
 
 </details>
 
