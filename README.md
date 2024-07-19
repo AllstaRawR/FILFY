@@ -609,7 +609,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
 - [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
-- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 </details>
 
@@ -643,6 +642,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
 - [ ] Balance Experience scaling
 - [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
+- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 </details>
 
