@@ -467,7 +467,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `'`: Swiftly Order Swad |  |
 | `=`: Animated Interactions Menu |  |
 | `Shift + E`: Simplicity of Stalking |  |
-| `F1`: Open ModMenu | |
+| `F1`: Open SKSE Menu Framework | |
+| `F2`: Open Mod Function Menu | |
 
 </details>
 
