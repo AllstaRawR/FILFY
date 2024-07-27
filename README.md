@@ -484,6 +484,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | Wabbajack is erroring when installing and telling me that it is `Unable to Download Data_ccgssse037-curiosesl/bsa` | Delete the `ccgssse037-curios` BSA and ESL files, then open Skyrim to re-download the AE content. **Do not** re-verify files via Steam afterwards, or you will have to repeat this step. |
 | My Wabbajack installation failed and it wasn't Curios. | Close Wabbajack, try again. If this doesn't work, come bug us on the Discord. |
 | Lots of plugins are disabled in my MO2 right pane. | You can restore the load order from the backup. Click the yellow arrow to the left of the `Active Plugin Count` (far right side of MO2) and then restore from a recent backup stored with the Wabbajack. |
+| The vanilla start gets stuck with me walking endlessly...? | Change True Directonal Movement's `Directional Movement (Sheathed)` setting to OFF for the duration of the start scene. |
+| My game crashes often with no real cause | Please change your pagefile to be at least 20GB. |
 | I am getting SKSE DLL errors on the Splash screen. | Ensure that you have [Visual Studio](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed and up to date.|
 | I can't seem to launch some of the tools. | You need [.Net](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-7.0.18-windows-x64-installer) if trying to run Pandora or Synthesis. |
 | I tried the above solutions and am still having DLL errors| Try right clicking on the mod/dll erroring in the left pane of MO2 and select `Reinstall this Mod`. |
@@ -615,8 +617,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 <details>
   <summary>1.4.X</summary>
   
-- [ ] Update all currently installed mods from 1.3.RC
-- [ ] Switch NPC Overhaul to one with VHR
+- [x] Update all currently installed mods from 1.3.RC
+- [x] Switch NPC Overhaul to one with VHR
 - [ ] Switch Skyrim Installation to 1.5.97
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
