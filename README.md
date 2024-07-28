@@ -7,6 +7,7 @@
 
 | RECOMMENDED SPECS | REQUIRED SPECS |
 | ----------- | ----------- |
+| [40GB PageFile](https://www.reddit.com/r/wildlander/comments/s9ca0y/ctd_and_pagefile_size/) | 20GB PageFile |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/4db34405eeaca0239ac27c0665dd9c4c28fed357/FILFY/Icons/SpecSheet_CPU_FILFY.svg" width="24"> &nbsp; Intel Core i7-9700K | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/5265583b7a73410aa184bfafb76d1cca86bfc84e/FILFY/Icons/SpecSheet_CPU_FILFY_REQUIRED.svg" width="24"> &nbsp; Intel Core i3-8100 |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/77168c4033189e900831515fa527c1bb1ae49b19/FILFY/Icons/SpecSheet_GPU_FILFY_RECOMMENDED.svg" width="24"> &nbsp; 8GB VRAM + Upscaling Tech | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/77168c4033189e900831515fa527c1bb1ae49b19/FILFY/Icons/SpecSheet_GPU_FILFY_REQUIRED.svg" width="24"> &nbsp; 8GB VRAM |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_RECOMMENDED.svg" width="28"> &nbsp; 32GB+ DDR4 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_REQUIRED.svg" width="28"> &nbsp; 16GB DDR4 |
