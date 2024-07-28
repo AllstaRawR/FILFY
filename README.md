@@ -3,6 +3,8 @@
 
 ### CAUTION: Adding mods to this list will only work if you know what you're doing, as all plugins are ESM flagged. This means you cannot add any plugins that aren't ESM flagged without going through a lot of steps.
 
+---
+
 | RECOMMENDED SPECS | REQUIRED SPECS |
 | ----------- | ----------- |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/4db34405eeaca0239ac27c0665dd9c4c28fed357/FILFY/Icons/SpecSheet_CPU_FILFY.svg" width="24"> &nbsp; Intel Core i7-9700K | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/5265583b7a73410aa184bfafb76d1cca86bfc84e/FILFY/Icons/SpecSheet_CPU_FILFY_REQUIRED.svg" width="24"> &nbsp; Intel Core i3-8100 |
