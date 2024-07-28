@@ -1,7 +1,7 @@
 # FANTASTICALLY INTEGRATED LOAD-ORDER FOR YOU
 ###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
-### CAUTION: Adding mods to this list will only work if you know what you're doing, as all plugins are ESM flagged. This means you cannot add any plugins that aren't ESM flagged without going through a lot of steps.
+### CAUTION: Adding mods to this list will only work if you know what you're doing. All plugins are ESM flaggfed, which means you cannot add any plugins that aren't ESM flagged without going through multiple steps in xEdit.
 
 ---
 
