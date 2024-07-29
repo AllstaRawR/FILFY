@@ -614,9 +614,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Generate Seasonal Grass Cache instead of generic
 - [x] Turn ENB and CS into easily selected profiles in MO2 and update the ReadMe
 - [x] Adjust world balance
-- [ ] Integrate SkyPatcher for O.W.L. for Books Covers Skyrim
-- [ ] Convert remaining FLs to FLM or SkyPatcher to remove 100-200 plugins
-- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
+- [ ] Integrate SkyPatcher for O.W.L.
+- [x] Integrate SkyPatcher for Books Covers Skyrim
+- [x] Convert remaining FLs to FLM or SkyPatcher to remove 25-50 plugins
+- [x] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
 </details>
 
