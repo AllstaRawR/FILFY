@@ -622,44 +622,27 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 <details>
-  <summary>1.4.X</summary>
-  
-- [x] Update all currently installed mods from 1.3.RC
-- [x] Switch NPC Overhaul to one with VHR
-- [ ] Switch Skyrim Installation to 1.5.97
+  <summary>2.0.X</summary>
+
+- [ ] Update all currently installed mods from 1.3.RC
+- [ ] Integrate SkyPatcher for O.W.L.
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
-- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
-
-</details>
-
-<details>
-  <summary>1.5.X</summary>
-  
-- [ ] Update all currently installed mods from 1.4.RC
 - [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
 - [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
 - [ ] Convert remaining Enchantments to SkyPatcher to remove 25-50 plugins
 - [ ] Convert remaining Factions to SkyPatcher to remove 25-50 plugins
-- [ ] Update conflict resolution patches for new SkyPatcher situation and store their Source
-
-</details>
-
-<details>
-  <summary>1.6.X</summary>
-  
-- [ ] Update all currently installed mods from 1.6.RC
-- [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
-- [ ] Balance Experience scaling
-- [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
-- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 </details>
 
 <details>
   <summary>Someday</summary>
   
-- [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
 - [ ] Update DIALs per Elminster
+- [ ] Balance Experience scaling
+- [ ] Split up Ryn's-JK's-Whiterun Outskirts for Czasior
+- [ ] Merge and compile w/ comments BOS swap replacers by mod to reduce file handle usage
+- [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
+- [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
 </details>
 
