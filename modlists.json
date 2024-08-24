@@ -7,8 +7,9 @@
       "github/AllstaRawR"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Anniversary Edition",
       "Fantasy",
       "MCO",
