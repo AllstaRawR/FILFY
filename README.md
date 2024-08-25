@@ -615,7 +615,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Turn ENB and CS into easily selected profiles in MO2 and update the ReadMe
 - [x] Adjust world balance
 - [x] Integrate SkyPatcher for Books Covers Skyrim
-- [ ] Integrate SkyPatcher for O.W.L.
+- [x] Integrate SkyPatcher for O.W.L.
 - [ ] Redo WACCF/OWL/ACE/AMBContent patches w/ SkyPatcher
 - [x] Convert remaining FLs to FLM or SkyPatcher to remove 25-50 plugins
 - [x] Update conflict resolution patches for new SkyPatcher situation and store their Source
