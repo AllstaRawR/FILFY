@@ -617,7 +617,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Integrate SkyPatcher for Books Covers Skyrim
 - [x] Balance Experience scaling
 - [x] Integrate SkyPatcher for O.W.L.
-- [ ] Redo WACCF/ACE/CCOR/AMBContent patches w/ SkyPatcher
+- [x] Redo WACCF/ACE/CCOR/AMBContent patches w/ SkyPatcher
 - [x] Convert remaining FLs to FLM or SkyPatcher to remove 25-50 plugins
 - [x] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
