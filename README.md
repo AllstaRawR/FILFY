@@ -617,7 +617,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 - [x] Integrate SkyPatcher for Books Covers Skyrim
 - [x] Balance Experience scaling
 - [x] Integrate SkyPatcher for O.W.L.
-- [ ] Redo WACCF/OWL/ACE/AMBContent patches w/ SkyPatcher
+- [ ] Redo WACCF/ACE/CCOR/AMBContent patches w/ SkyPatcher
 - [x] Convert remaining FLs to FLM or SkyPatcher to remove 25-50 plugins
 - [x] Update conflict resolution patches for new SkyPatcher situation and store their Source
 
@@ -627,6 +627,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>2.0.X</summary>
 
 - [ ] Update all currently installed mods from 1.3.RC
+- [ ] Redo WACCF plugin w/ SkyPatcher
+- [ ] Redo ACE plugin w/ SkyPatcher
+- [ ] Redo CCOR plugin w/ SkyPatcher
+- [ ] Redo AMBContent plugin w/ SkyPatcher
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
 - [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
