@@ -601,7 +601,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
-<details open>
+<details>
   <summary>1.3.X</summary>
   
 - [x] Update all currently installed mods from 1.2.RC
@@ -623,14 +623,11 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
-<details>
+<details open>
   <summary>2.0.X</summary>
 
 - [ ] Update all currently installed mods from 1.3.RC
-- [ ] Redo WACCF plugin w/ SkyPatcher
-- [ ] Redo ACE plugin w/ SkyPatcher
-- [ ] Redo CCOR plugin w/ SkyPatcher
-- [ ] Redo AMBContent plugin w/ SkyPatcher
+- [ ] Progress through the tracked queue for Mods to integrate
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
 - [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
@@ -643,6 +640,10 @@ Finally, multiple methods of safety have been added. The game will reload a save
   <summary>Someday</summary>
   
 - [ ] Update DIALs per Elminster
+- [ ] Redo WACCF plugin w/ SkyPatcher
+- [ ] Redo ACE plugin w/ SkyPatcher
+- [ ] Redo CCOR plugin w/ SkyPatcher
+- [ ] Redo AMBContent plugin w/ SkyPatcher
 - [ ] Resolve CustomRace issues (Generate FaceGen, fix hair sliders, add racial options, check on hair tint)
 - [ ] Integrate `Conflicts Check - Static`, `Conflicts Check - Dynamic`, & `SSEEdit Output` into Nexus Mods, removing as much as possible from the inlined Wabbajack files.
 
