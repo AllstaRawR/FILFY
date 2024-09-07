@@ -494,7 +494,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | My Wabbajack installation failed and it wasn't Curios. | Close Wabbajack, try again. If this doesn't work, come bug us on the Discord. |
 | Lots of plugins are disabled in my MO2 right pane. | You can restore the load order from the backup. Click the yellow arrow to the left of the `Active Plugin Count` (far right side of MO2) and then restore from a recent backup stored with the Wabbajack. |
 | The vanilla start gets stuck with me walking endlessly...? | Change True Directonal Movement's `Directional Movement (Sheathed)` setting to OFF for the duration of the start scene. |
-| My game crashes often with no real cause | Please change your pagefile to be at least 20GB. |
+| I keep crashing in the RaceMenu | This is a known issue with RaceMenu running out of memory. You cannot scroll through options endlessly. |
 | I am getting SKSE DLL errors on the Splash screen. | Ensure that you have [Visual Studio](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed and up to date.|
 | I can't seem to launch some of the tools. | You need [.Net](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-7.0.18-windows-x64-installer) if trying to run Pandora or Synthesis. |
 | I tried the above solutions and am still having DLL errors| Try right clicking on the mod/dll erroring in the left pane of MO2 and select `Reinstall this Mod`. |
