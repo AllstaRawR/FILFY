@@ -44,6 +44,8 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
 
 If you want to improve either the default performance of the the default graphical fidelity, navigate to [Optional Graphical Adjustments](#optional-graphical-adjustments) after installation. This can significantly improve the visuals or performance, at the cost of the alternative.
 
+This list works great with a controller, but you will need to disable `Elden Power Attack` in the left panel of MO2.
+
 ---
 
 ### GALLERY
@@ -332,6 +334,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `Nether's Follower Framework` and `Swiftly Order Squad` combine to allow you to build that M.M.O. party in Skyrim like you've always wanted.
 * `Simple Hunting Overhaul` and `Simple Fishing Overhaul` work with `Immersive Equipment Displays` to make these activities both fun and useful for the first time.
 * `Trade and Barter` and `Trade Routes` both mean that merchants now have a different inventory and price than you are used to. Solitude sure must have a lot of taxes to justify these prices...
+* Inns are adjusted based off location and occupancy, sometimes all the rooms might be rented out!
 
 </details>
 
