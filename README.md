@@ -543,7 +543,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
    * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
    * [xEdit 4.1.5F](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
    * [Dark Rose MO2 Theme](https://github.com/AllstaRawR/FILFY/raw/main/sources/Revontulet-DarkRose.rar)
-   * [Heels Sound 1.6](https://drive.google.com/file/d/1PuK7Cdu9_O46w4pRGUIMyIXiK6F3fzZn/view?usp=drive_link)
+   * [Heels Sound 1.6](https://www.mediafire.com/file/k560cet0bpgeoub/Heels_Sound_1.6_SSE-AE-62502-1-6-1679478010.rar/file)
 
 </details>
 
