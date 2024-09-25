@@ -630,8 +630,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 <details open>
   <summary>2.0.X</summary>
 
-- [ ] Update all currently installed mods from 1.3.RC
-- [ ] Progress through the tracked queue for Mods to integrate
+- [x] Update all currently installed mods from 1.3.RC
+- [x] Progress through the tracked queue for Mods to integrate
 - [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
 - [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
 - [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
