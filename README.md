@@ -92,6 +92,13 @@ This list works great with a controller, but you will need to disable `Elden Pow
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
     * Your `\Skyrim Special Edition` folder should look like this:
 
+    ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRootCK.png "Windows-SkyrimRoot")
+1. Launch Skyrim to download all of the AE content from the Main Menu.
+    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 178 items and look like this:
+      
+        ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimDataCK.png "Windows-SkyrimData")
+2. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
+
     * Warning: There are some restrictions on install location. ‍You CANNOT place the folder in:
     1. Program Files or Program Files (x86), or their subfolders;
     1. the Users folder, or its subfolders;
@@ -103,21 +110,7 @@ This list works great with a controller, but you will need to disable `Elden Pow
     1. any folders with a path longer than 32 characters;
     1. any cloud storage folders (e.g. Dropbox, OneDrive, etc.).
 
-    ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRootCK.png "Windows-SkyrimRoot")
-1. Launch Skyrim to download all of the AE content from the Main Menu.
-    * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 178 items and look like this:
-      
-        ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimDataCK.png "Windows-SkyrimData")
-2. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
-   
     ![Windows-EmptyFolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-EmptyFolderStructure.png "Windows-EmptyFolderStructure")
-
-| CORRECT FOLDER STRUCTURE | INCORRECT FOLDER STRUCTURE |
-| ----------- | ----------- |
-| `D:\Wabbajack\Wabbajack.exe` | `C:\Wabbajack.exe` |
-| `C:\Wabbajack\Wabbajack.exe` | `C:\Windows\Wabbajack.exe` |
-| `D:\Wabbajack\FILFY\{modlist-contents}` | `C:\Windows\FILFY\{modlist-contents}` |
-| `C:\FILFY\{modlist-contents}` | `C:\{modlist-contents}` |
 
 4. Launch the Wabbajack executable and it will download the core files and alter your folder structure to look like this.
    
