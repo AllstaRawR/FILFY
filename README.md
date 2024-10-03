@@ -89,26 +89,26 @@ This list works great with a controller, but you will need to disable `Elden Pow
   
 1. Install copies of `TESV: Skyrim Special Edition` and [`Skyrim Special Edition: Creation Kit`](https://discord.com/channels/@me/1226801473459982379/1291478110214033480) **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
 
-    * Warning: There are some restrictions on install location. ‍You CANNOT place the folder in:
-     • Program Files or Program Files (x86), or their subfolders;
-     • the Users folder, or its subfolders;
-     • the Steam folder, or its subfolders;
-     • the Skyrim folder, or its subfolders;
-     • the Desktop folder, or its subfolders;
-     • the Documents folder, or its subfolders;
-     • any folders with non-English characters;
-     • any folders with a path longer than 32 characters;
-     • any cloud storage folders (e.g. Dropbox, OneDrive, etc.).
-
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
     * Your `\Skyrim Special Edition` folder should look like this:
-   
+
+    * Warning: There are some restrictions on install location. ‍You CANNOT place the folder in:
+    1. Program Files or Program Files (x86), or their subfolders;
+    1. the Users folder, or its subfolders;
+    1. the Steam folder, or its subfolders;
+    1. the Skyrim folder, or its subfolders;
+    1. the Desktop folder, or its subfolders;
+    1. the Documents folder, or its subfolders;
+    1. any folders with non-English characters;
+    1. any folders with a path longer than 32 characters;
+    1. any cloud storage folders (e.g. Dropbox, OneDrive, etc.).
+
     ![Windows-SkyrimRoot](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimRootCK.png "Windows-SkyrimRoot")
-2. Launch Skyrim to download all of the AE content from the Main Menu.
+1. Launch Skyrim to download all of the AE content from the Main Menu.
     * Do not re-validate files *after* downloading all of the content via the Main Menu. Rare Curios in Steam and in Skyrim are two different versions. Your `\Skyrim Special Edition\Data` folder should contain approximately 178 items and look like this:
       
         ![Windows-SkyrimData](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-SkyrimDataCK.png "Windows-SkyrimData")
-3. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
+2. Create a Folder for where you wish to install Wabbajack (non-System, non-Root directory) and another for where you wish to install the modlist contents (non-System directory). Examples are in both a picture and in table form below.
    
     ![Windows-EmptyFolderStructure](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Windows-EmptyFolderStructure.png "Windows-EmptyFolderStructure")
 
