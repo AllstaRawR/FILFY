@@ -87,7 +87,18 @@ This list works great with a controller, but you will need to disable `Elden Pow
 <details>
   <summary>Steps</summary>
   
-1. Install copies of `TESV: Skyrim Special Edition` and `Skyrim Special Edition: Creation Kit` **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
+1. Install copies of `TESV: Skyrim Special Edition` and [`Skyrim Special Edition: Creation Kit`](https://discord.com/channels/@me/1226801473459982379/1291478110214033480) **to the same folder** via Steam. It is recommended that you fully delete your old Skyrim Special Edition game folder and start from fresh. You do not need to ever use the Creation Kit, and a copy is automatically added to your Steam Library when you purchase Skyrim Special Edition.
+
+    * Warning: There are some restrictions on install location. ‍You CANNOT place the folder in:
+     • Program Files or Program Files (x86), or their subfolders;
+     • the Users folder, or its subfolders;
+     • the Steam folder, or its subfolders;
+     • the Skyrim folder, or its subfolders;
+     • the Desktop folder, or its subfolders;
+     • the Documents folder, or its subfolders;
+     • any folders with non-English characters;
+     • any folders with a path longer than 32 characters;
+     • any cloud storage folders (e.g. Dropbox, OneDrive, etc.).
 
     ![Steam-SSEAndCK](https://raw.githubusercontent.com/AllstaRawR/FILFY/main/images/Steam-SSEAndCK.png "Steam-SSEAndCK")
     * Your `\Skyrim Special Edition` folder should look like this:
