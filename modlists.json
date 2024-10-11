@@ -66,21 +66,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1713053767-1827315830.png",
       "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
-      "download": "",
+      "download": "https://authored-files.wabbajack.org/The Method.wabbajack_afb2aee2-be53-411c-8c15-bbe08e48550d",
       "machineURL": "TheMethod",
       "discordURL": "https://discord.gg/ag6FSESCK6"
     },
     "download_metadata": {
-      "Hash": "mULz5zm0xUM=",
-      "Size": 1884717764,
-      "NumberOfArchives": 3571,
-      "SizeOfArchives": 226573184223,
-      "NumberOfInstalledFiles": 624796,
-      "SizeOfInstalledFiles": 431580877800
+      "Hash": "wwIaVm240+M=",
+      "Size": 39256332,
+      "NumberOfArchives": 237,
+      "SizeOfArchives": 21048053077,
+      "NumberOfInstalledFiles": 2738,
+      "SizeOfInstalledFiles": 21592534498
     },
     "version": "0.1.0",
     "dateCreated": "2024-10-11T00:29:21.3353955Z",
-    "dateUpdated": "2024-10-11T00:29:21.3353955Z",
+    "dateUpdated": "2024-10-11T08:06:00.2657476Z",
     "repositoryName": "FILFY"
   }
 ]
