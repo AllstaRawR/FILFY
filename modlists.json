@@ -22,7 +22,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
@@ -64,7 +64,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1713053767-1827315830.png",
+      "image": "https://raw.githubusercontent.com/AllstaRawR/TheMethod/refs/heads/main/TheMethod_WabbajackGallery.JPG",
       "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_2dac44fd-99e1-4e87-b29a-6ad301800712",
       "machineURL": "TheMethod",
