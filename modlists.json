@@ -44,5 +44,43 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-10-11T00:29:21.3353955Z",
     "repositoryName": ""
+  },
+  {
+    "title": "The Method to Madness",
+    "description": "This is a modlist focussed on gameplay and functionality with a minimal performance impact, intended to play on all modern devices. It will start very small and get larger with time and requests.",
+    "author": "Aleksandr",
+    "maintainers": [
+      "github/AllstaRawR"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Anniversary Edition",
+      "Survival"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1713053767-1827315830.png",
+      "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
+      "download": "",
+      "machineURL": "TheMethod",
+      "discordURL": "https://discord.gg/ag6FSESCK6"
+    },
+    "download_metadata": {
+      "Hash": "mULz5zm0xUM=",
+      "Size": 1884717764,
+      "NumberOfArchives": 3571,
+      "SizeOfArchives": 226573184223,
+      "NumberOfInstalledFiles": 624796,
+      "SizeOfInstalledFiles": 431580877800
+    },
+    "version": "0.1.0",
+    "dateCreated": "2024-10-11T00:29:21.3353955Z",
+    "dateUpdated": "2024-10-11T00:29:21.3353955Z",
+    "repositoryName": "FILFY"
   }
 ]
