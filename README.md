@@ -1,7 +1,8 @@
 # FANTASTICALLY INTEGRATED LOAD-ORDER FOR YOU
 ###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
-### CAUTION: Adding mods to this list will only work if you know what you're doing. All plugins are ESM flagged, which means you cannot add any plugins that aren't ESM flagged without going through multiple steps in xEdit.
+> [!WARNING]
+> Adding mods to this list will only work if you know what you're doing. All plugins are ESM flagged, which means you cannot add any plugins that aren't ESM flagged without going through multiple steps in xEdit.
 
 ---
 
@@ -13,7 +14,11 @@
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_RECOMMENDED.svg" width="28"> &nbsp; 32GB+ DDR4 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_REQUIRED.svg" width="28"> &nbsp; 24GB DDR4 |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_RECOMMENDED.svg" width="24"> &nbsp; ~510GB of Free Space on PCIE4x4 NVME | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_REQUIRED.svg" width="24"> &nbsp; ~510GB of Free Space on SATA 3 SSD |
 
-###### If you do not use the bundled FSR/DLSS/XeSS, you might see crashing with only 8GB of VRAM. This is caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
+> [!CAUTION]
+> Failing to meet the REQUIRED SPECS **will** cause bugs, glitches, and crashes unrelated to the mods. Make sure you double check that you meet requirements!
+
+> [!IMPORTANT]
+> If you do not use the bundled FSR/DLSS/XeSS, you might see crashing with only 8GB of VRAM. This is caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
 
 ---
 
