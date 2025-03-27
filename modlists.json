@@ -28,23 +28,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1713053767-1827315830.png",
       "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_e4128e35-d377-4e2e-a3ea-dbf30f6a6001",
+      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_2f9dbece-7a42-4677-af64-0360f7b17e7d",
       "machineURL": "FILFY",
-      "discordURL": "https://discord.gg/ag6FSESCK6",
-      "websiteURL": ""
+      "discordURL": "https://discord.gg/ag6FSESCK6"
     },
     "download_metadata": {
-      "Hash": "taFtoWStVqU=",
-      "Size": 541309460,
-      "NumberOfArchives": 3657,
-      "SizeOfArchives": 220175448693,
-      "NumberOfInstalledFiles": 598791,
-      "SizeOfInstalledFiles": 398849753532,
-      "TotalSize": 619025202225
+      "Hash": "UsguaKcqwz0=",
+      "Size": 542032170,
+      "NumberOfArchives": 3665,
+      "SizeOfArchives": 220180390502,
+      "NumberOfInstalledFiles": 598816,
+      "SizeOfInstalledFiles": 398858487930
     },
-    "version": "1.4.9.8",
+    "version": "1.4.9.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-27T04:34:12.1548633Z",
+    "dateUpdated": "2025-03-27T21:06:30.0059813Z",
     "repositoryName": ""
   },
   {
@@ -70,8 +68,7 @@
       "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_4286e82e-32cc-4323-bc65-c7ecccab1174",
       "machineURL": "TheMethod",
-      "discordURL": "https://discord.gg/ag6FSESCK6",
-      "websiteURL": ""
+      "discordURL": "https://discord.gg/ag6FSESCK6"
     },
     "download_metadata": {
       "Hash": "vkAj4/hpqto=",
@@ -79,8 +76,7 @@
       "NumberOfArchives": 367,
       "SizeOfArchives": 29699492605,
       "NumberOfInstalledFiles": 14405,
-      "SizeOfInstalledFiles": 33579099460,
-      "TotalSize": 63278592065
+      "SizeOfInstalledFiles": 33579099460
     },
     "version": "0.2.5",
     "dateCreated": "2024-10-11T00:29:21.3353955Z",
