@@ -480,6 +480,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `U`: Character Stat Menu | `Tab`: Tween Menu |
 | `H`: Call Horse | `PrintScreen`: Screenshot | |
 | `L`: Toggle Lantern Light | `.`: Toggle Unarmed |
+| `V`: Dual Wield Block |  |
 | `;`: Teleport Followers |  |
 | `'`: Swiftly Order Swad |  |
 | `=`: Animated Interactions Menu |  |
