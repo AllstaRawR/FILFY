@@ -488,6 +488,8 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `F1`: Open SKSE Menu Framework | |
 | `F2`: Open Mod Function Menu | |
 
+ <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Layout_400.webp">
+
 </details>
 
 ---
@@ -638,20 +640,20 @@ Finally, multiple methods of safety have been added. The game will reload a save
 </details>
 
 <details open>
-  <summary>2.0.X</summary>
+  <summary>1.4.X</summary>
 
 - [x] Update all currently installed mods from 1.3.RC
 - [x] Progress through the tracked queue for Mods to integrate
-- [ ] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
-- [ ] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
-- [ ] Convert remaining Books to SkyPatcher to remove 10-20 plugins
-- [ ] Convert remaining Enchantments to SkyPatcher to remove 25-50 plugins
-- [ ] Convert remaining Factions to SkyPatcher to remove 25-50 plugins
+- [x] Convert remaining LLs to SkyPatcher to remove 250-500 plugins
+- [x] Convert remaining Containers to SkyPatcher to remove 50-100 plugins
+- [x] Convert remaining Books to SkyPatcher to remove 10-20 plugins
+- [x] Convert remaining Enchantments to SkyPatcher to remove 25-50 plugins
+- [x] Convert remaining Factions to SkyPatcher to remove 25-50 plugins
 
 </details>
 
 <details>
-  <summary>Someday</summary>
+  <summary>2.0.X</summary>
   
 - [ ] Update DIALs per Elminster
 - [ ] Redo WACCF plugin w/ SkyPatcher
