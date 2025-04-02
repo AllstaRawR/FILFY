@@ -639,7 +639,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
-<details open>
+<details>
   <summary>1.4.X</summary>
 
 - [x] Update all currently installed mods from 1.3.RC
@@ -652,7 +652,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
 </details>
 
-<details>
+<details open>
   <summary>2.0.X</summary>
   
 - [ ] Update DIALs per Elminster
