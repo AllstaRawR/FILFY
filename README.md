@@ -14,11 +14,10 @@
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_RECOMMENDED.svg" width="28"> &nbsp; 32GB+ DDR4 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_REQUIRED.svg" width="28"> &nbsp; 24GB DDR4 |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_RECOMMENDED.svg" width="24"> &nbsp; ~510GB of Free Space on PCIE4x4 NVME | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_REQUIRED.svg" width="24"> &nbsp; ~510GB of Free Space on SATA 3 SSD |
 
+---
+
 > [!CAUTION]
 > Failing to meet the REQUIRED SPECS **will** cause bugs, glitches, and crashes unrelated to the mods. Make sure you double check that you meet requirements! This is likely caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
-
-> [!IMPORTANT]
-> If you have any additional questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
 
 ---
 
@@ -47,7 +46,10 @@ This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fa
 
 If you want to improve either the default performance of the the default graphical fidelity, navigate to [Optional Graphical Adjustments](#optional-graphical-adjustments) after installation. This can significantly improve the visuals or performance, at the cost of the alternative.
 
-This list works great with a controller, but you will need to disable `Elden Power Attack` in the left panel of MO2.
+---
+
+> [!IMPORTANT]
+> If you have any additional questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
 
 ---
 
