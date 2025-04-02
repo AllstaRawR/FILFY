@@ -15,17 +15,15 @@
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_RECOMMENDED.svg" width="24"> &nbsp; ~510GB of Free Space on PCIE4x4 NVME | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_REQUIRED.svg" width="24"> &nbsp; ~510GB of Free Space on SATA 3 SSD |
 
 > [!CAUTION]
-> Failing to meet the REQUIRED SPECS **will** cause bugs, glitches, and crashes unrelated to the mods. Make sure you double check that you meet requirements!
+> Failing to meet the REQUIRED SPECS **will** cause bugs, glitches, and crashes unrelated to the mods. Make sure you double check that you meet requirements! This is likely caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
 
 > [!IMPORTANT]
-> If you do not use the bundled FSR/DLSS/XeSS, you might see crashing with only 8GB of VRAM. This is caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
+> If you have any additional questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6).
 
 ---
 
 ### TABLE OF CONTENTS 
 ###### You can skip to any desired section with the table of contents below.
-
-If your issue is that Wabbajack cannot download missing files, please skip to [this section](https://github.com/AllstaRawR/FILFY/blob/main/README.md#fixing-stuck-downloads-in-wabbajack) and manually download these files to place inside of your Wabbajack downloads folder. If you have any additional questions not answered in the [Common Issues](#common-issues) section, please ask in our public [Discord Server](https://discord.gg/ag6FSESCK6). I will then make an effort to add them to the list here.
 
 | FILFY TABLE OF CONTENTS|
 | ----------- |
