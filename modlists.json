@@ -28,21 +28,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/115534/115534-1713053767-1827315830.png",
       "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_fa4bc2f1-412b-4c2e-9c95-978baffd2526",
+      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_d8dbdf65-d234-4c39-a0c2-aedf2269f339",
       "machineURL": "FILFY",
       "discordURL": "https://discord.gg/ag6FSESCK6"
     },
     "download_metadata": {
-      "Hash": "OBB6RoR4ELU=",
-      "Size": 542114482,
-      "NumberOfArchives": 3672,
-      "SizeOfArchives": 220478569552,
-      "NumberOfInstalledFiles": 600169,
-      "SizeOfInstalledFiles": 399361639551
+      "Hash": "Od6fXMWIup8=",
+      "Size": 545382697,
+      "NumberOfArchives": 3742,
+      "SizeOfArchives": 219923385372,
+      "NumberOfInstalledFiles": 586417,
+      "SizeOfInstalledFiles": 402418843953
     },
-    "version": "1.4.9.10",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-29T05:34:55.2232718Z",
+    "dateUpdated": "2025-04-02T03:56:28.0216389Z",
     "repositoryName": ""
   },
   {
