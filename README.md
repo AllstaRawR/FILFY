@@ -10,7 +10,7 @@
 | ----------- | ----------- |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_RECOMMENDED.svg" width="28"> &nbsp; [40GB Windows Pagefile](https://www.reddit.com/r/wildlander/comments/s9ca0y/ctd_and_pagefile_size/) | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_REQUIRED.svg" width="28"> &nbsp; [20GB Windows Pagefile](https://www.reddit.com/r/wildlander/comments/s9ca0y/ctd_and_pagefile_size/) |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/4db34405eeaca0239ac27c0665dd9c4c28fed357/FILFY/Icons/SpecSheet_CPU_FILFY.svg" width="24"> &nbsp; Intel Core i7-9700K | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/5265583b7a73410aa184bfafb76d1cca86bfc84e/FILFY/Icons/SpecSheet_CPU_FILFY_REQUIRED.svg" width="24"> &nbsp; Intel Core i3-8100 |
-| <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/77168c4033189e900831515fa527c1bb1ae49b19/FILFY/Icons/SpecSheet_GPU_FILFY_RECOMMENDED.svg" width="24"> &nbsp; 16GB+ VRAM | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/77168c4033189e900831515fa527c1bb1ae49b19/FILFY/Icons/SpecSheet_GPU_FILFY_REQUIRED.svg" width="24"> &nbsp; 12GB VRAM |
+| <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/77168c4033189e900831515fa527c1bb1ae49b19/FILFY/Icons/SpecSheet_GPU_FILFY_RECOMMENDED.svg" width="24"> &nbsp; 12GB+ VRAM | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/77168c4033189e900831515fa527c1bb1ae49b19/FILFY/Icons/SpecSheet_GPU_FILFY_REQUIRED.svg" width="24"> &nbsp; 8GB VRAM |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_RECOMMENDED.svg" width="28"> &nbsp; 32GB+ DDR4 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_RAM_FILFY_REQUIRED.svg" width="28"> &nbsp; 24GB DDR4 |
 | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_RECOMMENDED.svg" width="24"> &nbsp; ~510GB of Free Space on PCIE4x4 NVME | <img src="https://raw.githubusercontent.com/RevontuletCXVII/Image-Vault/7b2db02fb47d89f7d002aaf4c3a8523f79c1ec0e/FILFY/Icons/SpecSheet_Storage_FILFY_REQUIRED.svg" width="24"> &nbsp; ~510GB of Free Space on SATA 3 SSD |
 
@@ -540,25 +540,6 @@ Finally, multiple methods of safety have been added. The game will reload a save
 
     ![Screenshot 2024-04-18 204840](https://github.com/AllstaRawR/FILFY/assets/164591926/e11f2035-22b8-4d49-a7d8-e92f6e46c7e2)
 
-<details>
-  <summary>File Download Links</summary>
-
-   * [Dint Hair Pack 2 (v1.11)](https://drive.google.com/uc?export=download&id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ)
-   * [Dint BDOR Hairs (v0.17.7)](https://drive.google.com/uc?export=download&id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3)
-   * [Strange Piercings](https://www.mediafire.com/file/rwynzbu2mstm683/NewMiller_Strange.7z/file)
-   * [Pubic Hairs Overlays](https://drive.google.com/uc?export=download&id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG)
-   * [SMP Vanilla Chokers and Earrings](https://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file)
-   * [Knight Girl Armor](https://www.mediafire.com/file/4wdvgnua8zel039/[Christine]+Knight+Girl.7z/file)
-   * [Venom Blade Maiden Outgit](https://www.mediafire.com/file/31rtp8makdnazxi/[Christine]+Venom+Blade+Maiden.7z/file)
-   * [Guardian Kharoxia Clothes](https://drive.google.com/uc?export=download&id=1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK)
-   * [Sorceress Papillo Outfit](https://drive.google.com/uc?export=download&id=1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM)
-   * [Forgotten Princess Armor](https://drive.google.com/uc?export=download&id=12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P)
-   * [xEdit 4.1.5F](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
-   * [Dark Rose MO2 Theme](https://github.com/AllstaRawR/FILFY/raw/main/sources/Revontulet-DarkRose.rar)
-   * [Heels Sound 1.6](https://www.mediafire.com/file/k560cet0bpgeoub/Heels_Sound_1.6_SSE-AE-62502-1-6-1679478010.rar/file)
-
-</details>
-
 ---
 
 ### Roadmap
@@ -655,6 +636,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 <details open>
   <summary>2.0.X</summary>
   
+- [x] Create VRAMr outputs to allow lower VRAM users to run the list
 - [ ] Update DIALs per Elminster
 - [ ] Redo WACCF plugin w/ SkyPatcher
 - [ ] Redo ACE plugin w/ SkyPatcher
