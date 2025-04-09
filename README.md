@@ -202,6 +202,8 @@ There are a few different options to improve your graphical fidelity. MO2 now au
 
 </details>
 
+#
+
 <details>
   <summary>VRAMr Texture Optimization</summary>
 
