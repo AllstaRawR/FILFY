@@ -492,7 +492,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `Y`: Taunt | `~`: Console Commands |
 | `U`: Character Stat Menu | `Tab`: Tween Menu |
 | `H`: Call Horse | `PrintScreen`: Screenshot | |
-| `L`: Toggle Lantern Light | `.`: Toggle Unarmed |
+| `L`: Toggle Minimap | `.`: Toggle Unarmed |
 | `V`: Dual Wield Block |  |
 | `;`: Teleport Followers |  |
 | `'`: Swiftly Order Swad |  |
