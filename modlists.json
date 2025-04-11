@@ -28,21 +28,23 @@
     "links": {
       "image": "https://i.imgur.com/8PdLdGR.jpeg",
       "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_4cc9b044-3074-4e82-b883-dbe12e5bb528",
+      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_cdaf38c0-242e-46fd-b1e5-c8d0f9671aae",
       "machineURL": "FILFY",
-      "discordURL": "https://discord.gg/ag6FSESCK6"
+      "discordURL": "https://discord.gg/ag6FSESCK6",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "owhCaosPKIE=",
-      "Size": 588996123,
-      "NumberOfArchives": 3752,
-      "SizeOfArchives": 225147399531,
-      "NumberOfInstalledFiles": 589145,
-      "SizeOfInstalledFiles": 410976079660
+      "Hash": "GgDfPY3Lb34=",
+      "Size": 1237055392,
+      "NumberOfArchives": 3754,
+      "SizeOfArchives": 225215422923,
+      "NumberOfInstalledFiles": 604116,
+      "SizeOfInstalledFiles": 431352532983,
+      "TotalSize": 656567955906
     },
-    "version": "2.0.7.1",
+    "version": "2.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-04-10T00:41:24.3015774Z",
+    "dateUpdated": "2025-04-11T09:18:08.8451949Z",
     "repositoryName": ""
   },
   {
@@ -68,7 +70,8 @@
       "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_4286e82e-32cc-4323-bc65-c7ecccab1174",
       "machineURL": "TheMethod",
-      "discordURL": "https://discord.gg/ag6FSESCK6"
+      "discordURL": "https://discord.gg/ag6FSESCK6",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "vkAj4/hpqto=",
@@ -76,7 +79,8 @@
       "NumberOfArchives": 367,
       "SizeOfArchives": 29699492605,
       "NumberOfInstalledFiles": 14405,
-      "SizeOfInstalledFiles": 33579099460
+      "SizeOfInstalledFiles": 33579099460,
+      "TotalSize": 63278592065
     },
     "version": "0.2.5",
     "dateCreated": "2024-10-11T00:29:21.3353955Z",
