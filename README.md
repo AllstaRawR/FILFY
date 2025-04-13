@@ -2,7 +2,7 @@
 ###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
 > [!WARNING]
-> Adding mods to this list will only work if you know what you're doing. All plugins are ESM flagged, which means you cannot add any plugins that aren't ESM flagged without going through multiple steps in xEdit.
+> This modlist will sometimes crash during either the launch of the RaceMenu or the closing of the RaceMenu during character creation. This is caused by the massive number of mods loading in at once. This is *only an issue during character creation*. If you have great hardware, you'll likely have no issues. If you have lower end hardware, you might have to try 1-3 times.
 
 ---
 
