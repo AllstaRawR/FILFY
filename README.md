@@ -208,12 +208,19 @@ There are a few different options to improve your graphical fidelity. MO2 now au
   <summary>VRAMr Texture Optimization</summary>
 
 1. VRAMr is a tool that allows you to downscale and optimize textures, especially by adding mipmaps to them, which will make them take more storage space, but allow the game to perform better.
-2. The tool itself is already bundled w/ F.I.L.F.Y. and your output can be pasted in the mod `VRAMR OUTPUT GOES HERE` under the `Optional` section.
-
+2. VRAMr output is currently generated with F.I.L.F.Y. with the High Quality preset under `Output - VRAMr` and pre generated. If you want to generate your own output you can with the following steps.
+3. The tool itself is already bundled w/ F.I.L.F.Y. Remove the current output of you want to make your own!
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/vram%20shortcut.png" width="70%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/vramr%20output.png" width="70%"></img>
+4. You can then follow [this guide](https://youtu.be/MS8vhuyeT2g) to run VRAMr and generate your own output with a different preset.
 
-3. You can follow [this guide](https://youtu.be/MS8vhuyeT2g) to run VRAMr and generate your own output.
+</details>
+
+#
+
+<details>
+  <summary>In Game Brightness</summary>
+
+1. I will update this more later, but the general summary is that there is a mod under optional called Lux - Different Brightness Options and you can select whichever brighter plugin option you desire to enable.
 
 </details>
 
