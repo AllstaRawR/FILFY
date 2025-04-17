@@ -208,7 +208,7 @@ There are a few different options to improve your graphical fidelity. MO2 now au
   <summary>VRAMr Texture Optimization</summary>
 
 1. VRAMr is a tool that allows you to downscale and optimize textures, especially by adding mipmaps to them, which will make them take more storage space, but allow the game to perform better.
-2. VRAMr output is currently generated with F.I.L.F.Y. with the High Quality preset under `Output - VRAMr` and pre generated. If you want to generate your own output you can with the following steps.
+2. VRAMr output for F.I.L.F.Y. is pre-generated with the High Quality preset under `Output - VRAMr`. If you want to generate your own output you can with the following steps.
 3. The tool itself is already bundled w/ F.I.L.F.Y. Remove the current output of you want to make your own!
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/vram%20shortcut.png" width="70%"></img>
 4. You can then follow [this guide](https://youtu.be/MS8vhuyeT2g) to run VRAMr and generate your own output with a different preset.
