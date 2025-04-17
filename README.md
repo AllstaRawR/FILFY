@@ -40,7 +40,7 @@
 ---
 
 ### FEATURE OVERVIEW
-###### There is no sexually explicit content in this Wabbajack, but there is artistic nudity. If you would like to add or remove this content, it is under the `Optional (Cheats, Nudity, etc.)` header in MO2 and can be enabled or disabled.
+###### There is no sexually explicit content in this Wabbajack, but there is artistic nudity. If you would like to add or remove this content, it is under the `Optional & Auto-Toggles` header in MO2 and can be enabled or disabled.
 
 This Wabbajack uses multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. You'll have to look at the gallery below and keep reading, or you can skip to the [Feature List](#feature-list). Following up on the above disclaimer, body files for the player character and NPCs are nude, but `N.U.D.E` distributes underwear to any non-player character when the clothing on their bodyslot is removed. If you desire them to be naked, *weirdo*, you can then remove the underwear that was distributed to them dynamically. Maybe you want to collect them all or something, whatevs. *Weirdo*.
 
@@ -165,11 +165,11 @@ There are a few different options to improve your graphical fidelity. MO2 now au
 <details>
   <summary>Switching to ENB or Community Shaders</summary>
 
-1. If you desire to switch manually, the following plugins in the `Optional` section would need to be enabled for ENB. You can choose to enable either Option 1 or Option 2.
+1. If you desire to switch manually, the following plugins in the `Optional & Auto-Toggles` section would need to be enabled for ENB. You can choose to enable either Option 1 or Option 2.
 
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Screenshot%202025-04-05%20070818.png" width="75%"></img>
 
-2. In order to use Community Shaders you would simply ensure that all plugins above labeled ENB inside the `Optional` section are disabled.
+2. In order to use Community Shaders you would simply ensure that all plugins above labeled ENB inside the `Optional & Auto-Toggles` section are disabled.
 
 </details>
 
@@ -220,7 +220,7 @@ There are a few different options to improve your graphical fidelity. MO2 now au
 <details>
   <summary>In Game Brightness</summary>
 
-1. If you find the desired brightness to be too dark (you're crazy, caves are meant to be dark, just use a lantern!), then you can enable the mod under the `Option & Auto-Toggles` section called `Lux - Brighter Dungeons & Interiors - SELECT DESIRED PLUGIN`. There are multiple plugins inside, pick the one(s) you want to use and enable them at the bottom of the load order. :)
+1. If you find the desired brightness to be too dark (you're crazy, caves are meant to be dark, just use a lantern!), then you can enable the mod under the `Optional & Auto-Toggles` section called `Lux - Brighter Dungeons & Interiors - SELECT DESIRED PLUGIN`. There are multiple plugins inside, pick the one(s) you want to use and enable them at the bottom of the load order. :)
 
 </details>
 
@@ -443,11 +443,11 @@ Finally, multiple methods of safety have been added. The game will reload a save
 <details>
   <summary>"Non-Immersive" Adjustments & Nudity</summary>
 
-* There are a few mods that add nudity to the game. I have enabled them by default. You are free to disable them (under the `Optional (Cheats, Nudity, etc.)` header in MO2) as you wish.
+* There are a few mods that add nudity to the game. I have enabled them by default. You are free to disable them (under the `Optional & Auto-Toggles` header in MO2) as you wish.
   * They are `Add...`, `and`, `and`, and finally `this`.
 * Something might happen if you mention Sweet Rolls. Or the Cloud District. Just a heads up.
   * I also 100% do not recommend mentioning arrows in any sort of body part. Lightning never strikes twice, and you wouldn't want to make it a liar, would you?
-* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." They are under the `Optional (Cheats, Nudity, etc.)` header in MO2 and are called `Infinite Magicka Out of Combat`, `Infinite Shouting Out of Combat`, and `Infinite Stamina Out of Combat`. They can be disabled at any time.
+* I absolutely hate running out of stamina while sprinting when I'm not even in combat, so I have three plugins enabled that are "cheats." They are under the `Optional & Auto-Toggles` header in MO2 and are called `Infinite Magicka Out of Combat`, `Infinite Shouting Out of Combat`, and `Infinite Stamina Out of Combat`. They can be disabled at any time.
 
 </details>
 
