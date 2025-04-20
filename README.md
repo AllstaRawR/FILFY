@@ -192,12 +192,13 @@ There are a few different options to improve your graphical fidelity. MO2 now au
 <details>
   <summary>Skyrim Upscaler Adjustments</summary>
 
-1. You can open the `Skyrim Upscaler` menu in the game by pressing the `Page Down` key on your keyboard (unless you are on the ENB profile, in while case it is disabled). Once opened, it will look like this:
-2. The upscaler is defaulted to `FSR2`. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`
+~~1. You can open the `Skyrim Upscaler` menu in the game by pressing the `Page Down` key on your keyboard (unless you are on the ENB profile, in while case it is disabled). Once opened, it will look like this:~~
 
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/47ab5167-feb4-47fe-a67b-df0ead4648e2" width="45%"></img>
 <img src="https://github.com/AllstaRawR/FILFY/assets/164591926/f9acaa93-a0d5-447d-ad83-ae54504f856f" width="45%"></img>
 
+1. The latest version of the Upscaler was shipped with a broken UI. If you want to change the settings, you need to do it through the INI file located at: `.\Deployments\Community Shaders - Skyrim Upscaler - NOT WITH FRAME GENERATION\SKSE\Plugins\SkyrimUpscaler.ini`.
+2. The upscaler is defaulted to `FSR2`. The setting for `Upscaler Type` is defaulted to `FSR2 Performance`, as that is the preset that works on almost all modern hardware. If you have a nVidia GPU, you should switch to `DLSS`, as it will provide more fidelity at around the same performance. You can also select different performance targets under `Quality Level`.
 3. If you would prefer *more graphical fidelity*, rather than more performance, and you have an nVidia GPU, you can switch the upscaler to `DLAA`. This is a dramatically superior anti-aliasing technique over FXAA or TXAA.
 
 </details>
