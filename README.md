@@ -145,13 +145,15 @@ If you want to improve either the default performance of the the default graphic
 
 ### Optional Graphical Adjustments
 
-There are a few different options to improve your graphical fidelity. MO2 now automatically detects your graphics settings and defaults to the recommended specification for ENB or Community Shaders. 
+There are a few different options to improve your graphical fidelity. MO2 now automatically detects your graphics settings and defaults to the recommended specification for ~~ENB or Community Shaders~~ your total VRAM. 
 
 <details>
   <summary>Switching to ENB or Community Shaders</summary>
 
 1. ENB has been removed to provide proper support for PBR textures.
+2. 
 ~~1. If you desire to switch manually, the following plugins in the `Optional & Auto-Toggles` section would need to be enabled for ENB. You can choose to enable either Option 1 or Option 2.~~
+
 ~~2. In order to use Community Shaders you would simply ensure that all plugins above labeled ENB inside the `Optional & Auto-Toggles` section are disabled.~~
 
 </details>
