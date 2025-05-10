@@ -368,10 +368,11 @@ Finally, multiple methods of safety have been added. The game will reload a save
 * `Paragliding in Skyrim` has been added, feel free to glide like the Nintendon't hero that you aren't.
 * Enemies have been added from many different sources, such as `Mihail` and `4th Unknown`. There are all sorts of Morrowind and Oblivion enemies re-introduced.
   * Some are scary. The world is unleveled and has `Missing Encounter Zones Fixed`. Be careful out there.
-  * I don't even need to start on dragons. Sure, there's `Deadly Dragons` and `Diverse Dragons`, but have you heard of `Infinite Dragon Variants`? We have it all folks.
+  * I don't even need to start on dragons. Sure, there's `Deadly Dragons` and `Diverse Dragons`, but have you heard of `Diverse 4thUnknown Dragons`? We have it all folks.
   * Sadly, `Fury` does not allow you to tame dragons. I think?
 * Thankfully, there is a lot of both weapon types and magic spells, meaning you will eventually be able to slay all the baddies. Or you can cast a waterwalking spell from `Mysticism` or `Apocalypse` and laugh as your enemies try to swim to you. You do you.
-* If those baddies do successfully end you, `Stay In The Fight` allows you to, well, stay in the fight, but at a cost.
+* ~~If those baddies do successfully end you, `Stay In The Fight` allows you to, well, stay in the fight, but at a cost.~~
+* If those baddies do successfully end you, `Stages of Suffering` allows you to stay in the fight, but at a cost.
 
 </details>
 
