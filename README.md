@@ -464,7 +464,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ---
 
 ### SHORTCUT KEYS
-###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist.
+###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist. The easiest way to view this is to press `F11` in game, or press `A` + `Double Tap D-Pad Left`.
 
 <details>
   <summary>Key Codes</summary>
@@ -472,29 +472,29 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | Mod Added/Adjusted Shortcuts | Vanilla Shortcuts |
 | ------------------ | ------- |
 | `PageDown`: Skyrim Upscaler | `Tab` -> `T`: Waiting (Only available in the Tween Menu) |
-| `PageUp`: ReShade | `Left Alt`: Sprint (Hold) |
+| `PageUp`: ReShade (If Enabled) | `Left Alt`: Sprint (Hold) |
 | `Home`: dMenu | `Left Control`: Auto-Run |
 | `Backspace`: Immersive Equipment Displays | `Left Shift`: Power Attack (Hold) |
 | `End`: Community Shaders | `F12`: Steam Screenshot |
-| `Shift + O`: Open Animation Replacer | `C`: Sneak |
+| `Insert`: Open Animation Replacer | `C`: Sneak |
 | `Left Alt`: Dodge (Press) | `Q`: Favorites |
 | `F6`: Toggle UI | `I`: Inventory |
 | `F7`: KreatE (Weather adjustments) | `P`: Spells |
-| `Shift + D`: Dialogue History | `F`: First/Third Person Toggle |
+| `K`: Beastiary | `F`: First/Third Person Toggle |
 | `O`: oBody Menu | `J`: Journal |
 | `R`: Sheathe/Unsheathe | `M`: Map |
 | `T`: Wheeler Menu | `/`: Skill Menu |
 | `Y`: Taunt | `~`: Console Commands |
 | `U`: Character Stat Menu | `Tab`: Tween Menu |
-| `H`: Call Horse | `PrintScreen`: Screenshot | |
-| `L`: Toggle Minimap | `.`: Toggle Unarmed |
+| `H`: Call Horse | `PrintScreen`: Screenshot |
+| `L`: Toggle Minimap | |
 | `V`: Dual Wield Block |  |
 | `;`: Teleport Followers |  |
 | `'`: Swiftly Order Swad |  |
-| `=`: Animated Interactions Menu |  |
-| `Shift + E`: Simplicity of Stalking |  |
 | `F1`: Open SKSE Menu Framework | |
 | `F2`: Open Mod Function Menu | |
+| `F6`: Hide UI | |
+| `F11`: Open Controls Summary | |
 
  <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Layout_400.webp">
 
