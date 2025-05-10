@@ -69,21 +69,6 @@ If you want to improve either the default performance of the the default graphic
 <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412015936_1.jpg" width="30%"></img> <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/main/screenshots/20240412020002_1.jpg" width="30%"></img>
 </details>
 
-#
-
-<details>
-  <summary>ENB</summary>
-
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/b578e4b6-242d-464a-b6d4-aadbd05f7fb7" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/cbc407c5-69ca-48a8-91b4-0f1307bf2fe2" width="30%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/cc70da0a-d338-4fe9-98af-0745fe95cbdd" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/530b1a51-ae88-4e92-a3c5-c9bc6406ed2d" width="30%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/5c7548f7-ad3b-4cea-a522-fcbb09b9a563" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/59c59f70-5cda-411c-818b-cdf506db324f" width="30%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/5384aa17-bc4f-4295-9b4e-a50eda3b8e56" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/3352bf14-dad0-4e5e-81cf-87d69333b4a5" width="30%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/bf95d923-3ce8-4b21-8f54-7079f5700b61" width="30%"></img><img src="https://github.com/AllstaRawR/FILFY/assets/164591926/12e9dffa-3153-42dc-ad4e-01d018b48db6" width="30%"></img>
-<img src="https://github.com/AllstaRawR/FILFY/assets/164591926/4b7a6517-6294-45c4-abc2-f39f692344e8" width="30%"></img>
-
-
-</details>
-
 ---
 
 ### WABBAJACK INSTALLATION GUIDE
@@ -165,11 +150,9 @@ There are a few different options to improve your graphical fidelity. MO2 now au
 <details>
   <summary>Switching to ENB or Community Shaders</summary>
 
-1. If you desire to switch manually, the following plugins in the `Optional & Auto-Toggles` section would need to be enabled for ENB. You can choose to enable either Option 1 or Option 2.
-
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Screenshot%202025-04-05%20070818.png" width="75%"></img>
-
-2. In order to use Community Shaders you would simply ensure that all plugins above labeled ENB inside the `Optional & Auto-Toggles` section are disabled.
+1. ENB has been removed to provide proper support for PBR textures.
+~~1. If you desire to switch manually, the following plugins in the `Optional & Auto-Toggles` section would need to be enabled for ENB. You can choose to enable either Option 1 or Option 2.~~
+~~2. In order to use Community Shaders you would simply ensure that all plugins above labeled ENB inside the `Optional & Auto-Toggles` section are disabled.~~
 
 </details>
 
@@ -221,7 +204,9 @@ There are a few different options to improve your graphical fidelity. MO2 now au
 <details>
   <summary>In Game Brightness</summary>
 
-1. If you find the desired brightness to be too dark (you're crazy, caves are meant to be dark, just use a lantern!), then you can enable the mod under the `Optional & Auto-Toggles` section called `Lux - Brighter Dungeons & Interiors - SELECT DESIRED PLUGIN`. There are multiple plugins inside, pick the one(s) you want to use and enable them at the bottom of the load order. :)
+1. If you find the desired brightness to be too dark (you're crazy, caves are meant to be dark, just use a lantern!), then you can enable the mod under the `Optional & Auto-Toggles` section called `Placed Light - SWAP PLUGIN FOR BRIGHTNESS CHANGES`. There are multiple plugins inside, pick the one(s) you want to use and enable them at the bottom of the load order. :)
+
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Plugin%20Brightness.png" width="70%"></img>
 
 </details>
 
