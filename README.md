@@ -466,13 +466,13 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ### SHORTCUT KEYS
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist. The easiest way to view this is to press `F11` in game, or press `A` + `Double Tap D-Pad Left`.
 
-<details>
+<details open>
   <summary>Control Images</summary>
 
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%201.jpg" width="70%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%202.jpg" width="70%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%203.jpg" width="70%"></img>
-<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%204.jpg" width="70%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%201.jpg" width="90%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%202.jpg" width="90%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%203.jpg" width="90%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%204.jpg" width="90%"></img>
 
 </details>
 
