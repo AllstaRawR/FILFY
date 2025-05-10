@@ -467,6 +467,16 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist. The easiest way to view this is to press `F11` in game, or press `A` + `Double Tap D-Pad Left`.
 
 <details>
+  <summary>Control Images</summary>
+
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%201.jpg" width="70%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%202.jpg" width="70%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%203.jpg" width="70%"></img>
+<img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Controls%20-%204.jpg" width="70%"></img>
+
+</details>
+
+<details>
   <summary>Keyboard Key Codes</summary>
   
 | Mod Added/Adjusted Shortcuts | Vanilla Shortcuts |
@@ -476,7 +486,7 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `Home`: dMenu | `Left Control`: Auto-Run |
 | `Backspace`: Immersive Equipment Displays | `Left Shift`: Power Attack |
 | `End`: Community Shaders | `F12`: Steam Screenshot |
-| `Insert`: Open Animation Replacer | `C`: Sneak |
+| `Insert`: Animation Replacer | `C`: Sneak |
 | `Left Alt`: Dodge (Press) | `Q`: Favorites |
 | `K`: Beastiary | `F`: First/Third Person Toggle |
 | `O`: oBody Menu | `J`: Journal |
@@ -489,17 +499,17 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `V`: Dual Wield Block | `I`: Inventory |
 | `;`: Teleport Followers |  |
 | `'`: Swiftly Order Swad |  |
-| `F1`: Open SKSE Menu Framework | |
-| `F2`: Open Mod Function Menu | |
+| `F1`: SKSE Menu Framework | |
+| `F2`: Mod Function Menu | |
 | `F6`: Toggle UI |  |
 | `F7`: KreatE (Weather adjustments) |  |
-| `F11`: Open Controls Summary | |
+| `F11`: Controls Summary | |
 | `Shift` + `\`: Equipment Hotkeys | |
 
 </details>
 
-<details>color 
-  <summary>Controlley Buttons</summary>
+<details>
+  <summary>Controller Buttons</summary>
   
  <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Layout_400.webp">
 
