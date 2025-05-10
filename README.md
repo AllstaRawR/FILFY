@@ -467,19 +467,17 @@ Finally, multiple methods of safety have been added. The game will reload a save
 ###### Below is a _hopefully_ comprehensive list of all shortcut keys added in the modlist. The easiest way to view this is to press `F11` in game, or press `A` + `Double Tap D-Pad Left`.
 
 <details>
-  <summary>Key Codes</summary>
+  <summary>Keyboard Key Codes</summary>
   
 | Mod Added/Adjusted Shortcuts | Vanilla Shortcuts |
 | ------------------ | ------- |
 | `PageDown`: Skyrim Upscaler | `Tab` -> `T`: Waiting (Only available in the Tween Menu) |
 | `PageUp`: ReShade (If Enabled) | `Left Alt`: Sprint (Hold) |
 | `Home`: dMenu | `Left Control`: Auto-Run |
-| `Backspace`: Immersive Equipment Displays | `Left Shift`: Power Attack (Hold) |
+| `Backspace`: Immersive Equipment Displays | `Left Shift`: Power Attack |
 | `End`: Community Shaders | `F12`: Steam Screenshot |
 | `Insert`: Open Animation Replacer | `C`: Sneak |
 | `Left Alt`: Dodge (Press) | `Q`: Favorites |
-| `F6`: Toggle UI | `I`: Inventory |
-| `F7`: KreatE (Weather adjustments) | `P`: Spells |
 | `K`: Beastiary | `F`: First/Third Person Toggle |
 | `O`: oBody Menu | `J`: Journal |
 | `R`: Sheathe/Unsheathe | `M`: Map |
@@ -487,15 +485,22 @@ Finally, multiple methods of safety have been added. The game will reload a save
 | `Y`: Taunt | `~`: Console Commands |
 | `U`: Character Stat Menu | `Tab`: Tween Menu |
 | `H`: Call Horse | `PrintScreen`: Screenshot |
-| `L`: Toggle Minimap | |
-| `V`: Dual Wield Block |  |
+| `L`: Toggle Minimap | `P`: Spells |
+| `V`: Dual Wield Block | `I`: Inventory |
 | `;`: Teleport Followers |  |
 | `'`: Swiftly Order Swad |  |
 | `F1`: Open SKSE Menu Framework | |
 | `F2`: Open Mod Function Menu | |
-| `F6`: Hide UI | |
+| `F6`: Toggle UI |  |
+| `F7`: KreatE (Weather adjustments) |  |
 | `F11`: Open Controls Summary | |
+| `Shift` + `\`: Equipment Hotkeys | |
 
+</details>
+
+<details>color 
+  <summary>Controlley Buttons</summary>
+  
  <img src="https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/images/Layout_400.webp">
 
 </details>
