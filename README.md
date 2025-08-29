@@ -72,7 +72,7 @@ If you want to improve either the default performance of the the default graphic
 ---
 
 ### WABBAJACK INSTALLATION GUIDE
-###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.640. It should automatically downgrade for you when you run the Wabbajack, so you are safe to install whatever the latest version on Steam is (1.6.1170 as of writing). It will also take around 490GB of disk space, plus the 20GB from the vanilla Skyrim install.
+###### This list requires Skyrim Anniversary Edition, or all of the Creation Club content downloaded, and will run SSE version 1.6.1170. It will also take around 630GB of disk space, plus the 20GB from the vanilla Skyrim install.
 
 <details>
   <summary>Steps</summary>
