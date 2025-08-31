@@ -1,5 +1,5 @@
 # FANTASTICALLY INTEGRATED LOAD-ORDER FOR YOU
-###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/filfy-fantastically-integrated-load-order-for-you) for quick viewing without downloading.
+###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
 > [!WARNING]
 > This modlist will crash very often if you do not set your PageFile! If you do not know what this means, be sure to follow the instructions later in this guide!
