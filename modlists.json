@@ -11,14 +11,12 @@
     "tags": [
       "Official",
       "Anniversary Edition",
+      "BFCO",
       "Fantasy",
-      "MCO",
       "New Creatures",
       "New Worldspaces",
       "Only ESMs",
-      "Seasons",
-      "Seasonal Grass Cache",
-      "Survival"
+      "Seasons"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -87,4 +85,5 @@
     "dateUpdated": "2024-10-14T20:30:48.4622796Z",
     "repositoryName": "FILFY"
   }
+
 ]
