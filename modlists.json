@@ -40,7 +40,7 @@
       "SizeOfInstalledFiles": 511501554298,
       "TotalSize": 778913991306
     },
-    "version": "2.6.5.1",
+    "version": "2.6.5.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-09-01T19:19:30.3007589Z",
     "repositoryName": ""
@@ -87,5 +87,6 @@
   }
 
 ]
+
 
 
