@@ -1,8 +1,8 @@
 # FANTASTICALLY INTEGRATED LOAD-ORDER FOR YOU
 ###### If you would like to see the general contents of the list, it is available at [Load Order Library](https://loadorderlibrary.com/lists/fantastically-integrated-load-order-for-you) for quick viewing without downloading.
 
-> [!WARNING]
-> This modlist will crash very often if you do not set your PageFile! If you do not know what this means, be sure to follow the instructions later in this guide!
+> [!CAUTION]
+> This list primarily uses ESM plugins arranged in a very particular order. Adding mods, removing mods or otherwise altering the list yourself is strongly advised against and will not be officially supported.
 
 ---
 
@@ -17,7 +17,9 @@
 ---
 
 > [!CAUTION]
-> Failing to meet the REQUIRED SPECS **will** cause bugs, glitches, and crashes unrelated to the mods. Make sure you double check that you meet requirements! This is likely caused by the PAGEFILE being used instead of VRAM, which gets out of sync, and crashes the game. This is not an issue with this modlist.
+> This modlist will crash very often if you do not set your PageFile! If you do not know what this means, be sure to follow the instructions later in this guide!
+> 
+> Failing to meet the REQUIRED specs **will** cause bugs, glitches, and crashes unrelated to the mods. Make sure you double check that you meet requirements!
 
 ---
 
