@@ -32,7 +32,7 @@
       "websiteURL": "",
       "nexusCollection": null
     },
-    {
+    "download_metadata": {
       "Hash": "uuCW799h9k4=",
       "Size": 1376491639,
       "NumberOfArchives": 4163,
@@ -40,7 +40,7 @@
       "NumberOfInstalledFiles": 663869,
       "SizeOfInstalledFiles": 494358957118,
       "TotalSize": 757388801568
-},
+  },
     "version": "2.7.0.9",
     "dateCreated": "2026-04-04T04:36:54.0906014Z",
     "dateUpdated": "2026-04-04T04:36:54.0906014Z",
