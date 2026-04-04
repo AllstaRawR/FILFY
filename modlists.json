@@ -29,8 +29,7 @@
       "download": "https://build.wabbajack.org/authored_files/download/FILFY.wabbajack_96bbf6d1-e509-4ad1-ade5-2251415fe2a3",
       "machineURL": "FILFY",
       "discordURL": "https://discord.gg/ag6FSESCK6",
-      "websiteURL": "",
-      "nexusCollection": null
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "uuCW799h9k4=",
@@ -40,7 +39,7 @@
       "NumberOfInstalledFiles": 663869,
       "SizeOfInstalledFiles": 494358957118,
       "TotalSize": 757388801568
-  },
+    },
     "version": "2.7.0.9",
     "dateCreated": "2026-04-04T04:36:54.0906014Z",
     "dateUpdated": "2026-04-04T04:36:54.0906014Z",
@@ -67,24 +66,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AllstaRawR/TheMethod/refs/heads/main/TheMethod_WabbajackGallery.JPG",
       "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_4286e82e-32cc-4323-bc65-c7ecccab1174",
+      "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_550f53d8-3945-425b-92ac-d34b3e14ecfd",
       "machineURL": "TheMethod",
       "discordURL": "https://discord.gg/ag6FSESCK6",
-      "websiteURL": "",
-      "nexusCollection": null
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "vkAj4/hpqto=",
-      "Size": 143591074,
-      "NumberOfArchives": 367,
-      "SizeOfArchives": 29699492605,
-      "NumberOfInstalledFiles": 14405,
-      "SizeOfInstalledFiles": 33579099460,
-      "TotalSize": 63278592065
+      "Hash": "wvHtcnM/zNM=",
+      "Size": 581583890,
+      "NumberOfArchives": 345,
+      "SizeOfArchives": 44177640762,
+      "NumberOfInstalledFiles": 55672,
+      "SizeOfInstalledFiles": 56329664151,
+      "TotalSize": 100507304913
     },
-    "version": "0.2.5",
+    "version": "0.0.6",
     "dateCreated": "2024-10-11T00:29:21.3353955Z",
-    "dateUpdated": "2024-10-14T20:30:48.4622796Z",
+    "dateUpdated": "2026-04-04T05:41:14.5541942Z",
     "repositoryName": "FILFY"
   }
 ]
