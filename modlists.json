@@ -26,24 +26,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/screenshots/8PdLdGR.jpeg",
       "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_ef248128-18a9-4d91-aebd-b98af32c8729",
+      "download": "https://authored-files.wabbajack.org/FILFY.wabbajack_5ea18fcc-3217-45de-bb4b-8c15e1fa2a76",
       "machineURL": "FILFY",
       "discordURL": "https://discord.gg/ag6FSESCK6",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "FOeYxo+fi7E=",
-      "Size": 1376448795,
-      "NumberOfArchives": 4165,
-      "SizeOfArchives": 263030530992,
-      "NumberOfInstalledFiles": 663874,
-      "SizeOfInstalledFiles": 494360529283,
-      "TotalSize": 757391060275
+      "Hash": "cvE7zcciJ7M=",
+      "Size": 1392937010,
+      "NumberOfArchives": 4302,
+      "SizeOfArchives": 270116678311,
+      "NumberOfInstalledFiles": 681634,
+      "SizeOfInstalledFiles": 508816117516,
+      "TotalSize": 778932795827
     },
-    "version": "2.7.0.11",
+    "version": "2.7.1.2",
     "dateCreated": "2026-04-04T04:36:54.0906014Z",
-    "dateUpdated": "2026-04-22T17:51:50.3551211Z",
+    "dateUpdated": "2026-04-26T10:35:24.0433916Z",
     "repositoryName": ""
   },
   {
