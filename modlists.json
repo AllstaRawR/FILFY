@@ -67,24 +67,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AllstaRawR/TheMethod/refs/heads/main/TheMethod_WabbajackGallery.JPG",
       "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_89ed6334-f05d-42d3-b41c-7d7f5677a817",
+      "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_8c8d3054-fdcd-4304-85de-1e6994b7a3a4",
       "machineURL": "TheMethod",
       "discordURL": "https://discord.gg/ag6FSESCK6",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "ee7/awpsIkI=",
-      "Size": 853590672,
-      "NumberOfArchives": 829,
-      "SizeOfArchives": 64426112171,
-      "NumberOfInstalledFiles": 233166,
-      "SizeOfInstalledFiles": 118220786598,
-      "TotalSize": 182646898769
+      "Hash": "WuN50FrNDtc=",
+      "Size": 874815880,
+      "NumberOfArchives": 930,
+      "SizeOfArchives": 67530829692,
+      "NumberOfInstalledFiles": 238802,
+      "SizeOfInstalledFiles": 124260131995,
+      "TotalSize": 191790961687
     },
-    "version": "0.4.4",
+    "version": "0.5.0",
     "dateCreated": "2024-10-11T00:29:21.3353955Z",
-    "dateUpdated": "2026-11-20T02:17:25.4071087Z",
+    "dateUpdated": "2026-11-21T17:36:43.5436786Z",
     "repositoryName": "FILFY"
   }
 ]
